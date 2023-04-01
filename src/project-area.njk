@@ -1,0 +1,142 @@
+---
+title : Project Area | Galle
+layout: 'base.njk'
+---
+
+
+  <main>
+    <article>
+
+      <!-- 
+        - #HERO
+      -->
+
+      <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/11.jpg');">
+        <div class="container"> 
+            <h2 class="h2 hero-title title page-title" id="title">
+              Project Area <font-custom>Galle</font-custom>
+            </h2>
+          
+            <p class="hero-text" id="sub-title">
+              Discover the Community and Volunteer Opportunities in Galle, Sri Lanka
+            </p>
+
+           
+
+
+
+        </div>
+      </section> <!-- hero section pver -->
+
+
+
+
+
+
+
+
+
+
+
+      <section class="popular partner unset-align" id="destination" >
+        <div class="container">
+ 
+          <p class="section-subtitle"> Join us in making a difference in Sri Lanka </p>
+
+          <h2 class="h2 section-title">Exploring the Cultural Marvels of Galle City</h2>
+
+          <p class="section-text ">
+            Blessed with a variety of attractions such as pristine beaches, breathtaking coral reefs, virgin rainforests, the colossal fortress, Galle is a captivating tourist destination in Sri Lanka, situated on the southwestern tip of the island, 119 km south of Colombo. The administrative capital of Southern Province and the district capital of Galle District, Galle is the fourth largest city in Sri Lanka after the capital Colombo, Kandy and Jaffna. Hikkaduwa and Unawatuna are the nearby most popular tourist attractions.
+
+
+          </p>
+			
+		  <h3 class="h3 section-title">At a glance</h3>
+      <ul class="section-text">
+            <li>&emsp;• <b>Area</b> : 16.52 km<sup>2</sup></li>
+            <li>&emsp;• <b>Population</b> : Approx 100,000</li>
+            <li>&emsp;• <b>Distance</b> : 100 km south of Colombo <br>
+            <span style="margin-left:11ch;">(1-hr drive on Highway)</span></li>
+            <li>&emsp;• <b>Province</b> : Southern Province</li>
+            <li>&emsp;• <b>Climate</b> : Hot and humid over the year reaching <br>
+            <span style="margin-left:10ch;">max temperature up to 31oC and rainy from May to September.</span></li>
+          </ul>
+    
+		  <p class="section-text ">
+            History of Galle dates back to 14th century; it was the ancient seaport of Tarshish and King Solomon used it to draw valuables like elephants, peacocks, gemstones. Persians, Arabs, Greeks, Romans, Malays, Indians and Chinese have also used Galle seaport for their business activities during the 14th century. The Galle seaport has played a pivotal role in exportation of spices specially cinnamon from Sri Lanka in early 1400 BC. However, modern history of Galle dates back to 16th century. Portuguese navigators arrived in Galle in 1505 with Lourenco de Almeida and they fortified the city to defend the peninsula on the northern landside. But they were overthrown by the Dutch who arrived in Galle in 1640. Galle saw the pinnacle of its development in the 18th century, before the arrival of the British. Most famous for its centuries old fort, Galle which is a UNESCO World Heritage Site under 'cultural category' declared in 1988, today stands as a city of splendour attracting thousands of local and foreign tourists. Galle represents a perfect blend of European architectural styles and South Asian traditions. There are a number of things to see and do while holidaying in this fortified city of Galle. <br><br>
+          </p>
+
+          <div class="google-map">
+               <iframe src="https://maps.google.com/maps?q=galle,sri%20lanka&t=&z=15&ie=UTF8&iwloc=&output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+
+          
+        </div>
+      </section>
+
+<section class="gallery" id="gallery">
+        <div class="container">
+
+          <ul class="gallery-list">
+
+            <li class="gallery-item">
+              <figure class="gallery-image">
+                <img src="/assets/images/gallery-1.jpg" alt="Gallery image">
+              </figure>
+            </li>
+
+            <li class="gallery-item">
+              <figure class="gallery-image">
+                <img src="/assets/images/gallery-2.jpg" alt="Gallery image">
+              </figure>
+            </li>
+
+            <li class="gallery-item">
+              <figure class="gallery-image">
+                <img src="/assets/images/gallery-3.jpg" alt="Gallery image">
+              </figure>
+            </li>
+
+            <li class="gallery-item">
+              <figure class="gallery-image">
+                <img src="/assets/images/gallery-4.jpg" alt="Gallery image">
+              </figure>
+            </li>
+
+            <li class="gallery-item">
+              <figure class="gallery-image">
+                <img src="/assets/images/gallery-5.jpg" alt="Gallery image">
+              </figure>
+            </li>
+
+          </ul>
+
+        </div>
+      </section>
+<br>
+<br>
+<br>
+<br>
+
+  <!-- partial -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
+
+<script  type="text/javascript">
+      gsap.registerPlugin(ScrollTrigger);     
+     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
+            let flagPoles = CSSRulePlugin.getRule(".card:before");
+
+
+            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
+            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
+            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
+            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
+            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
+            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
+    </script>
+
+
+
+

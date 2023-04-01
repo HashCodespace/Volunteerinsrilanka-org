@@ -1,0 +1,90 @@
+---
+title: Oops! Not Found
+layout: 'base.njk'
+permalink: 404.html
+---
+
+  <main>
+    <article>
+
+      <!-- 
+        - #HERO
+      -->
+
+      <section class="hero" id="home">
+        <div class="container"> 
+            <h2 class="h1 hero-title title" id="title">
+              {{ title }}
+            </h2>
+            <!-- <h2 class="h1 hero-title">Journey to explore world</h2> -->
+
+            <p class="hero-text" id="sub-title">
+              This is where you should tell the user how to find their content.
+            </p>
+
+            <div class="btn-group">
+              <a href="/">
+                <button class="btn btn-primary">Redirect to Home Page</button>
+              </a>
+              <a href="/contact-us/">
+                <button class="btn btn-secondary">Contact Us</button>
+              </a>
+            </div>
+
+
+
+        </div>
+      </section> <!-- hero section pver -->
+
+
+
+
+
+
+  <script defer>
+    const titleElement = document.getElementById("title");
+    const subTitleElement = document.getElementById("sub-title");
+    const titles = [
+     "Make a <font-custom>Difference</font-custom> <br><span>in  Sri Lanka</span>",
+     "Travel & Explore <br> The Country"
+     ];
+    const subTitles = [
+     "Volunteer for a meaningful  project and touch lives of the the underprivileged people in Sri Lanka.<br> Spread happiness and make memories  to cherish for lifetime,",
+     "Let your volunteering journey in Sri Lanka be filled with amazing travel experiences as well. <br>Bond with travelers from different parts of the world and explore the nooks and corners of Sri Lanka. "
+     ];
+    let currentTitleIndex = 0;
+
+    function updateTitle() {
+      currentTitleIndex = (currentTitleIndex + 1) % titles.length;
+      titleElement.innerHTML = titles[currentTitleIndex];
+      subTitleElement.innerHTML= subTitles[currentTitleIndex];
+    }
+
+    setInterval(() => {
+      titleElement.classList.remove("title-fade-in");
+      void titleElement.offsetWidth;
+      titleElement.classList.add("title-fade-out");
+      void titleElement.offsetWidth; // Trigger a reflow to restart the animation
+      
+      subTitleElement.classList.remove("subtitle-fade-in");
+      void subTitleElement.offsetWidth;
+      subTitleElement.classList.add("subtitle-fade-out");
+      void subTitleElement.offsetWidth;
+
+      setTimeout(() => {
+        updateTitle();
+
+        titleElement.classList.add("title-fade-in");
+        void titleElement.offsetWidth;
+        titleElement.classList.remove("title-fade-out");
+
+        subTitleElement.classList.add("subtitle-fade-in");
+        void subTitleElement.offsetWidth;
+        subTitleElement.classList.remove("subtitle-fade-out");
+      }, 1000); // Delay title update until animation is complete
+    }, 5000);
+
+
+
+  </script>
+

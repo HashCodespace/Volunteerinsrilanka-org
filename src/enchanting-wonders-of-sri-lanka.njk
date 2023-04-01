@@ -1,0 +1,153 @@
+---
+title : Enchanting Wonders of Sri Lanka
+layout: 'base.njk'
+---
+
+
+  <main>
+    <article>
+
+      <!-- 
+        - #HERO
+      -->
+
+      <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/6.jpeg');">
+        <div class="container"> 
+            <h2 class="h2 hero-title title page-title" id="title">
+              Enchanting Wonders of Sri Lanka
+            </h2>
+          
+            <p class="hero-text" id="sub-title">
+              Discover the Beauty and Diversity of Sri Lanka's Natural and Cultural Treasures
+            </p>
+
+           
+
+
+
+        </div>
+      </section> <!-- hero section pver -->
+
+
+
+
+
+
+
+
+
+
+
+      <section class="popular partner unset-align" id="destination" >
+        <div class="container">
+ 
+          <p class="section-subtitle"> Discover your own  </p>
+
+          <h2 class="h2 section-title">Magical beauty of Sri Lanka</h2>
+
+          <p class="section-text ">
+            Sri Lanka is a destination that has got all the necessary volunteering and holiday ingredients hence the reason it is often accompanied by the descriptive title of 'magical beauty'. Volunteering in Sri Lanka is a combination of enchantment and magnificence due to the lasting impression it leaves on you. When you step off the plane and onto Sri Lankan soil, you become a part of an unforgettable experience that will leave you wanting more. <br><br>
+            Sri Lanka is a tropical island off the coast of India. This pearl of the Indian Ocean, as it has been described for centuries, is a traveler's paradise and the site of many historic events. According to the Mahavamsa, one of the first names it was given was 'Tambapanni,' because when invaders from India landed, they noticed the copper (Tamba) colored sea-sand. The golden beaches of Sri Lanka attest to the fact that, despite the passage of over 1000 years since this incident was recorded, little has changed in the island's natural beauty. <br><br>
+            Sri Lanka became a melting pot of cultures over the centuries as it was constantly influenced by outside travelers, traders, and, of course, explorers. Early settlers arrived from North and South India, while ancient mariners, traders, and travelers arrived from China, Arabia, Rome, Greece, and Africa due to Sri Lanka's location on the famous silk route. Colonizers came from colder climates such as Portugal, Holland, and the United Kingdom. As a result, it was known as Lanka, Taprobane, Serendib, Cellao, Zellan, Ceylon, and finally Sri Lanka. Some stayed, while others left Sri Lanka, but their visit to this island, which Mahatma Gandhi described as "unrivaled on the face of the earth," influenced and influenced them forever.Food, dress, languages, religion and customs were left behind, intermingled and now form the multi-cultural experience that is Sri Lanka
+
+            While sunny weather is generally the norm in Sri Lanka, the location of the island between the Bay of Bengal and the Arabian Sea means that it faces trade winds from both the East and the West. These trade winds bring the Monsoon which means that a thunderstorm can also be part of your magical holiday weather. <br><br>
+
+            To learn more about what to see and do in Sri Lanka, read up on the country and available volunteering programs so that you can tailor a program to your needs. At Volunteering Sri Lanka, we strive to make our volunteers happy and content with their time, leaving the rest to'serendipity,' because a 'happy accident' is what Sri Lanka is all about.
+          </p>
+          <br><br><br>
+          <p class="section-subtitle"> Featured Destinations  </p>
+          <h3 class="h2 section-title">Explore Sri Lanka's Popular Destinations</h3><br><br>
+          <ul class="popular-list">
+            {% for item in collections.featureddestinations %}
+              
+              {% include 'popularcard.njk' %}
+              
+            {% endfor %}
+          </ul>
+          <a href="/explore-sri-lanka/"> 
+            <button class="btn btn-primary">More Destinations</button>
+          </a>
+          <br><br><br>
+
+          <ul class="package-list">
+
+            <li>
+              <div class="package-card" style="grid-template-columns: 1.3fr 1.5fr;">
+
+                <figure class="card-banner">
+                  <img src="/assets/images/com/2.jpeg" alt="Experience The Great Holiday On Beach" loading="lazy">
+                </figure>
+
+                <div class="card-content scooter-card">
+
+                  <h3 class="h3 card-title">Get Your Journey Started</h3>
+
+                  <ul class="card-meta-list">
+
+                    <li class="card-meta-item">
+                      <div class="meta-box">
+                        <ion-icon name="airplane" role="img" class="md hydrated" aria-label="time"></ion-icon>
+
+
+                        <p class="text">Travel info</p>
+                      </div>
+                    </li>
+
+                   
+
+                    <li class="card-meta-item">
+                      <div class="meta-box">
+                        <ion-icon name="location" role="img" class="md hydrated" aria-label="location"></ion-icon>
+
+                        <p class="text">Sri Lanka</p>
+                      </div>
+                    </li>
+
+                  </ul> <br>
+
+                  <p class="card-text">
+                     Here you will find all the essential information you need to plan your trip, including visa requirements, currency, transportation options, and safety tips. We've also included insider tips on the best time to visit, must-see destinations, and off-the-beaten-path experiences. Whether you're a first-time visitor or a seasoned traveler, our travel information page will help you make the most of your trip to this enchanting island nation.
+
+                  </p>
+                  <a href="/travel-info/" style="display:inline-flex;"> 
+                     <button class="btn btn-secondary btn-green-no-fill">More Info</button>
+                  </a>
+                </div>
+
+
+                  
+                </div>
+
+              </div>
+            </li>
+
+          </ul>
+
+        </div>
+      </section>
+
+
+
+  <!-- partial -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
+
+<script  type="text/javascript">
+      gsap.registerPlugin(ScrollTrigger);     
+     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
+            let flagPoles = CSSRulePlugin.getRule(".card:before");
+
+
+            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
+            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
+            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
+            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
+            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
+            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
+    </script>
+
+
+
+
+

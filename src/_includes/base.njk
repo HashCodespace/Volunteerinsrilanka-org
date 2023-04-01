@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+
+  <!-- 
+    - favicon
+  -->
+  <link rel="shortcut icon" href="/assets/images/favicon.svg" type="image/svg+xml">
+
+  <!-- 
+    - custom css link
+  -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  <!-- 
+    - google font link
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Merienda:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Poppins:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+</head>
+
+  <body id="top" style="top:0px;">
+
+
+    {% include 'header.njk' %}
+
+    {{ content | safe }}
+
+    {% include 'footer.njk' %}
+
+
+
+
+
+
+   <a href="https://api.whatsapp.com/send?phone=94779308187" class="whatsapp-btn">
+      <ion-icon name="logo-whatsapp"></ion-icon>
+    </a>
+
+
+    <script defer src="/assets/js/script.js"></script>
+    <script defer type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script defer nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script defer  type="text/javascript">
+     function googleTranslateElementInit() {
+     new google.translate.TranslateElement({ pageLanguage: "en" }, "google_translate_element");
+     };
+     
+    // translate btn
+    const translatebtn = document.getElementById("language-outline");
+    function showtranslate(){
+      const translateselect = document.getElementById("google_translate_element");
+      translatebtn.classList.add('hidden');
+      translateselect.style.display = "block";
+    };
+
+    </script>
+    <script defer  src="/assets/js/translate.js"></script>
+    
+  </body>
+
+</html>

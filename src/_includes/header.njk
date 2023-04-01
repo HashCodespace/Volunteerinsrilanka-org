@@ -1,0 +1,130 @@
+{% set navitems = [
+  ["Volunteering Sri Lanka",'/',''],
+  ['Volunteer Programs','/volunteer-programs/',''],
+  ["Experiance Sri Lanka",'/experiance-sri-lanka/',''],
+  ['Volunteering Fee','/volunteering-fee/',''],
+  ['Partner With us','/partner-with-us/',''],
+  ['About us','/about-us/',''],
+  ['Contact us','/contact-us/','mobile-nav'],
+  ['Apply Now','/apply-now/','mobile-nav']
+  ]
+%}
+  <header class="header" data-header>
+
+    <div class="overlay" data-overlay></div>
+
+    <div class="header-top">
+      <div class="container">
+
+        <a href="tel:+01123456790" class="helpline-box">
+
+          <div class="icon-box">
+            <ion-icon name="call-outline"></ion-icon>
+          </div>
+
+          <div class="wrapper">
+            <p class="helpline-title">For Further Inquires :</p>
+
+            <p class="helpline-number">(+94)77 930 8187 </p>
+          </div>
+
+        </a>
+
+        <a href="#" class="logo" style="color:white;font-size: 20px;">
+          <!-- <img src="./assets/images/logo.svg" alt="Volunteering Sri Lanka logo"> -->
+          - LOGO HERE  - 
+        </a>
+
+        <div class="header-btn-group">
+
+          <div class="search-btn" id="language-outline" onclick="showtranslate()" aria-label="Search" style="display:flex;justify-content:center;">
+            <div id="google_translate_element" style="display:none;"></div>
+            <ion-icon name="language-outline"  class="hashen"></ion-icon>
+
+          </div>
+
+          <button class="nav-open-btn" aria-label="Open Menu" data-nav-open-btn>
+            <ion-icon name="menu-outline"></ion-icon>
+          </button>
+ 
+        </div>
+
+      </div>
+    </div>
+
+    <div class="header-bottom">
+      <div class="container">
+
+        <ul class="social-list">
+
+          <li>
+            <a href="#" class="social-link">
+              <ion-icon name="logo-facebook"></ion-icon>
+            </a>
+          </li>
+
+          <li>
+            <a href="#" class="social-link">
+              <ion-icon name="logo-twitter"></ion-icon>
+            </a>
+          </li>
+
+          <li>
+            <a href="#" class="social-link">
+              <ion-icon name="logo-youtube"></ion-icon>
+            </a>
+          </li>
+
+        </ul>
+
+        <nav class="navbar" data-navbar>
+
+          <div class="navbar-top">
+
+            <a href="#" class="logo" style="color:white;font-size: 20px;">
+              <!-- <img src="./assets/images/logo-blue.svg" alt="Volunteering Sri Lanka logo"> -->
+              - LOGO HERE - 
+
+            </a>
+
+            <button class="nav-close-btn" aria-label="Close Menu" data-nav-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
+            </button>
+
+          </div>
+
+          <ul class="navbar-list">
+
+            {% for item in navitems %}
+              {% if title==item[0] %}
+                {% set navdata=['#','active-tab','active-link'] %}
+              {% else %}
+                {% set navdata=[item[1],'',''] %}
+              {% endif %}
+
+              {% if item[0]=='Volunteering Sri Lanka' %}
+                {% set navname='Home' %}
+              {% else %}
+                {% set navname=item[0] %}
+              {% endif %}
+
+
+
+              <li {{ navdata[1] }}>
+                <a href="{{ navdata[0] }}" class="navbar-link {{ item[2] }}" data-nav-link {{ navdata[2] }}>{{ navname }}</a>
+              </li>
+
+            {% endfor %}
+
+            
+
+          </ul>
+
+        </nav>
+
+        <a href="/apply-now/" class="btn btn-primary">Apply now</a href="/apply-now/">
+
+      </div>
+    </div>
+
+  </header>

@@ -1,0 +1,184 @@
+---
+layout: 'base.njk'
+---
+
+
+  <main>
+    <article>
+
+      <!-- 
+        - #HERO
+      -->
+
+      <section class="pages-hero" id="home" style="background-image: url('{{ image }}');">
+        <div class="container"> 
+            <h2 class="h2 hero-title title page-title" id="title">
+              {{ title }}
+            </h2>
+          
+            <p class="hero-text" id="sub-title">
+              {% if herosub %}
+                {{ herosub }}
+              {% else %}
+                Explore Sri Lanka's Popular Destinations
+              {% endif %}
+
+            </p>
+
+           
+
+
+
+        </div>
+      </section> <!-- hero section pver -->
+
+
+
+
+
+
+
+
+
+
+
+      <section class="popular partner " id="destination" >
+        <div class="container">
+		  <p class="section-subtitle">
+		  <a href="/experiance-sri-lanka/" class="a-link">Experiance-Sri-Lanka</a>/ 
+		  <a href="/explore-sri-lanka/" class="a-link">Popular-Destinations</a>/
+		  <a href="" class="a-link">{{ title }}</a> </p> 
+		  <h2 class="h2 section-title">{{ heading }}</h2>
+		  <br><br>
+          <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+            {{ content | safe}}
+
+          </div>
+
+
+      {% if title=='Hill Country' %}
+			<ul class="popular-list">
+            {% for item in collections.hillcounty %}
+              <li>
+                <a href="#{{ item.data.id }}">
+                  <div class="popular-card">
+
+                    <figure class="card-img">
+                      <img src="{{ item.data.image }}" alt="{{ item.data.imagealt }}" loading="lazy">
+                    </figure>
+
+                    <div class="card-content">
+
+
+                      <p class="card-subtitle">
+                        <a href="#{{ item.data.id }}">Hill Country</a>
+                      </p>
+
+                      <h3 class="h3 card-title">
+                        <a href="#{{ item.data.id }}">{{ item.data.title }}</a>
+                      </h3>
+                      <a href="#{{ item.data.id }}">
+                        <p class="card-text">
+                          {{ item.data.description }}
+                        </p>
+                      </a>
+
+                    </div>
+
+                  </div>
+                </a>
+              </li> 
+
+              
+            {% endfor %}
+        </ul> <br><br><br>
+        {% for subitem in collections.hillcounty %}
+          <section id="{{ subitem.data.id }}">
+            <p class="section-subtitle">{{ subitem.data.subheading }}</p>
+            <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
+            <br><br>
+            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+              {{ subitem.templateContent | safe }}
+            </div>
+            <hr style="margin-top: 5rem;margin-bottom: 5rem;"> 
+          </section>
+        {% endfor %}
+        
+      {% endif %}
+
+            {% if title=='Rainforests' %}
+      <ul class="popular-list">
+            {% for item in collections.forests %}
+              <li>
+                <a href="#{{ item.data.id }}">
+                  <div class="popular-card">
+
+                    <figure class="card-img">
+                      <img src="{{ item.data.image }}" alt="{{ item.data.imagealt }}" loading="lazy">
+                    </figure>
+
+                    <div class="card-content">
+
+
+                      <p class="card-subtitle">
+                        <a href="#{{ item.data.id }}">Rainforests</a>
+                      </p>
+
+                      <h3 class="h3 card-title">
+                        <a href="#{{ item.data.id }}">{{ item.data.title }}</a>
+                      </h3>
+                      <a href="#{{ item.data.id }}">
+                        <p class="card-text">
+                          {{ item.data.description }}
+                        </p>
+                      </a>
+
+                    </div>
+
+                  </div>
+                </a>
+              </li> 
+
+              
+            {% endfor %}
+        </ul> <br><br><br>
+        {% for subitem in collections.forests %}
+          <section id="{{ subitem.data.id }}">
+            <p class="section-subtitle">{{ subitem.data.subheading }}</p>
+            <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
+            <br><br>
+            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+              {{ subitem.templateContent | safe }}
+            </div>
+            <hr style="margin-top: 5rem;margin-bottom: 5rem;"> 
+          </section>
+        {% endfor %}
+        
+      {% endif %}
+		  
+      </section>
+
+
+  <!-- partial -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
+
+<script  type="text/javascript">
+      gsap.registerPlugin(ScrollTrigger);     
+     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
+            let flagPoles = CSSRulePlugin.getRule(".card:before");
+
+
+            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
+            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
+            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
+            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
+            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
+            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
+    </script>
+
+
+
+
+

@@ -1,0 +1,138 @@
+---
+title : Contact us
+layout: 'base.njk'
+---
+
+
+  <main>
+    <article>
+
+      <!-- 
+        - #HERO
+      -->
+
+      <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/7.jpeg');">
+        <div class="container"> 
+            <h2 class="h1 hero-title title" id="title" style="font-family: 'DM Serif Display', serif;font-weight: 400;font-style: italic;">
+              Get in Touch
+            </h2>
+          
+            <p class="hero-text" id="sub-title">
+              We're pleased to hear from you and assist you in beginning your volunteer experience. 
+            </p>
+
+           
+
+
+
+        </div>
+      </section> <!-- hero section pver -->
+
+
+
+
+
+
+
+
+
+
+
+      <section class="popular partner" id="destination" >
+        <div class="container">
+ 
+          
+
+          <p class="section-text " style="max-width:100ch">
+            We're here to answer your questions and give help, whether you're an individual trying to make a difference or a representative of an organization interested in collaborating with us. Our staff is committed to providing all volunteers with a meaningful and beneficial volunteering experience. Fill out the form below or contact us by phone or email if you're ready to take the first step in making a difference. We eagerly await your response!
+            <br><br>
+          </p>
+            <div class="contact-us-grid">
+
+                <form action="" class="tour-search-form">
+                  <h3 class="h3 section-text" style="margin-bottom: 2rem;margin-left: 1rem;grid-column:1/3;"> Contact us</h3>
+                  
+
+                  <div class="input-wrapper">
+                    <label for="name" class="input-label" >Name*</label>
+
+                    <input type="text" name="name" id="name" required placeholder="Enter Name"
+                      class="input-field">
+                  </div>
+
+                  <div class="input-wrapper">
+                    <label for="email" class="input-label">Email*</label>
+
+                    <input type="email" name="email" id="email" required placeholder="Enter your emial address" class="input-field">
+                  </div>
+
+                  <div class="input-wrapper" style="grid-column: 1/3;">
+                    <label for="subject" class="input-label">Subject*</label>
+
+                    <input type="text" name="subject" id="subject" required class="input-field" placeholder="Subject Here">
+                  </div>
+
+                  <div class="input-wrapper" style="grid-column: 1/3;width: 100%;">
+                    <label for="message" class="input-label">Message</label>
+                    <textarea name="message" id="message" cols="30" rows="10" class="input-field" placeholder="Write a message" style="width: 100%;"></textarea>
+                  </div>
+
+                 
+
+                  <button type="submit" class="btn btn-primary" style="grid-column: 1/3;width: 30%;margin: auto;">Send</button>
+
+                </form>
+
+                <div class="cta contact-silde " style="padding: 3rem;">
+                  If you have any general inquiries or questions about our organization, services, or programs, please feel free to send us a message using the contact form on this page. <br><br><span class="contact-btn-lable">You can also email us at : </span><br>
+
+                  <a class="btn btn-secondary btn-green-no-fill" style="margin-inline: unset;text-align: center;">
+                    info@volunteeringsrilanka.lk
+                  </a><br><br>
+                  <span class="contact-btn-lable">Call us :</span><br>
+                  <a class="btn btn-secondary btn-green-no-fill" style="margin-inline: unset;text-align: center;">
+                    (+94)77 930 8187
+                  </a><br>
+                  <a class="btn btn-secondary btn-green-no-fill" style="margin-inline: unset;text-align: center;">
+                    (+94)77 930 8187
+                  </a><br>
+                  <span class="contact-btn-lable">
+                    Address: <br><br>
+                    25/1 New Lane 2, Dangedara, <br>
+                    Galle 80000 <br>
+                    SriLanka
+                  </span>
+                </div>
+            </div>
+          
+			
+		  </div>
+    </section>
+
+
+
+
+
+  <!-- partial -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
+
+<script  type="text/javascript">
+      gsap.registerPlugin(ScrollTrigger);     
+     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
+            let flagPoles = CSSRulePlugin.getRule(".card:before");
+
+
+            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
+            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
+            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
+            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
+            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
+            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
+    </script>
+
+
+
+
+

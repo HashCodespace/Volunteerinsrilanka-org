@@ -1,0 +1,89 @@
+---
+title : Things to do while Volunteering
+layout: 'base.njk'
+eleventyImport:
+  collections: ["thingstodo"]
+---
+
+
+  <main>
+    <article>
+
+      <!-- 
+        - #HERO
+      -->
+
+      <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/4.jpeg');">
+        <div class="container"> 
+            <h2 class="h2 hero-title title page-title" id="title">
+              Things to Do While <br> Volunteering in Sri Lanka
+            </h2>
+          
+            <p class="hero-text" id="sub-title">
+               Make the Most of Your Time with These Experiences
+            </p>
+
+           
+
+
+
+        </div>
+      </section> <!-- hero section pver -->
+
+
+
+
+
+
+
+
+
+
+
+      <section class="popular partner " id="destination" >
+        <div class="container"> <br><br>
+ 
+          <p class="section-subtitle"> Unique Activities to </p>
+
+          <h2 class="h2 section-title">Enhance Your Volunteer Experience</h2>
+
+          <p class="section-text" >
+            While volunteering in Sri Lanka, you'll have the chance to give back to the local community and make a positive impact on people's lives. But volunteering is also a chance to explore a new culture, try new things, and make unforgettable memories. Here are some of the top things to do while volunteering in Sri Lanka: <br><br><br>
+
+          </p>
+          <ul class="popular-list">
+            {% set sectionname = "Things to Do" %}
+            {% for item in collections.thingstodo %}
+              {% include 'popularcard.njk' %}
+            {% endfor %}
+          </ul> 
+			
+		  
+        </div>
+      </section>
+
+
+
+  <!-- partial -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
+
+<script  type="text/javascript">
+      gsap.registerPlugin(ScrollTrigger);     
+     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
+            let flagPoles = CSSRulePlugin.getRule(".card:before");
+
+
+            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
+            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
+            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
+            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
+            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
+            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
+    </script>
+
+
+
+
+

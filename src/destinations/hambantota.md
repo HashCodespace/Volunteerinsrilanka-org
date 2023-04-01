@@ -1,0 +1,15 @@
+---
+title: Hambantota
+heading: Explore the Natural Wonders and Rich Culture of Hambantota
+image: /assets/img/hambanthota.jpeg
+imagealt: Hambantota
+description: ' This region boasts of stunning natural beauty, from pristine beaches and national parks to vast salt flats and lagoons. For nature enthusiasts, Hambantota offers an array of exciting activities such as bird watching, wildlife safaris, and trekking'
+
+---
+The story of Hambanthota, which is now emerging as an Indian Ocean maritime hub, must begin with its name. Today's port city was also a haven for Malay seafarers attempting to sail with the westerly winds from the Malacca Straits. On the ancient maritime silk route, Malay voyagers arrived in their Sampans. The town still has the most significant Malay community, whose forefathers brought their wives with them in their pursuit of a permanent piece of vacation Sri Lanka. The trade tides of a new world order have once again transformed the fortunes of this newest deep water port city, which caters to the constant flow of maritime traffic in both directions between the Malacca Straits and the Arabian Sea.Hambanthota marks the transition from the wet zone to the dry zone that opens in to the plains of shrub jungle. 
+
+It is worth noting for the curious that the two largest avifauna-rich sanctuaries, Bundala and Kumana, are close to Hambanthota. They are home to migratory birds from Central Asia, Siberia, and the Himalayas. Boeing and Airbus wide-body planes will want the same tail winds that Siberian and Himalayan planes rely on when flying to Sri Lanka. Tissamaharama, named after an impressively large Stupa built in the third century BC, is about forty minutes from Hambanthota. The historic town is the base for you to visit the Yala National park by 4X4 safaris. The manmade lake with its huge flocks of egrets, along with gentle breezes may convince you to take a boat trip around the lake.
+
+A half-hour drive away is the famous Kataragama shrine, which is dedicated to Skanda, Shiva's son and god of war and wisdom. The current shrine's origins are obscured by a mist of history so ancient that legend has taken over. Both Buddhists and Hindus revere the shrine. What's fascinating is that there's an old pilgrim route that connects Jaffna in the north of Sri Lanka to the shrine, which is only a few miles from Kirinde, a Sri Lanka beach resort at the southernmost tip of the island. Katharagama is a unique meeting place for two closely related but distinct religious traditions, Buddhism and Hinduism, which have co-existed on the island for millennia.More intriguing is the priceless opportunity to dive the world-renowned 'Great Basses' wreck and the Little Basses reef. A 24 cannon battleship sent to the Far East by the Moghul Emperor Aurnagzeb and wrecked in a storm lies in peaceful repose off the coast of the Great Basses. Do you want to look for Moghul coins while in Sri Lanka?
+
+{% image "./src/assets/img/hambanthota.jpeg", "hambanthota", "(min-width: 300em) 50vw, 100vw" , "max-width:80%; border-radius: 20px; height:auto; margin:5%;" %}

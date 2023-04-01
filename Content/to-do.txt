@@ -1,0 +1,7 @@
+to-do
+- Add loop for program sector field
+- edit contact details via cms
+- ralted links on footer
+- fb page link
+- home 'lern more' btn link
+- add photos to project area
