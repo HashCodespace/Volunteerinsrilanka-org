@@ -13,7 +13,7 @@ module.exports = function(eleventyConfig){
   
     // Return your Object options:
   return {
-    markdownTemplateEngine: "njk",
+    markdownTemplateEngine: "md",
     dir: {
       input: "src",
       output: "dist"
