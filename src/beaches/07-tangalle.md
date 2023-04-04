@@ -1,7 +1,7 @@
 ---
 title:  Tangalle 
 subheading: Discover the Perfect Beach Getaway
-image: /assets/img/tangalle/2.jpeg
+image: ./src/assets/img/tangalle/2.jpeg
 
 imagealt:  Tangalle 
 id:  tangalle

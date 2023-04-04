@@ -2,7 +2,7 @@
 title:  Udawalawe National Park
 heading: Udawalawe National Park
 herosub:  Discover the Wild Wonders
-image: /assets/img/thingstodo/4.jpeg
+image: ./src/assets/img/thingstodo/4.jpeg
 imagealt:  Udawalawe National Park
 description: 'This vast park spans over 30,000 hectares and is home to a wide range of exotic animals including elephants, leopards, crocodiles, and many more.
 '

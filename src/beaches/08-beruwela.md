@@ -1,7 +1,7 @@
 ---
 title:  Beruwela 
 subheading: Discover Serenity and Adventure on the Golden Mile Beaches
-image: /assets/img/beaches/18.jpeg
+image: ./src/assets/img/beaches/18.jpeg
 imagealt:  Beruwela 
 id:  beruwela
 description: "Beruwela is a charming coastal town located on Sri Lanka's Western coast, known for its pristine beaches, picturesque landscapes, and rich cultural heritage.  "

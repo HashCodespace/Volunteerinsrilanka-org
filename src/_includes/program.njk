@@ -1,0 +1,53 @@
+---
+layout: 'base.njk'
+permalink: "volunteer-programs/{{ title | slugify }}/index.html"
+---
+<style>
+  .section-text p {
+    max-width: unset;
+  }
+</style>
+<main>
+  <article>
+    <!--
+    - #HERO -->
+    <section class="pages-hero page-over" id="home" >
+      <div class="container">
+        <h2 class="h2 hero-title title page-title" id="title">
+          {{ title }}
+        </h2>
+        <p class="hero-text" id="sub-title">
+          {% if herosub %}
+            {{ herosub }}
+          {% else %}
+            Volunteer Programs | Make a Difference in Sri Lanka
+          {% endif %}
+        </p>
+      </div>
+      {% image image , imagealt, "(min-width: 300em) 50vw, 100vw" , "position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);min-height: 100%;min-width: 100%;z-index: -1;" %}
+    </section>
+    <!-- hero section pver -->
+    <section class="popular partner unset-align" id="destination">
+      <div class="container">
+        <center>
+          <div class="program-tabs">
+            <a href="#Overview"><button>Overview</button></a>
+            <a href="#responsibilities"><button>Responsibilities</button></a>
+            <a href="#Gallery"><button>Gallery</button></a>
+            <a href="#Apply"><button>Inquiry now</button></a>
+          </div>
+        </center>
+        
+        <h2 class="h2 section-title unset-align">{{ heading }}</h2>
+        <br>
+          <br>
+            <div class="section-text " style="">
+              {{ content | safe }}
+            </div>
+            
+    </section>
+
+
+
+
+

@@ -1,7 +1,7 @@
 ---
 title:  Horton Plains
 subheading: A Breathtaking Trek Through Pristine Wilderness
-image: /assets/img/hillcountry/7.jpeg
+image: ./src/assets/img/hillcountry/7.jpeg
 imagealt:  Horton Plains
 id:  hortonplains
 description: 'Home to a diverse range of flora and fauna, the park offers an unforgettable trekking experience through pristine wilderness'

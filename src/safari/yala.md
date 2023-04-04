@@ -2,7 +2,7 @@
 title:  Yala National Park
 heading: Wild Encounters in Yala National Park
 herosub:  Discover the Thrill of Safari Adventures
-image: /assets/img/thingstodo/5.jpeg
+image: ./src/assets/img/thingstodo/5.jpeg
 imagealt:  Yala National Park
 description: 'The park is a treasure trove of biodiversity, offering an unforgettable safari experience to visitors from around the world.'
 

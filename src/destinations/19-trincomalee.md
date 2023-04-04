@@ -1,7 +1,7 @@
 ---
 title: Trincomalee
 heading: Explore the Rich History and Stunning Beaches of Sri Lanka's East Coast
-image: /assets/img/trinco/3.jpeg
+image: ./src/assets/img/trinco/3.jpeg
 imagealt: Trincomalee
 description: 'Trincomalee, located on the east coast of Sri Lanka, is a hidden gem waiting to be explored. With its rich history and stunning beaches, Trincomalee has something for everyone.'
 

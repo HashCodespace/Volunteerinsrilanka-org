@@ -2,7 +2,7 @@
 title: Ella
 herosub :  A Picturesque Hill Town in the Heart of Sri Lanka's Hill Country
 heading:  Discover the Breathtaking Beauty of 
-image: /assets/img/ella/7.jpeg
+image: ./src/assets/img/ella/7.jpeg
 imagealt: Ella
 description: ' Ella is an ideal destination for those seeking peace, tranquility, and a break from the hustle and bustle of city life'
 

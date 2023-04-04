@@ -1,7 +1,7 @@
 ---
 title: Hambantota
 heading: Explore the Natural Wonders and Rich Culture of Hambantota
-image: /assets/img/hambanthota.jpeg
+image: ./src/assets/img/hambanthota.jpeg
 imagealt: Hambantota
 description: ' This region boasts of stunning natural beauty, from pristine beaches and national parks to vast salt flats and lagoons. For nature enthusiasts, Hambantota offers an array of exciting activities such as bird watching, wildlife safaris, and trekking'
 

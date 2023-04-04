@@ -1,6 +1,6 @@
 ---
 title:  Fruits
-image: /assets/img/foods/11.jpg
+image: ./src/assets/img/foods/11.jpg
 imagealt:  Fruits
 id:  fruits
 description: "For those looking to eat healthily and have a delicious treat as well, Sri Lanka has lots of fresh fruits to enjoy."

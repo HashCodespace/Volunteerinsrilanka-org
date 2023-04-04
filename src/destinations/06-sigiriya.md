@@ -2,7 +2,7 @@
 title: Sigiriya
 herosub: Explore the Cultural Marvel of Sri Lanka
 heading: 'Discover the Majestic Sigiriya Rock Fortress'
-image: /assets/img/sigiriya/1.jpeg
+image: ./src/assets/img/sigiriya/1.jpeg
 imagealt: Sigiriya
 description: ' Sigiriya, also known as Lion Rock, is a UNESCO World Heritage Site and one of the most iconic attractions in Sri Lanka. '
 

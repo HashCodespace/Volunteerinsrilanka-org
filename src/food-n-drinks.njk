@@ -4,127 +4,72 @@ permalink: "experiance-sri-lanka/food-&-drinks/index.html"
 layout: 'base.njk'
 ---
 
-
-  <main>
-    <article>
-
-      <!-- 
-        - #HERO
-      -->
-
-      <section class="pages-hero" id="home" style="background-image: url('{{ image }}');">
-        <div class="container"> 
-            <h2 class="h2 hero-title title page-title" id="title">
-               Discover the Rich Flavors of Sri Lankan Cuisine
-            </h2>
-          
-            <p class="hero-text" id="sub-title">
-              A Culinary Journey Through Sri Lanka
-
-            </p>
-
-           
-
-
-
-        </div>
-      </section> <!-- hero section pver -->
-
-
-
-
-
-
-
-
-
-
-
-      <section class="popular partner " id="destination" >
-        <div class="container">
-		  <h2 class="h2 section-title">Sri Lankan Food & Drinks</h2>
-		  <br><br>
-          <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
-            Sri Lankan cuisine is known for its explosive flavours and the unique blend of exotic spices. This culinary variety is, in fact, a perfect representation of the resourceful islanders and the different ethnic groups that can be found here. When it comes to what to eat in Sri Lanka, foodies are spoilt for choice be it spicy or sweet, made with local ingredients that add to the tantalising taste of each dish.
-
-          </div>
-<br>  <br>
-
-			<ul class="popular-list">
-            {% for item in collections.foods %}
-              <li>
-                <a href="#{{ item.data.id }}">
-                  <div class="popular-card">
-
-                    <figure class="card-img">
-                      <img src="{{ item.data.image }}" alt="{{ item.data.imagealt }}" loading="lazy">
-                    </figure>
-
-                    <div class="card-content">
-
-
-                      <p class="card-subtitle">
-                        <a href="#{{ item.data.id }}">Food & Drinks</a>
-                      </p>
-
-                      <h3 class="h3 card-title">
-                        <a href="#{{ item.data.id }}">{{ item.data.title }}</a>
-                      </h3>
-                      <a href="#{{ item.data.id }}">
-                        <p class="card-text">
-                          {{ item.data.description }}
-                        </p>
-                      </a>
-
-                    </div>
-
-                  </div>
-                </a>
-              </li> 
-
-              
-            {% endfor %}
-        </ul> <br><br><br>
-
-
-
-        {% for subitem in collections.foods %}
-          <section id="{{ subitem.data.id }}">
-            <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
-            <br><br>
+<main>
+  <article>
+    <!--
+    - #HERO -->
+    <section class="pages-hero page-over" id="home" >
+      <div class="container">
+        <h2 class="h2 hero-title title page-title" id="title">
+          Discover the Rich Flavors of Sri Lankan Cuisine
+        </h2>
+        <p class="hero-text" id="sub-title">
+          A Culinary Journey Through Sri Lanka
+        </p>
+      </div>
+      {% image "./src/assets/img/foods/20.jpeg" , "Food & Drinks", "(min-width: 300em) 50vw, 100vw" , "position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);min-height: 100%;min-width: 100%;z-index: -1;" %}
+    </section>
+    <!-- hero section pver -->
+    <section class="popular partner " id="destination">
+      <div class="container">
+        <h2 class="h2 section-title">Sri Lankan Food & Drinks</h2>
+        <br>
+          <br>
             <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
-              {{ subitem.templateContent | safe }}
+              Sri Lankan cuisine is known for its explosive flavours and the unique blend of exotic spices. This culinary variety is,
+              in fact, a perfect representation of the resourceful islanders and the different ethnic groups that can be found here.
+              When it comes to what to eat in Sri Lanka, foodies are spoilt for choice be it spicy or sweet, made with local
+              ingredients that add to the tantalising taste of each dish.
             </div>
-            <hr style="margin-top: 5rem;margin-bottom: 5rem;"> 
-          </section>
-        {% endfor %}
-        
-
-
-		  
-      </section>
-
-
-  <!-- partial -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
-
-<script  type="text/javascript">
-      gsap.registerPlugin(ScrollTrigger);     
-     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
-            let flagPoles = CSSRulePlugin.getRule(".card:before");
-
-
-            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
-            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
-            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
-            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
-            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
-            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
-    </script>
-
-
-
-
-
+            <br>
+              <br>
+                <ul class="popular-list">
+                  {% for item in collections.foods %}
+                    <li>
+                      <a href="#{{ item.data.id }}">
+                        <div class="popular-card">
+                          <figure class="card-img">
+                            {% image item.data.image , item.data.imagealt, "(min-width: 300em) 50vw, 100vw" , "" %}
+                            </figure>
+                            <div class="card-content">
+                              <p class="card-subtitle">
+                                <a href="#{{ item.data.id }}">Food & Drinks</a>
+                              </p>
+                              <h3 class="h3 card-title">
+                                <a href="#{{ item.data.id }}">{{ item.data.title }}</a>
+                              </h3>
+                              <a href="#{{ item.data.id }}">
+                                <p class="card-text">
+                                  {{ item.data.description }}
+                                </p>
+                              </a>
+                            </div>
+                          </div>
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                  <br>
+                    <br>
+                      <br>
+                        {% for subitem in collections.foods %}
+                          <section id="{{ subitem.data.id }}">
+                            <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
+                            <br>
+                              <br>
+                                <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+                                  {{ subitem.templateContent | safe }}
+                                </div>
+                                <hr style="margin-top: 5rem;margin-bottom: 5rem;"></section>
+                              {% endfor %}
+                            </section>

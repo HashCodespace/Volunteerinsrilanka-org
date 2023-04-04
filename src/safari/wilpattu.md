@@ -2,7 +2,7 @@
 title:  Wilpattu National Park
 heading: Discover the Wild Beauty of Wilpattu National Park
 herosub:  A Safari Adventure You Can't Miss in Sri Lanka
-image: /assets/img/thingstodo/8.jpeg
+image: ./src/assets/img/thingstodo/8.jpeg
 imagealt:  Wilpattu National Park
 description: 'If you are looking for an unforgettable safari adventure in Sri Lanka, then look no further than Wilpattu National Park.'
 

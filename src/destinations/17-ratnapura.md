@@ -2,7 +2,7 @@
 title: Ratnapura
 herosub : Discover the Rich Cultural and Natural Wonders of Ratnapura
 heading: Explore the Gem City of Sri Lanka
-image: /assets/img/ratnapura/2.jpeg
+image: ./src/assets/img/ratnapura/2.jpeg
 imagealt: Ratnapura
 description: "Also known as the City of Gems, is a hidden gem itself that lies in the south-western part of Sri Lanka. "
 ---

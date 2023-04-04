@@ -2,7 +2,7 @@
 title: Pinnawala
 herosub : Visit Pinnawala Elephant Orphanage
 heading: A Memorable Experience with Gentle Giants
-image: /assets/img/pinnawala/3.jpeg
+image: ./src/assets/img/pinnawala/3.jpeg
 imagealt: Pinnawala
 description: 'Pinnawala Elephant Orphanage is a must-visit destination in Sri Lanka, where you can witness the majestic beauty of these gentle giants up close'
 

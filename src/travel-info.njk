@@ -4,141 +4,106 @@ permalink: "experiance-sri-lanka/travel-info/index.html"
 layout: 'base.njk'
 ---
 
-
-  <main>
-    <article>
-
-      <!-- 
-        - #HERO
-      -->
-
-      <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/9.jpeg');">
-        <div class="container"> 
-            <h2 class="h2 hero-title title page-title" id="title">
-              Get Your Journey Started
-            </h2>
-          
-            <p class="hero-text" id="sub-title">
-              Essential Travel Information for Sri Lanka
-            </p>
-
-           
-
-
-
-        </div>
-      </section> <!-- hero section pver -->
-
-
-
-
-
-
-
-
-
-
-
-      <section class="popular partner unset-align" id="destination" >
-        <div class="container">
- 
-          {# <p class="section-subtitle"> Join us in making a difference in Sri Lanka </p> #}
-
-          <h2 class="h2 section-title">Travel Information</h2>
-
-          <p class="section-text ">
-            All major airlines fly directly to Sri Lanka making it easily accessible on major travel routes. Once you get to Sri Lanka public transport consists of buses and trains while personalized transport comes in the form of the ever popular tuk tuk, taxi cabs and domestic passenger flights. Due to congestion on roads the best time to travel around Sri Lanka is either after an early breakfast or after lunch. Tourist Police Units are located at specific locations throughout the island.
-          </p>
-			
-		  <h3 class="h3 section-title">Visas</h3>
-		  <p class="section-text ">
-            There are four types of Sri Lankan visas under which non-Sri Lankans can legitimately enter the country. Each visa contains information about the period of time and the condition/s of stay.A Visit Visa permits foreign nationals to enter the country and this type of visa is sub-divided into two categories, the Tourist Visit Visa and the Business Visit Visa. The Tourist Visit Visa, which is issued for a short period of time, is given to tourists who wish to come to Sri Lanka for travel purposes or to relax. Foreign nationals who wish to engage in business activities are issued Business Visit Visas for either single, double or multiple entries into the country.From the 1st of January 2012 the Department of Immigration and Emigration has specified that all Business or Holiday travelers to Sri Lanka must obtain Electronic Travel Authorization (ETA) in order to enter the country. The ETA fees differ based on the country of the applicant, the type of visa and duration of stay. Payments should be made through the ETA website and not at the port of entry to Sri Lanka.
-          </p>
-          <a href="https://www.eta.gov.lk/" target="_blank" style="display:inline-flex;"> 
-            <button class="btn btn-secondary btn-green-no-fill">Visit ETA Website</button>
-          </a>
-          <br><br><br>
-		  <p class="section-text ">
-            The second type of visa is a Residence Visa and it allows non-Sri Lanka to obtain residence in Sri Lanka if they fulfill certain special criteria. The third type of visa is a Transit Visa which allows for foreign nationals to enter Sri Lanka for a short period of time when they are en-route to another destination. The fourth and final visa type is called Gratis Visa in which no fees are levied. It is granted to the holder of a Diplomatic or Official Passport.Irrespective of your Visa Type if you wish to extend your visa you need to make an application to the Department of Immigration and Emigration.For further guidance go to : 
-          </p>
-          <a href="http://www.immigration.gov.lk/" target="_blank" style="display:inline-flex;"> 
-            <button class="btn btn-secondary btn-green-no-fill">Visit immigration.gov.lk</button>
-          </a>
-          <br>
-          <br>
-          <br><br>
-
-          <h3 class="h3 section-title">Access to Sri Lanka</h3>
-		  <p class="section-text ">
-            Sri Lanka is directly accessible by all major carriers from their closest hubs. The National Carrier SriLankan operates to all major cities in Europe, Far East and the Middle East. The national carrier also offers easy accesses on its services for travel originating in any point in the United States, Canada , Australasia and South America on code sharing flights via transit points London, Zurich and Paris in Europe, Bangkok, Singapore, Hong Kong and Tokyo. SriLankan Airlines also connects Colombo with all major cities of India as well as with Beijing and Guangdong in China.
-
-            <br><br>
-            The following air lines operate direct scheduled flights to and from Colombo.
-          </p>
-          <table style="width: 100%;">
-            <tr>
-              <td style="padding: 20px;">
-                <center>
-                  <img src="/assets/images/airline.png" alt=""  style="max-width:60%">
-                </center>
-              </td>
-              <td style="padding: 20px;">
-                <center>
-                  <img src="/assets/images/qatarairways.png" alt="" style="max-width:60%">
-                </center>
-              </td>
-              <td style="padding: 20px;">
-                <center>
-                  <img src="/assets/images/emirates.png" alt="" style="max-width:60%">
-                </center>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <a href="https://www.srilankan.com" target="_blank"> 
-                  <button class="btn btn-secondary btn-green-no-fill">srilankan.com</button>
-                </a>
-              </td>
-              <td>
-                <a href="https://www.qatarairways.com" target="_blank"> 
-                  <button class="btn btn-secondary btn-green-no-fill">qatarairways.com</button>
-                </a>
-              </td>
-              <td>
-                <a href="https://www.emirates.com/lk/english" target="_blank"> 
-                  <button class="btn btn-secondary btn-green-no-fill">emirates.com</button>
-                </a>
-              </td>
-            </tr>
-          </table>
-          
-        </div>
-      </section>
-
-
-
-
-
-  <!-- partial -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
-
-<script  type="text/javascript">
-      gsap.registerPlugin(ScrollTrigger);     
-     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
-            let flagPoles = CSSRulePlugin.getRule(".card:before");
-
-
-            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
-            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
-            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
-            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
-            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
-            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
-    </script>
-
-
-
-
-
+<main>
+  <article>
+    <!--
+    - #HERO -->
+    <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/9.jpeg');">
+      <div class="container">
+        <h2 class="h2 hero-title title page-title" id="title">
+          Get Your Journey Started
+        </h2>
+        <p class="hero-text" id="sub-title">
+          Essential Travel Information for Sri Lanka
+        </p>
+      </div>
+    </section>
+    <!-- hero section pver -->
+    <section class="popular partner unset-align" id="destination">
+      <div
+        class="container">
+        {# <p class="section-subtitle"> Join us in making a difference in Sri Lanka </p> #}
+        <h2 class="h2 section-title">Travel Information</h2>
+        <p class="section-text ">
+          All major airlines fly directly to Sri Lanka making it easily accessible on major travel routes. Once you get to Sri
+          Lanka public transport consists of buses and trains while personalized transport comes in the form of the ever popular
+          tuk tuk, taxi cabs and domestic passenger flights. Due to congestion on roads the best time to travel around Sri Lanka
+          is either after an early breakfast or after lunch. Tourist Police Units are located at specific locations throughout the
+          island.
+        </p>
+        <h3 class="h3 section-title">Visas</h3>
+        <p class="section-text ">
+          There are four types of Sri Lankan visas under which non-Sri Lankans can legitimately enter the country. Each visa
+          contains information about the period of time and the condition/s of stay.A Visit Visa permits foreign nationals to
+          enter the country and this type of visa is sub-divided into two categories, the Tourist Visit Visa and the Business
+          Visit Visa. The Tourist Visit Visa, which is issued for a short period of time, is given to tourists who wish to come to
+          Sri Lanka for travel purposes or to relax. Foreign nationals who wish to engage in business activities are issued
+          Business Visit Visas for either single, double or multiple entries into the country.From the 1st of January 2012 the
+          Department of Immigration and Emigration has specified that all Business or Holiday travelers to Sri Lanka must obtain
+          Electronic Travel Authorization (ETA) in order to enter the country. The ETA fees differ based on the country of the
+          applicant, the type of visa and duration of stay. Payments should be made through the ETA website and not at the port of
+          entry to Sri Lanka.
+        </p>
+        <a href="https://www.eta.gov.lk/" target="_blank" style="display:inline-flex;">
+          <button class="btn btn-secondary btn-green-no-fill">Visit ETA Website</button>
+        </a>
+        <br><br><br>
+        <p class="section-text ">
+          The second type of visa is a Residence Visa and it allows non-Sri Lanka to obtain residence in Sri Lanka if they fulfill
+          certain special criteria. The third type of visa is a Transit Visa which allows for foreign nationals to enter Sri Lanka
+          for a short period of time when they are en-route to another destination. The fourth and final visa type is called
+          Gratis Visa in which no fees are levied. It is granted to the holder of a Diplomatic or Official Passport.Irrespective
+          of your Visa Type if you wish to extend your visa you need to make an application to the Department of Immigration and
+          Emigration.For further guidance go to :
+        </p>
+        <a href="http://www.immigration.gov.lk/" target="_blank" style="display:inline-flex;">
+          <button class="btn btn-secondary btn-green-no-fill">Visit immigration.gov.lk</button>
+        </a>
+        <br> <br> <br><br>
+        <h3 class="h3 section-title">Access to Sri Lanka</h3>
+        <p class="section-text ">
+          Sri Lanka is directly accessible by all major carriers from their closest hubs. The National Carrier SriLankan operates
+          to all major cities in Europe, Far East and the Middle East. The national carrier also offers easy accesses on its
+          services for travel originating in any point in the United States, Canada , Australasia and South America on code
+          sharing flights via transit points London, Zurich and Paris in Europe, Bangkok, Singapore, Hong Kong and Tokyo.
+          SriLankan Airlines also connects Colombo with all major cities of India as well as with Beijing and Guangdong in China.
+          <br><br> The following air lines operate direct scheduled flights to and from Colombo.
+        </p>
+        <table style="width: 100%;">
+          <tr>
+            <td style="padding: 20px;">
+              <center>
+                <img src="/assets/images/airline.png" alt="" style="max-width:60%">
+              </center>
+            </td>
+            <td style="padding: 20px;">
+              <center>
+                <img src="/assets/images/qatarairways.png" alt="" style="max-width:60%">
+              </center>
+            </td>
+            <td style="padding: 20px;">
+              <center>
+                <img src="/assets/images/emirates.png" alt="" style="max-width:60%">
+              </center>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.srilankan.com" target="_blank">
+                <button class="btn btn-secondary btn-green-no-fill">srilankan.com</button>
+              </a>
+            </td>
+            <td>
+              <a href="https://www.qatarairways.com" target="_blank">
+                <button class="btn btn-secondary btn-green-no-fill">qatarairways.com</button>
+              </a>
+            </td>
+            <td>
+              <a href="https://www.emirates.com/lk/english" target="_blank">
+                <button class="btn btn-secondary btn-green-no-fill">emirates.com</button>
+              </a>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </section>

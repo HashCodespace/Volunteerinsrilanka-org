@@ -2,7 +2,8 @@
 title: Surfing
 heading: Riding the Waves of the Sri Lankan Ocean
 herosub: Discover the Best Surfing Spots in Sri Lanka
-image: /assets/img/arugambay/4.jpeg
+tags: featuredthings
+image: ./src/assets/img/arugambay/4.jpeg
 imagealt: Surfing in Sri Lanka 
 description: 'With its miles of coastline and consistent waves, Sri Lanka has become a premier destination for surfers from around the world.'
 

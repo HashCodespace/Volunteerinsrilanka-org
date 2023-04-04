@@ -2,7 +2,7 @@
 title: Rainforests
 herosub : Immerse Yourself in Nature's Wonderland
 heading: Explore the Lush Rainforests of Sri Lanka
-image: /assets/img/rain/1.jpeg
+image: ./src/assets/img/rain/1.jpeg
 imagealt: Rainforests
 description: 'Sri Lanka is home to some of the most beautiful rainforests in the world. From the Sinharaja Forest Reserve, a UNESCO World Heritage Site, to the lesser-known Kanneliya Rainforest, there are endless opportunities to explore the lush greenery and experience the magic of the rainforest'
 

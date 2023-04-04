@@ -2,7 +2,7 @@
 title: Jaffna
 herosub : Discover the Vibrant City of Jaffna
 heading: Immerse Yourself in the Rich Culture and History of Northern Sri Lanka
-image: /assets/img/jaffna/1.jpeg
+image: ./src/assets/img/jaffna/1.jpeg
 imagealt: Jaffna
 description: "A vibrant city with a diverse culture. Jaffna, with its distinct blend of Tamil, Sinhalese, and Muslim influences, provides a truly immersive experience for visitors looking to discover Sri Lanka's diverse beauty."
 

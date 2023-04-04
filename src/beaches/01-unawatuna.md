@@ -1,7 +1,7 @@
 ---
 title:  Unawatuna 
 subheading: A Coastal Haven in Sri Lanka
-image: /assets/img/beaches/6.jpeg
+image: ./src/assets/img/beaches/6.jpeg
 imagealt:  Unawatuna 
 id:  unawatuna
 description: 'Unawatuna, located in the southern coast of Sri Lanka, is a popular beach destination that offers stunning views of the Indian Ocean, golden sandy beaches, and crystal-clear waters. '

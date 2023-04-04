@@ -1,6 +1,6 @@
 ---
 title:  Other Main Food Items
-image: /assets/img/foods/9.jpeg
+image: ./src/assets/img/foods/9.jpeg
 imagealt:  Other main food items
 id:  others
 description: "They say “variety is the spice of life” and it is certainly true for Sri Lankan cuisine too! "

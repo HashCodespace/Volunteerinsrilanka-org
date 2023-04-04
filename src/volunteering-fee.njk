@@ -4,257 +4,182 @@ layout: 'base.njk'
 eleventyImport:
   collections: ["fees",faq"]
 ---
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
-
-
   <main>
     <article>
-
-      <!-- 
-        - #HERO
-      -->
-
+      <!--
+      - #HERO -->
       <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/4.jpeg');">
-        <div class="container"> 
-            <h2 class="h2 hero-title title page-title" id="title">
-              Volunteering Fees
-            </h2>
-          
-            <p class="hero-text" id="sub-title">
-              Transparent and Affordable Volunteer Programs
-
-            </p>
-
-           
-
-
-
-        </div>
-      </section> <!-- hero section pver -->
-
-
-
-
-
-
-
-
-
-
-
-      <section class="popular partner unset-align" id="destination" >
         <div class="container">
- 
-          
-
-          <p class="section-text ">
-            Volunteering Sri Lanka is a local srilankan Organization which has one of the most Affordable & Cheap volunteer program fees in Srilanka. Compare to other Abroad and Srilankan Organizations we have our own setup project locations. To join the program you don’t have to pay any extra Application or Registration Fees
-            <br><br>
-            <b>Program Dates </b>: All year round – Dates are flexible you can choose your own start and finish date. 
+          <h2 class="h2 hero-title title page-title" id="title">
+            Volunteering Fees
+          </h2>
+          <p class="hero-text" id="sub-title">
+            Transparent and Affordable Volunteer Programs
           </p>
-			
-          <table class="fee-table">
-          <thead>
-            <tr>
-              <th colspan="2">Fees for all our volunteer Programs</th>
-              
-            </tr>
-            <tr>
-              <th>Duration</th>
-              <th>Fee (USD)</th>
-            </tr>
-          </thead>
-          <tbody>
-            {% for item in collections.fees %}
-                {% for weeks in range(1, item.data.weeks+1) %}
-                  <tr class="tr-hover">
-                    <td>{{ weeks }} Week</td>
-                    <td>$ {{ item.data.perweek*weeks }}</td>
+        </div>
+      </section>
+      <!-- hero section pver -->
+      <section class="popular partner unset-align" id="destination">
+        <div class="container">
+          <p class="section-text ">
+             Volunteer in Sri Lanka is a local srilankan Organization which has one of the most Affordable & Cheap volunteer program
+            fees in Srilanka. Compare to other Abroad and Srilankan Organizations we have our own setup project locations. To join
+            the program you don’t have to pay any extra Application or Registration Fees
+            <br>
+              <br>
+                <b>Program Dates
+                </b>: All year round – Dates are flexible you can choose your own start and finish date.
+              </p>
+              <table class="fee-table">
+                <thead>
+                  <tr>
+                    <th colspan="2">Fees for all our volunteer Programs</th>
                   </tr>
-                {% endfor %}
-                <tr class="tr-hover" >
-                  <td>Per Extra Week</td>
-                  <td>$ {{ item.data.perextraweek }}</td>
-                </tr>
-            {% endfor %}
-            
-          </tbody>
-            
-          </table>
-
-          <br>
-          <br>
-          <br>
-          <br>
-
-          <ul class="package-list">
-
-            <li>
-              <div class="package-card">
-
-                <figure class="card-banner">
-                  <img src="/assets/images/com/2.jpeg" alt="Experience The Great Holiday On Beach" loading="lazy">
-                </figure>
-
-                <div class="card-content scooter-card">
-
-                  <h3 class="h3 card-title">Explore Sri Lanka at <br>your own pace</h3>
-
-                  <p class="card-text">
-                     We understand the importance of exploring the beautiful country of Sri Lanka while volunteering. That's why we offer a <b>free scooter(without fuel)</b> to all our volunteers, for the entire duration of their program. This gives our volunteers the freedom to travel and explore Sri Lanka on their own terms and at their own pace.
-                  </p>
-
-                  <ul class="card-meta-list">
-
-                    <li class="card-meta-item">
-                      <div class="meta-box">
-                        <ion-icon name="time" role="img" class="md hydrated" aria-label="time"></ion-icon>
-
-                        <p class="text">24x7</p>
-                      </div>
-                    </li>
-
-                   
-
-                    <li class="card-meta-item">
-                      <div class="meta-box">
-                        <ion-icon name="location" role="img" class="md hydrated" aria-label="location"></ion-icon>
-
-                        <p class="text">Sri Lanka</p>
-                      </div>
-                    </li>
-
-                  </ul>
-
-                </div>
-
-                <div class="card-price">
-
-                  <div class="wrapper">
-
-                    <p class="reviews">We offer a scooter</p>
-
-                   
-                  </div>
-
-                  <p class="price">
-                    FREE 
-                    <span> of charge</span>
-                  </p>
-
-                  
-                </div>
-
-              </div>
-            </li>
-
-          </ul>
-
-          <hr style="margin-top: 5rem;margin-bottom: 5rem;"> 
-
-          <h2 class="h2 section-title">Why do I Need to Pay</h2> <br>
-          <p class="section-text ">
-            <b>THE MOST COMMON QUESTION THAT VOLUNTEERS ASK US IS ‘WHY DO I NEED TO PAY, TO VOLUNTEER?</b>
-          </p>
-          <p class="section-text" style="margin-left:1rem;">
-            As a genuine and reliable volunteer program in Sri Lanka  like any other organization we too have daily expenditures in placing and accommodating the volunteers in our programs in Sri Lanka. The fee is used for the placement, administration and upkeep of the projects in Sri Lanka. We have tried to show in the graph below, where the money is used by Volunteering Srilanka
- 
-            <br><br>
-          </p>
-          <p class="section-text ">
-            Distribution of fee paid by the volunteers
-          </p>
-          <p class="section-text" style="margin-left:1rem;">
-            Food/Accommodation & Services to Volunteers <br>
-            Placement <br>
-            Administration
- 
-            <br><br>
-          </p>
-
-          <p class="section-text ">
-            <b>FOOD/ACCOMMODATION AND SERVICE TO VOLUNTEERS COSTS INCLUDE</b>
-          </p>
-          <ul class="section-text">
-            <li>&emsp;• 24 hrs Assistance and support from our Staff</li>
-            <li>&emsp;• Comprehensive Pre- Departure Information</li>
-            <li>&emsp;• Project Placement</li>
-            <li>&emsp;• Orientation</li>
-            <li>&emsp;• Food </li>
-            <li>&emsp;• Accommodation </li>
-          </ul> <br>
-
-          <p class="section-text ">
-            <b>PLACEMENT COSTS INCLUDE</b>
-          </p>
-          <ul class="section-text">
-            <li>&emsp;• 24 hrs Assistance and support from Volunteer Lanka Staff</li>
-            <li>&emsp;• Comprehensive Pre- Departure Information</li>
-            <li>&emsp;• Project Placement</li>
-          
-          </ul><br>
-
-          <p class="section-text ">
-            <b>ADMINISTRATION COSTS INCLUDE</b> <br>
-            These are the costs without which running this program would not be possible for our volunteers. These include daily office expenses, travel, maintenance etc. as below
-          </p>
-          <ul class="section-text">
-            <li>&emsp;• 24 hrs Assistance and support from our Staff</li>
-            <li>&emsp;• Comprehensive Pre- Departure Information</li>
-            <li>&emsp;• Project Placement</li>
-            <li>&emsp;• Orientation</li>
-            <li>&emsp;• Food </li>
-            <li>&emsp;• Accommodation </li>
-          </ul><br>
-          
-    		 
-        </div>
-      </section>
-
-
-      <section class="cta" id="contact">
-        <div class="container">
-
-          <div class="cta-content cta-width">
-            <p class="section-subtitle">Ready to Join the Movement?</p>
-
-            <h2 class="h2 section-title cta-title-hash">Take the First Step, Join with us Today</h2>
-
-            <p class="section-text cta-title-hash">
-              Don't miss out on the opportunity to make a difference in Sri Lanka while exploring a new culture and gaining valuable international experience. Sign up for our affordable and life-changing volunteer program today and become a part of our worldwide network of volunteers dedicated to creating positive change
-            </p>
-          </div>
-
-          <button class="btn btn-primary">Join now</button>
-
-        </div>
-      </section>
-
-
-
-
-
-      
-  <!-- partial -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
-
-<script  type="text/javascript">
-      gsap.registerPlugin(ScrollTrigger);     
-     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
-            let flagPoles = CSSRulePlugin.getRule(".card:before");
-
-
-            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
-            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
-            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
-            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
-            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
-            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
-    </script>
-
-
-
-
-
+                  <tr>
+                    <th>Duration</th>
+                    <th>Fee (USD)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for item in collections.fees %}
+                    {% for weeks in range(1, item.data.weeks+1) %}
+                      <tr class="tr-hover">
+                        <td>{{ weeks }} Week</td>
+                        <td>$ {{ item.data.perweek*weeks }}</td>
+                      </tr>
+                    {% endfor %}
+                    <tr class="tr-hover">
+                      <td>Per Extra Week</td>
+                      <td>$ {{ item.data.perextraweek }}</td>
+                    </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+              <br>
+                <br>
+                  <br>
+                    <br>
+                      <ul class="package-list">
+                        <li>
+                          <div class="package-card">
+                            <figure class="card-banner">
+                              {% image "./src/assets/img/scooter.jpeg"  , "Scooter offer by volunteer in Sri Lanka", "(min-width: 300em) 50vw, 100vw" , "" %}
+                              </figure>
+                              <div class="card-content scooter-card">
+                                <h3 class="h3 card-title">Explore Sri Lanka at
+                                  <br>your own pace</h3>
+                                  <p class="card-text">
+                                    We understand the importance of exploring the beautiful country of Sri Lanka while volunteering. That's why we offer a
+                                    <b>free scooter(without fuel)</b>
+                                    to all our volunteers, for the entire duration of their program. This gives our volunteers the freedom to travel and
+                                    explore Sri Lanka on their own terms and at their own pace.
+                                  </p>
+                                  <ul class="card-meta-list">
+                                    <li class="card-meta-item">
+                                      <div class="meta-box">
+                                        <ion-icon name="time" role="img" class="md hydrated" aria-label="time"></ion-icon>
+                                        <p class="text">24x7</p>
+                                      </div>
+                                    </li>
+                                    <li class="card-meta-item">
+                                      <div class="meta-box">
+                                        <ion-icon name="location" role="img" class="md hydrated" aria-label="location"></ion-icon>
+                                        <p class="text">Sri Lanka</p>
+                                      </div>
+                                    </li>
+                                  </ul>
+                                </div>
+                                <div class="card-price">
+                                  <div class="wrapper">
+                                    <p class="reviews">We offer a scooter</p>
+                                  </div>
+                                  <p class="price">
+                                    FREE
+                                    <span>
+                                      of charge</span>
+                                  </p>
+                                </div>
+                              </div>
+                            </li>
+                          </ul>
+                          <hr style="margin-top: 5rem;margin-bottom: 5rem;">
+                            <h2 class="h2 section-title">Why do I Need to Pay</h2>
+                            <br>
+                              <p class="section-text ">
+                                <b>THE MOST COMMON QUESTION THAT VOLUNTEERS ASK US IS ‘WHY DO I NEED TO PAY, TO VOLUNTEER?</b>
+                              </p>
+                              <p class="section-text" style="margin-left:1rem;">
+                                As a genuine and reliable volunteer program in Sri Lanka like any other organization we too have daily expenditures in
+                                placing and accommodating the volunteers in our programs in Sri Lanka. The fee is used for the placement, administration
+                                and upkeep of the projects in Sri Lanka. We have tried to show in the graph below, where the money is used by
+                                Volunteering Srilanka
+                                <br>
+                                  <br></p>
+                                  <p class="section-text ">
+                                    Distribution of fee paid by the volunteers
+                                  </p>
+                                  <p class="section-text" style="margin-left:1rem;">
+                                    Food/Accommodation & Services to Volunteers
+                                    <br>
+                                      Placement
+                                      <br>
+                                        Administration
+                                        <br>
+                                          <br></p>
+                                          <p class="section-text ">
+                                            <b>FOOD/ACCOMMODATION AND SERVICE TO VOLUNTEERS COSTS INCLUDE</b>
+                                          </p>
+                                          <ul class="section-text">
+                                            <li>&emsp;• 24 hrs Assistance and support from our Staff</li>
+                                            <li>&emsp;• Comprehensive Pre- Departure Information</li>
+                                            <li>&emsp;• Project Placement</li>
+                                            <li>&emsp;• Orientation</li>
+                                            <li>&emsp;• Food
+                                            </li>
+                                            <li>&emsp;• Accommodation
+                                            </li>
+                                          </ul>
+                                          <br>
+                                            <p class="section-text ">
+                                              <b>PLACEMENT COSTS INCLUDE</b>
+                                            </p>
+                                            <ul class="section-text">
+                                              <li>&emsp;• 24 hrs Assistance and support from Volunteer Lanka Staff</li>
+                                              <li>&emsp;• Comprehensive Pre- Departure Information</li>
+                                              <li>&emsp;• Project Placement</li>
+                                            </ul>
+                                            <br>
+                                              <p class="section-text ">
+                                                <b>ADMINISTRATION COSTS INCLUDE</b>
+                                                <br>
+                                                  These are the costs without which running this program would not be possible for our volunteers. These include daily
+                                                  office expenses, travel, maintenance etc. as below
+                                                </p>
+                                                <ul class="section-text">
+                                                  <li>&emsp;• 24 hrs Assistance and support from our Staff</li>
+                                                  <li>&emsp;• Comprehensive Pre- Departure Information</li>
+                                                  <li>&emsp;• Project Placement</li>
+                                                  <li>&emsp;• Orientation</li>
+                                                  <li>&emsp;• Food
+                                                  </li>
+                                                  <li>&emsp;• Accommodation
+                                                  </li>
+                                                </ul>
+                                                <br></div>
+                                              </section>
+                                              <section class="cta" id="contact">
+                                                <div class="container">
+                                                  <div class="cta-content cta-width">
+                                                    <p class="section-subtitle">Ready to Join the Movement?</p>
+                                                    <h2 class="h2 section-title cta-title-hash">Take the First Step, Join with us Today</h2>
+                                                    <p class="section-text cta-title-hash">
+                                                      Don't miss out on the opportunity to make a difference in Sri Lanka while exploring a new culture and gaining valuable
+                                                      international experience. Sign up for our affordable and life-changing volunteer program today and become a part of our
+                                                      worldwide network of volunteers dedicated to creating positive change
+                                                    </p>
+                                                  </div>
+                                                  <button class="btn btn-primary">Join now</button>
+                                                </div>
+                                              </section>

@@ -1,7 +1,7 @@
 ---
 title: Nuwaraeliya
 subheading: Experience Sri Lanka's Breathtaking Hill Country
-image: /assets/img/hillcountry/10.jpeg
+image: ./src/assets/img/hillcountry/10.jpeg
 imagealt: Nuwaraeliya
 id: nuwaraeliya
 description: 'A picturesque town nestled in the heart of Hill Country. Located at an altitude of 1,868 meters above sea level, Nuwaraeliya is known for its cool climate, stunning waterfalls, and tea plantations'

@@ -4,126 +4,84 @@ permalink: "experiance-sri-lanka/beaches/index.html"
 layout: 'base.njk'
 ---
 
-
-  <main>
-    <article>
-
-      <!-- 
-        - #HERO
-      -->
-
-      <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/3.jpeg');">
-        <div class="container"> 
-            <h2 class="h2 hero-title title page-title" id="title">
-              Beach Bliss in Sri Lanka <br> Where Sun, Sea and Sand Meet
-            </h2>
-          
-            <p class="hero-text" id="sub-title">
-              Discover the Best Beaches and Activities on the Island
-            </p>
-
-           
-
-
-
+<main>
+  <article>
+    <!--
+    - #HERO -->
+    <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/3.jpeg');">
+      <div class="container">
+        <h2 class="h2 hero-title title page-title" id="title">
+          Beach Bliss in Sri Lanka
+          <br>
+            Where Sun, Sea and Sand Meet
+          </h2>
+          <p class="hero-text" id="sub-title">
+            Discover the Best Beaches and Activities on the Island
+          </p>
         </div>
-      </section> <!-- hero section pver -->
-
-
-
-
-
-
-
-
-
-
-
-      <section class="popular partner " id="destination" >
-        <div class="container">
-		  <p class="section-subtitle">
-		  <h2 class="h2 section-title">Beach Bliss</h2>
-		  <br><br>
-          <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
-            Sri Lanka is known for its tropical climate, scenic landscapes, and pristine beaches that stretch for miles. With crystal-clear waters, soft sandy beaches, and a laid-back vibe, the island's coastline is a true paradise for beach lovers. Whether you're looking to soak up the sun, catch a wave, or enjoy a relaxing stroll along the shore, there's a beach in Sri Lanka that's perfect for you. <br><br>
-
-            Some of the most popular beaches in Sri Lanka include Unawatuna, Mirissa, Hikkaduwa, and Bentota, each offering a unique experience. For water sports enthusiasts, there's surfing, scuba diving, and snorkeling, while those seeking peace and tranquility can indulge in yoga or meditation on the beach. The beachside restaurants and bars offer a variety of local and international cuisine, with fresh seafood being a highlight. <br><br>
-
-            With so many beaches to choose from, a trip to Sri Lanka wouldn't be complete without some beach time. Whether you're looking for adventure, relaxation, or a little bit of both, the island's beaches are waiting for you to discover their beauty and charm. <br><br>
-
-          </div>
-
-
-			<ul class="popular-list">
-            {% for item in collections.beaches %}
-              <li>
-                <a href="#{{ item.data.id }}">
-                  <div class="popular-card">
-
-                    <figure class="card-img">
-                      <img src="{{ item.data.image }}" alt="{{ item.data.imagealt }}" loading="lazy">
-                    </figure>
-
-                    <div class="card-content">
-
-
-                      <p class="card-subtitle">
-                        <a href="#{{ item.data.id }}">beaches & Snorkeling</a>
-                      </p>
-
-                      <h3 class="h3 card-title">
-                        <a href="#{{ item.data.id }}">{{ item.data.title }}</a>
-                      </h3>
-                      <a href="#{{ item.data.id }}">
-                        <p class="card-text">
-                          {{ item.data.description }}
-                        </p>
-                      </a>
-
-                    </div>
-
-                  </div>
-                </a>
-              </li> 
-
-              
-            {% endfor %}
-        </ul> <br><br><br>
-        {% for subitem in collections.beaches %}
-          <section id="{{ subitem.data.id }}">
-            <p class="section-subtitle">{{ subitem.data.subheading }}</p>
-            <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
-            <br><br>
-            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
-              {{ subitem.templateContent | safe }}
-            </div>
-            <hr style="margin-top: 5rem;margin-bottom: 5rem;"> 
-          </section>
-        {% endfor %}
-        
       </section>
-
-
-  <!-- partial -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
-
-<script  type="text/javascript">
-      gsap.registerPlugin(ScrollTrigger);     
-     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
-            let flagPoles = CSSRulePlugin.getRule(".card:before");
-
-
-            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
-            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
-            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
-            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
-            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
-            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
-    </script>
-
-
-
-
-
+      <!-- hero section pver -->
+      <section class="popular partner " id="destination">
+        <div class="container">
+          <p class="section-subtitle">
+            <h2 class="h2 section-title">Beach Bliss</h2>
+            <br>
+              <br>
+                <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+                  Sri Lanka is known for its tropical climate, scenic landscapes, and pristine beaches that stretch for miles. With
+                  crystal-clear waters, soft sandy beaches, and a laid-back vibe, the island's coastline is a true paradise for beach
+                  lovers. Whether you're looking to soak up the sun, catch a wave, or enjoy a relaxing stroll along the shore, there's a
+                  beach in Sri Lanka that's perfect for you.
+                  <br>
+                    <br>
+                      Some of the most popular beaches in Sri Lanka include Unawatuna, Mirissa, Hikkaduwa, and Bentota, each offering a unique
+                      experience. For water sports enthusiasts, there's surfing, scuba diving, and snorkeling, while those seeking peace and
+                      tranquility can indulge in yoga or meditation on the beach. The beachside restaurants and bars offer a variety of local
+                      and international cuisine, with fresh seafood being a highlight.
+                      <br>
+                        <br>
+                          With so many beaches to choose from, a trip to Sri Lanka wouldn't be complete without some beach time. Whether you're
+                          looking for adventure, relaxation, or a little bit of both, the island's beaches are waiting for you to discover their
+                          beauty and charm.
+                          <br>
+                            <br></div>
+                            <ul class="popular-list">
+                              {% for item in collections.beaches %}
+                                <li>
+                                  <a href="#{{ item.data.id }}">
+                                    <div class="popular-card">
+                                      <figure class="card-img">
+                                        <img src="{{ item.data.image }}" alt="{{ item.data.imagealt }}" loading="lazy"></figure>
+                                        <div class="card-content">
+                                          <p class="card-subtitle">
+                                            <a href="#{{ item.data.id }}">beaches & Snorkeling</a>
+                                          </p>
+                                          <h3 class="h3 card-title">
+                                            <a href="#{{ item.data.id }}">{{ item.data.title }}</a>
+                                          </h3>
+                                          <a href="#{{ item.data.id }}">
+                                            <p class="card-text">
+                                              {{ item.data.description }}
+                                            </p>
+                                          </a>
+                                        </div>
+                                      </div>
+                                    </a>
+                                  </li>
+                                {% endfor %}
+                              </ul>
+                              <br>
+                                <br>
+                                  <br>
+                                    {% for subitem in collections.beaches %}
+                                      <section id="{{ subitem.data.id }}">
+                                        <p class="section-subtitle">{{ subitem.data.subheading }}</p>
+                                        <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
+                                        <br>
+                                          <br>
+                                            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+                                              {{ subitem.templateContent | safe }}
+                                            </div>
+                                            <hr style="margin-top: 5rem;margin-bottom: 5rem;"></section>
+                                          {% endfor %}
+                                        </section>

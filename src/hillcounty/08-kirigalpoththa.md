@@ -1,7 +1,7 @@
 ---
 title:  Kirigalpoththa
 subheading: Explore Sri Lanka's Natural Beauty at its Best
-image: /assets/img/hillcountry/15.jpg
+image: ./src/assets/img/hillcountry/15.jpg
 imagealt:  Kirigalpoththa
 id: kirigalpoththa
 description: 'Paragraph: Kirigalpoththa Hill Country is a must-visit destination for nature lovers and adventure seekers'

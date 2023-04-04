@@ -1,7 +1,7 @@
 ---
 title:  Sinharaja World Heritage
 subheading: Discover the Rich Biodiversity of Sinharaja World Heritage
-image: /assets/img/rain/2.jpeg
+image: ./src/assets/img/rain/2.jpeg
 imagealt:  Sinharaja World Heritage
 id:  sinharaja
 description: ' Sinharaja World Heritage is a world-renowned destination for nature enthusiasts and conservationists alike'

@@ -2,7 +2,7 @@
 title: Whale watching in Mirissa
 heading: Whale watching in Mirissa
 herosub:  Embark on an Unforgettable Marine Adventure
-image: /assets/img/thingstodo/17.jpeg
+image: ./src/assets/img/thingstodo/17.jpeg
 imagealt: Whale watching in Mirissa
 description: 'Mirissa, a coastal town located in the southern part of Sri Lanka, is famous for its stunning beaches and incredible marine life. Whale watching in Mirissa is a must-do activity for nature enthusiasts and adventure seekers alike.'
 

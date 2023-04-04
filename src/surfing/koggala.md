@@ -1,7 +1,7 @@
 ---
 title:  Koggala Beach 
 subheading: Discovering the Beauty of
-image: /assets/img/surf/2.jpeg
+image: ./src/assets/img/surf/2.jpeg
 imagealt:  Koggala Beach 
 id:  koggala
 description: 'As you explore Koggala Beach, you can spend your days lounging on the beach, soaking up the sun, and swimming in the turquoise waters.'

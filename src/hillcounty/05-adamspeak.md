@@ -1,7 +1,7 @@
 ---
 title:  Adam’s Peak
 subheading: Discover the Serenity of Sri Lanka's Sacred Mountain
-image: /assets/img/hillcountry/50.webp
+image: ./src/assets/img/hillcountry/50.webp
 imagealt:  Adam’s Peak
 id:  adamspeak
 description: 'This hilltop lookout provides breathtaking views of the lush tea estates and rolling hills that surround it'

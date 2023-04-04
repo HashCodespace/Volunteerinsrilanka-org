@@ -2,7 +2,7 @@
 title: Mihintale
 herosub : Discovering the Sacred City of Mihintale
 heading: A Spiritual Journey to Sri Lanka's Cultural Heart
-image: /assets/img/Mihintale.jpg
+image: ./src/assets/img/Mihintale.jpg
 imagealt: Mihintale
 description: 'Mihintale, located in the north-central part of Sri Lanka, is a holy city and a significant place of pilgrimage for Buddhists'
 

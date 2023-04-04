@@ -1,7 +1,7 @@
 ---
 title:  Mirissa 
 subheading: Discover the Serene Beaches of 
-image: /assets/img/beaches/13.jpeg
+image: ./src/assets/img/beaches/13.jpeg
 imagealt:  Mirissa 
 id:  mirissa
 description: "Mirissa's main beach is a crescent-shaped stretch of sand that is perfect for soaking up the sun or taking a refreshing dip in the ocean."

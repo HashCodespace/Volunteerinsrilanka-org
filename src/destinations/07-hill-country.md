@@ -3,7 +3,7 @@ title: Hill Country
 tags: featureddestinations
 herosub :  Explore the Majestic Landscapes and Rich Culture of Sri Lanka's Hill Country
 heading: 'Experience the Serenity and Beauty of the Mountains'
-image: /assets/img/hillcountry/9.jpeg
+image: ./src/assets/img/hillcountry/9.jpeg
 imagealt: Hill Country
 description: "Sri Lanka's Hill Country is a place of unparalleled natural beauty, featuring stunning landscapes of rolling hills, cascading waterfalls, and lush green tea plantations"
 

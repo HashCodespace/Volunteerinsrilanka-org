@@ -1,7 +1,7 @@
 ---
 title:  Namunukula
 subheading: A Picturesque Hilltop Village
-image: /assets/img/hillcountry/13.jpeg
+image: ./src/assets/img/hillcountry/13.jpeg
 imagealt:  Namunukula
 id:  namunukula
 description: 'Visitors to Namunukula can immerse themselves in the natural beauty of the area, taking in the rolling hills, verdant tea plantations, and vibrant flora and fauna'

@@ -4,233 +4,173 @@ layout: 'base.njk'
 eleventyImport:
   collections: ["faq"]
 ---
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
-
-
   <main>
     <article>
-
-      <!-- 
-        - #HERO
-      -->
-
+      <!--
+      - #HERO -->
       <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/4.jpeg');">
-        <div class="container"> 
-            <h2 class="h2 hero-title title page-title" id="title">
-              Who we are ?
-            </h2>
-          
-            <p class="hero-text" id="sub-title">
-              ABSOLUTELY WE'RE DIFFERENT
-
-            </p>
-
-           
-
-
-
-        </div>
-      </section> <!-- hero section pver -->
-
-
-
-
-
-
-
-
-
-
-
-      <section class="popular partner unset-align" id="destination" >
         <div class="container">
- 
-          <p class="section-subtitle"> About us </p>
-
+          <h2 class="h2 hero-title title page-title" id="title">
+            Who we are ?
+          </h2>
+          <p class="hero-text" id="sub-title">
+            ABSOLUTELY WE'RE DIFFERENT
+          </p>
+        </div>
+      </section>
+      <!-- hero section pver -->
+      <section class="popular partner unset-align" id="destination">
+        <div class="container">
+          <p class="section-subtitle">
+            About us
+          </p>
           <h2 class="h2 section-title">Empowering Volunteers to Make a Difference in Sri Lanka</h2>
-
           <p class="section-text ">
-            Volunteering Srilanka provides a safe, structured and social platform with volunteer, travel and immersion opportunities, available from 1-12 weeks. We make sure that each of our volunteering programs meets the high standard as expected and deserved by our volunteers. Safety is high on our priority list and we always make sure that you feel safe in all our placements. <br> <br>
-
-            Volunteering srilanka’s programs are accessible to everyone who wants to make a difference. This is achieved through low fees and high-impact projects. Our fees are 100% transparent – something our international volunteers really appreciate. <br> <br>
-  
-
-            Our structured programs create the perfect platform for you to see the beautiful Srilanka and meet like-minded people. Most importantly, you are able to engage in meaningful volunteer work. Our  team will provide support around the clock throughout your time with us.
-            <br><br>
-          </p>
-			
-		      <p class="section-subtitle"> To say it in short</p>
-
-          <h2 class="h3 section-title">“Volunteering SriLanka is the best way to volunteer, intern and travel across the beautiful srilanka.”</h2> 
-
-          <hr style="margin: 5rem  0;"> 
-
-         
-
-          <h2 class="h3 section-title">Safety and Risk Management</h2> 
-          <p class="section-text ">
-            Your safety is our top priority. Naturally, we can  guarantee a volunteer experience to be 100% trouble-free. However, we have taken all necessary precautions to ensure our programs are as safe as possible. <br><br>
-
-            Every program that Volunteering Srilanka offers has been personally inspected and selected by the volunteering Srilanka team. We have stayed in the accommodation, experienced the orientation and worked on the volunteer projects.
-
- 
-            <br><br>
-          </p>
-
-          <h3 class="h3 section-title">Having fun</h3>
-    		  <p class="section-text ">
-                One of the best aspects of volunteering is meeting some amazing like-minded people. We place volunteers  providing a platform for a social experience! Living and working alongside other international volunteers provides fantastic opportunities. For the reason that you will create treasured memories together of your experience abroad.
-                <br><br>
-                We provide our own exclusive Volunteer House accommodation. By providing shared volunteer accommodation, we ensure a strong social element. In addition, our team is always there to help you plan any independent travel!
-              </p>
-
-              <hr style="margin-top: 5rem;"> 
-        </div>
-      </section>
-
-      <section class="popular partner" id="destination" >
-        <div class="container">
-          <h3 class="h3 section-title">Still have any questions</h3> <br>
-
-          <div class="accordion js-accordion">
-            {% set num=1 %}
-            {% for item in collections.faq %}
-              {% if num==1 %}
-                {% set divclass= 'active' %}
-              {% else %}
-                {% set divclass= '' %}
-              {% endif %}
-              {% if num<11 %}
-                <div class="accordion__item js-accordion-item {{ divclass }}">
-                  <div class="accordion-header js-accordion-header">Q{{ num }}. <b>{{ item.data.title}} ?</b></div> 
-                  <div class="accordion-body js-accordion-body">
-                    <div class="accordion-body__contents">
-                      {{ item.templateContent | safe }}
-                    </div>
-                  <div class="accordion js-accordion">
-                    
-                  </div>
-                
-                  </div>
-              {% endif %}
-              </div>
-              {% set num=num+1 %}
-
-            {% endfor %}
-
-          </div>
-
-              <br><br>
-             <a href="/faq/">
-               <button class="btn btn-primary">Continue Reading</button>
-             </a>
-        </div>
-      </section>
-
-      <section class="cta" id="contact">
-        <div class="container">
-
-          <div class="cta-content cta-width">
-            <p class="section-subtitle">Ready to Join the Movement?</p>
-
-            <h2 class="h2 section-title cta-title-hash">Take the First Step, Join with us Today</h2>
-
-            <p class="section-text cta-title-hash">
-              Don't miss out on the opportunity to make a difference in Sri Lanka while exploring a new culture and gaining valuable international experience. Sign up for our affordable and life-changing volunteer program today and become a part of our worldwide network of volunteers dedicated to creating positive change
-            </p>
-          </div>
-
-          <a href="/apply-now/">
-            <button class="btn btn-primary">Join now</button>
-          </a>
-
-        </div>
-      </section>
-
-
-
-
-
-      <script  src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
-
-      <script defer >
-        var accordion = (function(){
-        
-        var $accordion = $('.js-accordion');
-        var $accordion_header = $accordion.find('.js-accordion-header');
-        var $accordion_item = $('.js-accordion-item');
-       
-        // default settings 
-        var settings = {
-          // animation speed
-          speed: 400,
-          
-          // close all other accordion items if true
-          oneOpen: false
-        };
-          
-        return {
-          // pass configurable object literal
-          init: function($settings) {
-            $accordion_header.on('click', function() {
-              accordion.toggle($(this));
-            });
-            
-            $.extend(settings, $settings); 
-            
-            // ensure only one accordion is active if oneOpen is true
-            if(settings.oneOpen && $('.js-accordion-item.active').length > 1) {
-              $('.js-accordion-item.active:not(:first)').removeClass('active');
-            }
-            
-            // reveal the active accordion bodies
-            $('.js-accordion-item.active').find('> .js-accordion-body').show();
-          },
-          toggle: function($this) {
-                  
-            if(settings.oneOpen && $this[0] != $this.closest('.js-accordion').find('> .js-accordion-item.active > .js-accordion-header')[0]) {
-              $this.closest('.js-accordion')
-                     .find('> .js-accordion-item') 
-                     .removeClass('active')
-                     .find('.js-accordion-body')
-                     .slideUp()
-            }
-            
-            // show/hide the clicked accordion item
-            $this.closest('.js-accordion-item').toggleClass('active');
-            $this.next().stop().slideToggle(settings.speed);
-          }
-        }
-      })();
-
-      $(document).ready(function(){
-        accordion.init({ speed: 300, oneOpen: true });
-      });
-        
-      </script>
-
-
-
-  <!-- partial -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
-
-<script  type="text/javascript">
-      gsap.registerPlugin(ScrollTrigger);     
-     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
-            let flagPoles = CSSRulePlugin.getRule(".card:before");
-
-
-            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
-            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
-            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
-            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
-            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
-            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
-    </script>
-
-
-
-
-
+            Volunteering Srilanka provides a safe, structured and social platform with volunteer, travel and immersion
+            opportunities, available from 1-12 weeks. We make sure that each of our volunteering programs meets the high standard as
+            expected and deserved by our volunteers. Safety is high on our priority list and we always make sure that you feel safe
+            in all our placements.
+            <br>
+              <br>
+                Volunteering srilanka’s programs are accessible to everyone who wants to make a difference. This is achieved through low
+                fees and high-impact projects. Our fees are 100% transparent – something our international volunteers really appreciate.
+                <br>
+                  <br>
+                    Our structured programs create the perfect platform for you to see the beautiful Srilanka and meet like-minded people.
+                    Most importantly, you are able to engage in meaningful volunteer work. Our team will provide support around the clock
+                    throughout your time with us.
+                    <br>
+                      <br></p>
+                      <p class="section-subtitle">
+                        To say it in short</p>
+                      <h2 class="h3 section-title">“Volunteering SriLanka is the best way to volunteer, intern and travel across the beautiful
+                        srilanka.”</h2>
+                      <hr style="margin: 5rem  0;">
+                        <h2 class="h3 section-title">Safety and Risk Management</h2>
+                        <p class="section-text ">
+                          Your safety is our top priority. Naturally, we can guarantee a volunteer experience to be 100% trouble-free. However, we
+                          have taken all necessary precautions to ensure our programs are as safe as possible.
+                          <br>
+                            <br>
+                              Every program that Volunteering Srilanka offers has been personally inspected and selected by the volunteering Srilanka
+                              team. We have stayed in the accommodation, experienced the orientation and worked on the volunteer projects.
+                              <br>
+                                <br></p>
+                                <h3 class="h3 section-title">Having fun</h3>
+                                <p class="section-text ">
+                                  One of the best aspects of volunteering is meeting some amazing like-minded people. We place volunteers providing a
+                                  platform for a social experience! Living and working alongside other international volunteers provides fantastic
+                                  opportunities. For the reason that you will create treasured memories together of your experience abroad.
+                                  <br>
+                                    <br>
+                                      We provide our own exclusive Volunteer House accommodation. By providing shared volunteer accommodation, we ensure a
+                                      strong social element. In addition, our team is always there to help you plan any independent travel!
+                                    </p>
+                                    <hr style="margin-top: 5rem;"></div>
+                                  </section>
+                                  <section class="popular partner" id="destination">
+                                    <div class="container">
+                                      <h3 class="h3 section-title">Still have any questions</h3>
+                                      <br>
+                                        <div class="accordion js-accordion">
+                                          {% set num=1 %}
+                                          {% for item in collections.faq %}
+                                            {% if num==1 %}
+                                              {% set divclass= 'active' %}
+                                            {% else %}
+                                              {% set divclass= '' %}
+                                            {% endif %}
+                                            {% if num<11 %}
+                                              <div class="accordion__item js-accordion-item {{ divclass }}">
+                                                <div class="accordion-header js-accordion-header">Q{{ num }}.
+                                                  <b>{{ item.data.title }} ?</b>
+                                                </div>
+                                                <div class="accordion-body js-accordion-body">
+                                                  <div class="accordion-body__contents">
+                                                    {{ item.templateContent | safe }}
+                                                  </div>
+                                                  <div class="accordion js-accordion"></div>
+                                                </div>
+                                              {% endif %}
+                                            </div>
+                                            {% set num=num+1 %}
+                                          {% endfor %}
+                                        </div>
+                                        <br>
+                                          <br>
+                                            <a href="/faq/">
+                                              <button class="btn btn-primary">Continue Reading</button>
+                                            </a>
+                                          </div>
+                                        </section>
+                                        <section class="cta" id="contact">
+                                          <div class="container">
+                                            <div class="cta-content cta-width">
+                                              <p class="section-subtitle">Ready to Join the Movement?</p>
+                                              <h2 class="h2 section-title cta-title-hash">Take the First Step, Join with us Today</h2>
+                                              <p class="section-text cta-title-hash">
+                                                Don't miss out on the opportunity to make a difference in Sri Lanka while exploring a new culture and gaining valuable
+                                                international experience. Sign up for our affordable and life-changing volunteer program today and become a part of our
+                                                worldwide network of volunteers dedicated to creating positive change
+                                              </p>
+                                            </div>
+                                            <a href="/apply-now/">
+                                              <button class="btn btn-primary">Join now</button>
+                                            </a>
+                                          </div>
+                                        </section>
+                                        <script
+                                          src="https://code.jquery.com/jquery-3.6.4.min.js"
+                                          integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+                                          crossorigin="anonymous"></script>
+                                        <script defer>
+                                          var accordion = (function () {
+                                            var $accordion = $('.js-accordion');
+                                            var $accordion_header = $accordion.find('.js-accordion-header');
+                                            var $accordion_item = $('.js-accordion-item');
+                                            // default settings
+                                            var settings = { // animation speed
+                                              speed: 400,
+                                              // close all other accordion items if true
+                                              oneOpen: false
+                                            };
+                                            return { // pass configurable object literal
+                                              init: function ($settings) {
+                                                $accordion_header.on('click', function () {
+                                                  accordion.toggle($(this));
+                                                });
+                                                $.extend(settings, $settings);
+                                                // ensure only one accordion is active if oneOpen is true
+                                                if (settings.oneOpen && $('.js-accordion-item.active').length > 1) {
+                                                  $('.js-accordion-item.active:not(:first)').removeClass('active');
+                                                }
+                                                // reveal the active accordion bodies
+                                                $('.js-accordion-item.active').find('> .js-accordion-body').show();
+                                              },
+                                              toggle: function ($this) {
+                                                if (
+                                                  settings.oneOpen &&
+                                                  $this[0] != $this.closest('.js-accordion').find('> .js-accordion-item.active > .js-accordion-header')[0]
+                                                ) {
+                                                  $this
+                                                    .closest('.js-accordion')
+                                                    .find('> .js-accordion-item')
+                                                    .removeClass('active')
+                                                    .find('.js-accordion-body')
+                                                    .slideUp()
+                                                }
+                                                // show/hide the clicked accordion item
+                                                $this.closest('.js-accordion-item').toggleClass('active');
+                                                $this
+                                                  .next()
+                                                  .stop()
+                                                  .slideToggle(settings.speed);
+                                              }
+                                            }
+                                          })();
+                                          $(document).ready(function () {
+                                            accordion.init({speed: 300, oneOpen: true});
+                                          });
+                                        </script>

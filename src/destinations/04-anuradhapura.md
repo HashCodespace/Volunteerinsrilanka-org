@@ -2,7 +2,7 @@
 title: Anuradhapura
 tags: featureddestinations
 heading: Explore the Ruins of a Magnificent Civilization
-image: /assets/img/anuradhapura/2.jpeg
+image: ./src/assets/img/anuradhapura/2.jpeg
 imagealt: Anuradhapura
 description: 'It was the center of Theravada Buddhism for many centuries and is home to many ancient ruins and religious sites that attract visitors from around the world.'
 

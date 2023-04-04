@@ -1,7 +1,7 @@
 ---
 title:  Hikkaduwa 
 subheading: Discovering the Beauty of 
-image: /assets/img/thingstodo/30.jpeg
+image: ./src/assets/img/thingstodo/30.jpeg
 imagealt:  Hikkaduwa 
 id:  hikkaduwa
 description: 'As you explore Hikkaduwa, you can spend your days lounging on the beach, soaking up the sun, and swimming in the turquoise waters.'

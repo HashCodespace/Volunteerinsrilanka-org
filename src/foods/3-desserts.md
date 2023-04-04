@@ -1,6 +1,6 @@
 ---
 title:  Desserts
-image: /assets/img/foods/4.jpeg
+image: ./src/assets/img/foods/4.jpeg
 imagealt:  Desserts
 id:  desserts
 description: "It’s not just spicy food that Sri Lanka is famous for and those with a sweet tooth will encounter plenty to tempt their taste buds."

@@ -1,7 +1,7 @@
 ---
 title:  Kalpitiya 
 subheading:  Experience Thrilling Water Sports and More
-image: /assets/img/thingstodo/23.jpeg
+image: ./src/assets/img/thingstodo/23.jpeg
 imagealt:  Kalpitiya 
 id:  kalpitiya
 description: 'Kalpitiya is a coastal town situated in the northwestern province of Sri Lanka. The town is rapidly gaining popularity among adventure seekers due to its stunning beaches and thrilling water sports activities.'

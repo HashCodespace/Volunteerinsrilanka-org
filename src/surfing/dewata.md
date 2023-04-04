@@ -1,7 +1,7 @@
 ---
 title:  Dewata
 subheading: Discovering the Beauty of
-image: /assets/img/surf/5.jpeg
+image: ./src/assets/img/surf/5.jpeg
 imagealt:  Dewata
 id:  Dewata
 description: 'One of the main attractions in Dewata is the stunning Dewata Beach, which is known for its clear blue waters and golden sandy shores. '

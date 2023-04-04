@@ -2,7 +2,7 @@
 title: Matara & Tangalle
 herosub :
 heading: Explore the Serene Beaches and Rich Culture of Sri Lanka's Southern Coast
-image: /assets/img/tangalle/4.jpeg
+image: ./src/assets/img/tangalle/4.jpeg
 imagealt: Matara & Tangalle
 description: 'Matara and Tangalle are two charming coastal towns located in the southern region of Sri Lanka, offering an authentic Sri Lankan experience to visitors. With its picturesque beaches, vibrant culture, and warm hospitality, this area of Sri Lanka is a must-visit for travelers looking to explore beyond the typical tourist hotspots.'
 

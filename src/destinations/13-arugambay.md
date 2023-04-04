@@ -2,7 +2,7 @@
 title: Arugam Bay
 herosub : Experience the Beauty of Sri Lanka's East Coast
 heading: Arugam Bay - A Surfer's Paradise
-image: /assets/img/arugambay/4.jpeg
+image: ./src/assets/img/arugambay/4.jpeg
 imagealt: Arugam Bay
 description: 'A small town located on the east coast of Sri Lanka, famous for its world-class surfing waves and stunning natural beauty. It is a paradise for surfers from around the globe, attracting thousands of visitors every year. '
 

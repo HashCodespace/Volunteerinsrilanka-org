@@ -1,7 +1,7 @@
 ---
 title:  Koggala 
 subheading: Discovering the Best of 
-image: /assets/img/beaches/20.jpg
+image: ./src/assets/img/beaches/20.jpg
 imagealt:  Koggala 
 id:  koggala
 description: "Koggala is a small coastal town situated in the southern province of Sri Lanka. The town is known for its picturesque beaches, crystal-clear waters, and lush greenery, making it an ideal destination for a tranquil escape. "

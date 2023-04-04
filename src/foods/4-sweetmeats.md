@@ -1,6 +1,6 @@
 ---
 title:  Traditional Sweetmeats
-image: /assets/img/foods/20.jpeg
+image: ./src/assets/img/foods/20.jpeg
 imagealt:  Traditional Sweetmeats
 id:  sweetmeats
 description: "The various annual religious and cultural festivals present the ideal time to savour traditional dishes known as ‘sweetmeats’."

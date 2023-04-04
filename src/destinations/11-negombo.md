@@ -2,7 +2,7 @@
 title: Negombo
 herosub : The Little Rome of Sri Lanka
 heading: A coastal town with a rich cultural heritage
-image: /assets/img/negambo/2.jpeg
+image: ./src/assets/img/negambo/2.jpeg
 imagealt: Negombo
 description: 'Negombo, situated on the west coast of Sri Lanka, is a vibrant town known for its stunning beaches, rich cultural heritage, and charming colonial architecture'
 

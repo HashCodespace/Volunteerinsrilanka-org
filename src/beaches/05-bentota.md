@@ -1,7 +1,7 @@
 ---
 title:  Bentota 
 subheading: A Perfect Beach Getaway 
-image: /assets/img/beaches/2.jpeg
+image: ./src/assets/img/beaches/2.jpeg
 imagealt:  Bentota 
 id:  bentota
 description: "Bentota, a popular coastal town in Sri Lanka, is a paradise for beach lovers. The pristine beaches, crystal-clear waters, and lush greenery make it an ideal destination for relaxation and rejuvenation. "

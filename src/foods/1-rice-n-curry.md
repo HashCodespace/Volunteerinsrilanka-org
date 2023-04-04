@@ -1,6 +1,6 @@
 ---
 title:  Rice & Curry
-image: /assets/img/foods/5.jpeg
+image: ./src/assets/img/foods/5.jpeg
 imagealt:  Rice & Curry
 id:  ricenvurry
 description: 'A quintessential Sri Lankan favourite, rice and curry is very much a part of the national cuisine.'

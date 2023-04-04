@@ -6,85 +6,73 @@ eleventyImport:
   collections: ["destinations"]
 ---
 
-
-  <main>
-    <article>
-
-      <!-- 
-        - #HERO
-      -->
-
-      <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/3.jpeg');">
-        <div class="container"> 
-            <h2 class="h2 hero-title title page-title" id="title">
-              Explore Sri Lanka's <br><font-custom>Popular Destinations</font-custom> 
-            </h2>
-          
-            <p class="hero-text" id="sub-title">
-              Immerse Yourself in the Culture and Scenery of These Must-Visit Places
-            </p>
-
-           
-
-
-
-        </div>
-      </section> <!-- hero section pver -->
-
-
-
-
-
-
-
-
-
-
-
-      <section class="popular partner " id="destination" >
-        <div class="container"> <br><br>
- 
-          <p class="section-subtitle"> Explore the Wonders of Sri Lanka's </p>
-
-          <h2 class="h2 section-title">Top Tourist Spots</h2>
-
-          <p class="section-text" >
-            Are you ready to discover the hidden gems of Sri Lanka? <br>Our popular destinations page is your ultimate guide to exploring the best of Sri Lanka's sights and attractions. <br> From stunning beaches to ancient ruins and cultural landmarks, we've got you covered. <br><br><br>
-
+<main>
+  <article>
+    <!--
+    - #HERO -->
+    <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/3.jpeg');">
+      <div class="container">
+        <h2 class="h2 hero-title title page-title" id="title">
+          Explore Sri Lanka's
+          <br>
+            <font-custom>Popular Destinations</font-custom>
+          </h2>
+          <p class="hero-text" id="sub-title">
+            Immerse Yourself in the Culture and Scenery of These Must-Visit Places
           </p>
-          <ul class="popular-list">
-            {% set sectionname = "Popular Destinations" %}
-            {% for item in collections.destinations %}
-
-              {% include 'popularcard.njk' %}
-            {% endfor %}
-          </ul> 
-			
-		         </div>
+        </div>
       </section>
+      <!-- hero section pver -->
+      <section class="popular partner " id="destination">
+        <div class="container">
+          <br>
+            <br>
+              <p class="section-subtitle">
+                Explore the Wonders of Sri Lanka's
+              </p>
+              <h2 class="h2 section-title">Top Tourist Spots</h2>
+              <p class="section-text">
+                Are you ready to discover the hidden gems of Sri Lanka?
+                <br>Our popular destinations page is your ultimate guide to exploring the best of Sri Lanka's sights and attractions.
+                  <br>
+                    From stunning beaches to ancient ruins and cultural landmarks, we've got you covered.
+                    <br>
+                      <br>
+                        <br></p>
+                        <ul class="popular-list">
+                          {% set sectionname = "Popular Destinations" %}
+                          {% for item in collections.destinations %}
+                            <li>
+                              <a href="{{ item.url }}">
+                                <div class="popular-card">
 
+                                  <figure class="card-img">
+                                    {% image item.data.image , item.data.imagealt, "(min-width: 300em) 50vw, 100vw" , "" %}
+                                  </figure>
 
+                                  <div class="card-content">
 
-  <!-- partial -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
+                                    <div></div>
+                                    <p class="card-subtitle">
+                                      <a href="{{ item.url }}">{{ sectionname }}</a>
+                                    </p>
 
-<script  type="text/javascript">
-      gsap.registerPlugin(ScrollTrigger);     
-     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
-            let flagPoles = CSSRulePlugin.getRule(".card:before");
+                                    <h3 class="h3 card-title">
+                                      <a href="{{ item.url }}">{{ item.data.title }}</a>
+                                    </h3>
+                                    <a href="{{ item.url }}">
+                                      <p class="card-text">
+                                        {{ item.data.description }}
+                                      </p>
+                                    </a>
+                                    
 
+                                  </div>
 
-            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
-            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
-            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
-            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
-            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
-            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
-    </script>
-
-
-
-
-
+                                </div>
+                              </a>
+                            </li>
+                          {% endfor %}
+                        </ul>
+                      </div>
+                    </section>

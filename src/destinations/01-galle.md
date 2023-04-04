@@ -1,7 +1,7 @@
 ---
 title: Galle
 heading: Discovering the Charm of Galle
-image: /assets/images/com/11.jpg
+image: ./src/assets/img/galle/8.jpeg
 imagealt: Galle Fort
 description: 'With its stunning beaches, ancient fortifications, and rich heritage, Galle offers a unique and unforgettable travel experience. '
 

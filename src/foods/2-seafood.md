@@ -1,6 +1,6 @@
 ---
 title:  Seafood
-image: /assets/img/foods/14.jpeg
+image: ./src/assets/img/foods/14.jpeg
 imagealt:  Seafood
 id:  seafood
 description: 'What better place to enjoy the most delectable seafood than by the coast!'

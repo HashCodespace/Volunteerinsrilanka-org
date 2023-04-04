@@ -2,7 +2,7 @@
 title: Batticaloa
 herosub : Discovering the Hidden Gems of Batticaloa
 heading: A Journey Through Eastern Sri Lanka
-image: /assets/img/batti.jpeg
+image: ./src/assets/img/batti.jpeg
 imagealt: Batticaloa
 description: "A city situated in the eastern province of Sri Lanka, is known for its serene beaches, picturesque lagoons, and historical landmarks."
 

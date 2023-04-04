@@ -1,7 +1,7 @@
 ---
 title:  Weligama
 subheading: A Seaside Haven in Sri Lanka
-image: /assets/img/thingstodo/18.jpeg
+image: ./src/assets/img/thingstodo/18.jpeg
 imagealt:  Weligama
 id:  weligama
 description: 'The town is surrounded by sandy beaches and palm trees, making it an ideal destination for those looking for a relaxing beach getaway.'

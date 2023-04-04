@@ -1,7 +1,7 @@
 ---
 title:  Knuckles
 subheading: Explore the Natural Beauty of 
-image: /assets/img/rain/1.jpeg
+image: ./src/assets/img/rain/1.jpeg
 imagealt:  Knuckles
 id:  knuckles
 description: ' Embark on an unforgettable journey to the majestic Knuckles mountain range in Sri Lanka. '

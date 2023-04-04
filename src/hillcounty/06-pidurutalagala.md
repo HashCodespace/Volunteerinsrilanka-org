@@ -1,7 +1,7 @@
 ---
 title:  Pidurutalagala
 subheading: Discover the highest mountain in Sri Lanka
-image: /assets/img/hillcountry/16.jpeg
+image: ./src/assets/img/hillcountry/16.jpeg
 imagealt:  Pidurutalagala
 id:  pidurutalagala
 description: 'Pidurutalagala, standing at an elevation of 2,524 meters above sea level, is the highest mountain peak in Sri Lanka'

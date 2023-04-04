@@ -2,7 +2,7 @@
 title: Kandy
 tags: featureddestinations
 heading: Discover the Wonders of Kandy
-image: /assets/images/com/6.jpeg
+image: ./src/assets/img/kandy/3.jpeg
 imagealt: Kandy 
 description: 'The home to the famous Temple of the Tooth, which holds a sacred relic of Buddha, and boasts a rich history and culture'
 

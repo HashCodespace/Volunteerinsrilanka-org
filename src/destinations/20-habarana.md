@@ -2,7 +2,7 @@
 title:  Habarana
 herosub : Experience Nature at its Finest
 heading: Discover Habarana, Sri Lanka's Nature Gem
-image: /assets/img/habarana-village-by-cinnamon-romantic-dining.jpg
+image: ./src/assets/img/habarana-village-by-cinnamon-romantic-dining.jpg
 imagealt:  Habarana
 description: "Habarana is a small town located in the heart of Sri Lanka's Cultural Triangle. Surrounded by stunning landscapes, this town offers an unforgettable experience for nature lovers."
 

@@ -1,8 +1,9 @@
 ---
 title: Safari Adventures
 heading: Exploring the Wild Side of Sri Lanka
+tags: featuredthings
 herosub: Safari Adventures
-image: /assets/img/thingstodo/11.jpeg
+image: ./src/assets/img/thingstodo/11.jpeg
 imagealt: Safari Adventures in Sri Lanka
 description: 'Going on a safari is one of the best ways to get up close and personal with the wild animals that call Sri Lanka home.'
 

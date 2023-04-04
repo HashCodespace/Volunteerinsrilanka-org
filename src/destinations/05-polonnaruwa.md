@@ -2,7 +2,7 @@
 title: Polonnaruwa
 herosub:  Explore the Ancient City of Polonnaruwa
 heading:  Immerse Yourself in the Rich History of Sri Lanka
-image: /assets/img/polonnaruwa/6.jpeg
+image: ./src/assets/img/polonnaruwa/6.jpeg
 imagealt: Polonnaruwa
 description: 'You can marvel at the ancient ruins, such as the Royal Palace, the Quadrangle, and the Gal Vihara, a group of beautiful Buddhist statues carved out of granite.'
 

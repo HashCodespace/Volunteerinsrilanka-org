@@ -51,8 +51,8 @@ layout: 'base.njk'
           <div class="container" style="justify-content: center;width: 90%;">
       
 
-            <form action="" class="tour-search-form" style="gap:2rem;">
-
+            <form action="" class="tour-search-form" name="Applications" style="gap:2rem;" method="POST" netlify>
+              <input type="hidden" name="form-name" value="Applications">
               <div class="input-wrapper">
                 <label for="first-name" class="input-label">First Name*</label>
 
@@ -422,24 +422,7 @@ layout: 'base.njk'
 
 
 
-  <!-- partial -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/CSSRulePlugin.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js'></script>
-
-<script  type="text/javascript">
-      gsap.registerPlugin(ScrollTrigger);     
-     tl = gsap.timeline({defaults: {ease: "power4.inOut", duration: 2}});
-            let flagPoles = CSSRulePlugin.getRule(".card:before");
-
-
-            // tl.to('h1', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, repeat: -2, y: 0, duration: 2.2})
-            tl.to('.form', { 'clip-path': 'polygon(0% 100%, 100% 100%, 100% 0%, 0% 0%)', opacity: 1, y: 0, duration: 2.2})
-            gsap.from('.card', {scrollTrigger: '.card' , scaleY: 0, stagger: .2}, "-=2")
-            // tl.from(flagPoles, {  stagger: 1, opacity: 0, transform: 'translateY(100px)' }, "-=2")
-            tl.to('.desc', { stagger: .1, duration: 1.2, opacity: 1, y: 0}, "-=2")
-            // gsap.to('footer', {scrollTrigger: 'footer' ,opacity: 1}, "-=2")
-    </script>
+ 
  <preload class="display-none">
    <img src="/assets/images/com/1.jpeg" alt="">
    <img src="/assets/images/com/2.jpeg" alt="">

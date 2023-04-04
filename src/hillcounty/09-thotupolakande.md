@@ -1,7 +1,7 @@
 ---
 title:  Thotupola Kande
 subheading:  Experience the Breathtaking Views and Serene Ambiance
-image: /assets/img/hillcountry/17.jpeg
+image: ./src/assets/img/hillcountry/17.jpeg
 imagealt:  Thotupola Kande
 id: thotupolakande
 description: 'Rising up to a height of 2,357 meters, it offers some of the most stunning views of the surrounding landscapes'

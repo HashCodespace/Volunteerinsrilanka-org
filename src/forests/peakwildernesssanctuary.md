@@ -1,7 +1,7 @@
 ---
 title:  Peak Wilderness Sanctuary
 subheading: Explore a Pristine Wilderness in the Heart of Sri Lanka
-image: /assets/img/rain/4.jpeg
+image: ./src/assets/img/rain/4.jpeg
 imagealt:  Peak Wilderness Sanctuary
 id:  peakwildernesssanctuary
 description: 'Here, you can hike through lush forests, scale mountain peaks, and witness breathtaking views of misty valleys.'

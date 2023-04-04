@@ -1,7 +1,7 @@
 ---
 title:  Kirinda 
 subheading: Explore ancient ruins, scenic beaches, and wildlife encounters in
-image: /assets/img/thingstodo/20.jpeg
+image: ./src/assets/img/thingstodo/20.jpeg
 imagealt:  Kirinda 
 id:  Kirinda
 description: 'Located on the southern coast of Sri Lanka, Kirinda is a small coastal town that is often overlooked by tourists. However, this hidden gem has plenty to offer for those who venture off the beaten path.'

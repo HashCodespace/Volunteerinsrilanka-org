@@ -2,7 +2,7 @@
 title: Dambulla
 herosub : A UNESCO World Heritage Site in Sri Lanka
 heading: Discover the Ancient Marvels of Dambulla
-image: /assets/img/dambulla/2.jpeg
+image: ./src/assets/img/dambulla/2.jpeg
 imagealt: Dambulla
 description: 'The most famous attraction in Dambulla is the ancient cave temple complex, a UNESCO World Heritage site, which contains over 150 statues of Buddha and several impressive frescoes'
 

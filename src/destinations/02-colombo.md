@@ -1,7 +1,7 @@
 ---
 title: Colombo
 heading: The Vibrant Heart of Sri Lanka
-image: /assets/img/colombo/3.jpeg
+image: ./src/assets/img/colombo/3.jpeg
 imagealt: Colombo
 description: 'Colombo, the bustling capital city of Sri Lanka, is a vibrant and diverse destination filled with history, culture, and entertainment.'
 

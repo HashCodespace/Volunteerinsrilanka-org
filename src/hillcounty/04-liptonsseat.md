@@ -1,7 +1,7 @@
 ---
 title:  Liptons Seat
 subheading: Enjoy Panoramic Views of Hill Country at 
-image: /assets/img/hillcountry/11.jpeg
+image: ./src/assets/img/hillcountry/11.jpeg
 imagealt:  Liptons Seat
 id:  liptonsseat
 description: 'This hilltop lookout provides breathtaking views of the lush tea estates and rolling hills that surround it'

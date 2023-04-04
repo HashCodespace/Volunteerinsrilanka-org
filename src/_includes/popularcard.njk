@@ -3,7 +3,8 @@
     <div class="popular-card">
 
       <figure class="card-img">
-        <img src="{{ item.data.image }}" alt="{{ item.data.imagealt }}" loading="lazy">
+        {% image item.data.image , item.data.imagealt, "(min-width: 300em) 50vw, 100vw" , "" %}
+        {# <img src="{{ item.data.image }}" alt="{{ item.data.imagealt }}" loading="lazy"> #}
       </figure>
 
       <div class="card-content">

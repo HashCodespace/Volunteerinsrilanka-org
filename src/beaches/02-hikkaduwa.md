@@ -1,7 +1,7 @@
 ---
 title:  Hikkaduwa 
 subheading: Discovering the Best of 
-image: /assets/img/beaches/9.jpeg
+image: ./src/assets/img/beaches/9.jpeg
 imagealt:  Hikkaduwa 
 id:  hikkaduwa
 description: 'Hikkaduwa is a popular beach town situated on the southern coast of Sri Lanka. With its golden sand beaches, clear blue waters, and vibrant coral reefs, Hikkaduwa is a haven for surfers, snorkelers, and beach lovers alike. '

@@ -1,7 +1,7 @@
 ---
 title:  Ahangama
 subheading: A Surfing Paradise in Sri Lanka
-image: /assets/img/surf/4.jpeg
+image: ./src/assets/img/surf/4.jpeg
 imagealt:  Ahangama
 id:  ahangama
 description: ' The town offers a unique and thrilling experience with its surf breaks that cater to beginners as well as advanced surfers.'

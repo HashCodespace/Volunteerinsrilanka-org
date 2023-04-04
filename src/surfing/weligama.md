@@ -1,7 +1,7 @@
 ---
 title:  Weligama
 subheading:  A Coastal Paradise in Sri Lanka
-image: /assets/img/surf/6.jpeg
+image: ./src/assets/img/surf/6.jpeg
 imagealt:  Weligama
 id:  weligama
 description: 'Weligama is a small town situated on the southern coast of Sri Lanka, known for its stunning beaches, delectable seafood and rich cultural heritage. '

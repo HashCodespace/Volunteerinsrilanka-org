@@ -1,7 +1,7 @@
 ---
 title:  Haputale
 subheading: Discover the Tranquil Beauty of Sri Lanka's Hill Country
-image: /assets/img/hillcountry/8.jpeg
+image: ./src/assets/img/hillcountry/8.jpeg
 imagealt:  Haputale
 id:  haputale
 description: 'A charming hill country town nestled in the mountains of Sri Lanka, offering a serene and peaceful getaway from the hustle and bustle of city life.'

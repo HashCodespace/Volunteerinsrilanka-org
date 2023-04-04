@@ -1,7 +1,7 @@
 ---
 title:  Weligama 
 subheading: Discovering the Best of 
-image: /assets/img/beaches/17.jpeg
+image: ./src/assets/img/beaches/17.jpeg
 imagealt:  Weligama 
 id:  Weligama
 description: 'Weligama is a quaint little fishing town located on the southern coast of Sri Lanka. With its stunning crescent-shaped beach, Weligama is a paradise for surfers and beach lovers alike. '
