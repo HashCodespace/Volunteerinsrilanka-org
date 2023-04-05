@@ -10,10 +10,10 @@ layout: 'base.njk'
     - #HERO -->
     <section class="pages-hero page-over" id="home" >
       <div class="container">
-        <h2 class="h2 hero-title title page-title" id="title">
+        <h2 class="h2 hero-title title page-title" id="title" data-reveal>
           Discover the Rich Flavors of Sri Lankan Cuisine
         </h2>
-        <p class="hero-text" id="sub-title">
+        <p class="hero-text" id="sub-title" data-reveal>
           A Culinary Journey Through Sri Lanka
         </p>
       </div>
@@ -22,10 +22,10 @@ layout: 'base.njk'
     <!-- hero section pver -->
     <section class="popular partner " id="destination">
       <div class="container">
-        <h2 class="h2 section-title">Sri Lankan Food & Drinks</h2>
+        <h2 class="h2 section-title" data-reveal> Sri Lankan Food & Drinks</h2>
         <br>
           <br>
-            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;" data-reveal>
               Sri Lankan cuisine is known for its explosive flavours and the unique blend of exotic spices. This culinary variety is,
               in fact, a perfect representation of the resourceful islanders and the different ethnic groups that can be found here.
               When it comes to what to eat in Sri Lanka, foodies are spoilt for choice be it spicy or sweet, made with local
@@ -35,7 +35,7 @@ layout: 'base.njk'
               <br>
                 <ul class="popular-list">
                   {% for item in collections.foods %}
-                    <li>
+                    <li data-reveal>
                       <a href="#{{ item.data.id }}">
                         <div class="popular-card">
                           <figure class="card-img">
@@ -64,12 +64,12 @@ layout: 'base.njk'
                       <br>
                         {% for subitem in collections.foods %}
                           <section id="{{ subitem.data.id }}">
-                            <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
+                            <h2 class="h2 section-title" data-reveal>{{ subitem.data.title }}</h2>
                             <br>
                               <br>
-                                <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+                                <div class="section-text " style="display:flex;flex-direction: column;align-items: center;" data-reveal>
                                   {{ subitem.templateContent | safe }}
                                 </div>
-                                <hr style="margin-top: 5rem;margin-bottom: 5rem;"></section>
+                                <hr style="margin-top: 5rem;margin-bottom: 5rem;" data-reveal></section>
                               {% endfor %}
                             </section>

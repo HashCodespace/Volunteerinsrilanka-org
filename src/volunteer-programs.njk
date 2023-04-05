@@ -10,11 +10,11 @@ layout: 'base.njk'
     - #HERO -->
     <section class="pages-hero" id="home" style="background-image: url('/assets/img/cc/14.png');">
       <div class="container">
-        <h2 class="h2 hero-title title page-title" id="title">
+        <h2 class="h2 hero-title title page-title" id="title" data-reveal>
           Join Our Volunteer Program <br>
           Make a Difference in Sri Lanka
         </h2>
-        <p class="hero-text" id="sub-title">
+        <p class="hero-text" id="sub-title" data-reveal>
           Experience the Joy of Giving Back and Helping Local Communities
         </p>
       </div>
@@ -25,7 +25,7 @@ layout: 'base.njk'
           <ul class="popular-list">
             {% set sectionname = "Volunteer Programs" %}
             {% for item in collections.programs %}
-              <li>
+              <li data-reveal>
                 <a href="{{ item.url }}">
                   <div class="popular-card">
 
@@ -58,5 +58,40 @@ layout: 'base.njk'
 
             {% endfor %}
           </ul>
+          <br>
+          <br>
+          <hr style="margin-top: 5rem;margin-bottom: 5rem;" data-reveal="" class="revealed">
+          <br>
+          <br>
+          <br>
+          <ul class="package-list">
+          <li data-reveal="" class="revealed">
+            <div class="package-card" style="grid-template-columns: 1.3fr 1.5fr;">
+              <figure class="card-banner">
+                {% image "./src/assets/img/galle/8.jpeg" , "Enchanting Wonders of Sri Lanka", "(min-width: 300em) 50vw, 100vw" , "" %}
+                
+                
+              </figure>
+              <div class="card-content scooter-card">
+                <h3 class="h3 card-title">Project Area</h3>
+                <ul class="card-meta-list">
+                  <li class="card-meta-item">
+                    <div class="meta-box">
+                      <ion-icon name="location" role="img" class="md hydrated" aria-label="location"></ion-icon>
+                      <p class="text">Galle, Sri Lanka</p>
+                    </div>
+                  </li>
+                </ul>
+                <br>
+                <p class="card-text">
+                  Our volunteer project is located in Galle and offers a unique opportunity to experience the local culture and contribute to the community through various volunteer programs. As a volunteer in Galle, you will have the chance to work with local communities, learn new skills, and make a positive impact on the lives of those in need. Whether you are teaching English, caring for sea turtles, or working on community development projects, you will be immersed in the local way of life and have an unforgettable experience. With its friendly locals, beautiful landscapes, and endless opportunities for adventure, Galle is the perfect destination for a meaningful and rewarding volunteer experience.
+                </p>
+                <a href="/project-area/" style="display:inline-flex;">
+                  <button class="btn btn-secondary btn-green-no-fill">More Info</button>
+                </a>
+              </div>
+            </div>
+          </li>
+        </ul>
         </div>
                     </section>

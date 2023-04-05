@@ -10,12 +10,12 @@ layout: 'base.njk'
     - #HERO -->
     <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/3.jpeg');">
       <div class="container">
-        <h2 class="h2 hero-title title page-title" id="title">
+        <h2 class="h2 hero-title title page-title" id="title" data-reveal>
           Beach Bliss in Sri Lanka
           <br>
             Where Sun, Sea and Sand Meet
           </h2>
-          <p class="hero-text" id="sub-title">
+          <p class="hero-text" id="sub-title" data-reveal>
             Discover the Best Beaches and Activities on the Island
           </p>
         </div>
@@ -24,10 +24,10 @@ layout: 'base.njk'
       <section class="popular partner " id="destination">
         <div class="container">
           <p class="section-subtitle">
-            <h2 class="h2 section-title">Beach Bliss</h2>
+            <h2 class="h2 section-title" data-reveal>Beach Bliss</h2>
             <br>
               <br>
-                <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+                <div class="section-text " style="display:flex;flex-direction: column;align-items: center;" data-reveal>
                   Sri Lanka is known for its tropical climate, scenic landscapes, and pristine beaches that stretch for miles. With
                   crystal-clear waters, soft sandy beaches, and a laid-back vibe, the island's coastline is a true paradise for beach
                   lovers. Whether you're looking to soak up the sun, catch a wave, or enjoy a relaxing stroll along the shore, there's a
@@ -47,11 +47,12 @@ layout: 'base.njk'
                             <br></div>
                             <ul class="popular-list">
                               {% for item in collections.beaches %}
-                                <li>
+                                <li data-reveal>
                                   <a href="#{{ item.data.id }}">
                                     <div class="popular-card">
                                       <figure class="card-img">
-                                        <img src="{{ item.data.image }}" alt="{{ item.data.imagealt }}" loading="lazy"></figure>
+                                        {% image item.data.image , item.data.imagealt, "(min-width: 300em) 50vw, 100vw" , "" %}
+                                        </figure>
                                         <div class="card-content">
                                           <p class="card-subtitle">
                                             <a href="#{{ item.data.id }}">beaches & Snorkeling</a>
@@ -75,13 +76,13 @@ layout: 'base.njk'
                                   <br>
                                     {% for subitem in collections.beaches %}
                                       <section id="{{ subitem.data.id }}">
-                                        <p class="section-subtitle">{{ subitem.data.subheading }}</p>
-                                        <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
+                                        <p class="section-subtitle" data-reveal>{{ subitem.data.subheading }}</p>
+                                        <h2 class="h2 section-title" data-reveal>{{ subitem.data.title }}</h2>
                                         <br>
                                           <br>
-                                            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+                                            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;" data-reveal>
                                               {{ subitem.templateContent | safe }}
                                             </div>
-                                            <hr style="margin-top: 5rem;margin-bottom: 5rem;"></section>
+                                            <hr style="margin-top: 5rem;margin-bottom: 5rem;" data-reveal></section>
                                           {% endfor %}
                                         </section>

@@ -39,8 +39,8 @@ layout: 'base.njk'
                      <span class="flaticon-donation-1"></span>
                   </div>
                   <div class="media-body pl-4">
-                     <h3 class="heading">Become A Volunteer</h3>
-                     <p>Be a part of our volunteer program and make a difference in Sri Lanka. Work alongside local communities, gain
+                     <h3 class="heading" data-reveal>Become A Volunteer</h3>
+                     <p data-reveal>Be a part of our volunteer program and make a difference in Sri Lanka. Work alongside local communities, gain
                         valuable experience, and create lifelong memories.
                      </p>
                   </div>
@@ -52,8 +52,8 @@ layout: 'base.njk'
                      <span class="flaticon-charity"></span>
                   </div>
                   <div class="media-body pl-4">
-                     <h3 class="heading">Discover Sri Lanka</h3>
-                     <p>Experience the beauty and culture of Sri Lanka through our volunteer program. Explore the country, visit historical
+                     <h3 class="heading" data-reveal>Discover Sri Lanka</h3>
+                     <p data-reveal>Experience the beauty and culture of Sri Lanka through our volunteer program. Explore the country, visit historical
                         sites, and savor local cuisine while making a positive impact.
                      </p>
                   </div>
@@ -65,8 +65,8 @@ layout: 'base.njk'
                      <span class="flaticon-donation"></span>
                   </div>
                   <div class="media-body pl-4">
-                     <h3 class="heading">Make an Impact</h3>
-                     <p>Help create lasting change in underprivileged communities. With opportunities to contribute to sustainable
+                     <h3 class="heading" data-reveal>Make an Impact</h3>
+                     <p data-reveal>Help create lasting change in underprivileged communities. With opportunities to contribute to sustainable
                         development, you can make a difference that will impact lives for years to come.
                      </p>
                   </div>
@@ -79,10 +79,10 @@ layout: 'base.njk'
          - #Welcome section & Featured Projects -->
       <section class="popular welcome-section" id="destination">
          <div class="container">
-            <p class="section-subtitle">Unlock Your Potential with
+            <p class="section-subtitle" data-reveal>Unlock Your Potential with
             </p>
-            <h2 class="h2 section-title"> Volunteer in Sri Lanka</h2>
-            <p class="section-text section-welcome-text">
+            <h2 class="h2 section-title" data-reveal> Volunteer in Sri Lanka</h2>
+            <p class="section-text section-welcome-text" data-reveal>
                Welcome to  Volunteer in Sri Lanka, the land of endless possibilities! Get ready to embark on a journey of
                self-discovery, cultural immersion, and community service. Our programs offer the perfect opportunity to explore this
                beautiful country while making a meaningful impact on the lives of others. Join us today and let's make a positive
@@ -93,7 +93,7 @@ layout: 'base.njk'
                {% for item in collections.programs %}
                <li>
                 <a href="{{ item.url }}">
-                  <div class="popular-card">
+                  <div class="popular-card" data-reveal>
 
                     <figure class="card-img">
                       {% image item.data.image , item.data.imagealt, "(min-width: 300em) 50vw, 100vw" , "" %}
@@ -123,7 +123,7 @@ layout: 'base.njk'
                </li>
                {% endfor %}
             </ul>
-            <a href="/volunteer-programs/"><button class="btn btn-primary">Learn More</button></a> 
+            <a href="/volunteer-programs/" data-reveal><button class="btn btn-primary">Learn More</button></a> 
          </div>
       </section>
       <!--
@@ -131,11 +131,11 @@ layout: 'base.njk'
       <section class="cta why-vsl" id="contact">
          <div class="container">
             <div class="cta-content">
-               <p class="section-subtitle" style="">Our Values</p>
-               <h2 class="h2 section-title" style="color: #223544;">Why Choose Volunteer in
+               <p class="section-subtitle unset-align" style="text-align: left;" data-reveal>Our Values</p>
+               <h2 class="h2 section-title" style="color: #223544;text-align: left;" data-reveal>Why Choose Volunteer in
                   <br>Sri Lanka
                </h2>
-               <p class="section-text" style="color: #223544;">
+               <p class="section-text" style="color: #223544;" data-reveal>
                   Looking for a safe and affordable way to make a difference in the world? Look no further than  Volunteer in Sri Lanka!
                   Our programs in the southern province of Sri Lanka offer a wide range of opportunities such as English teaching, helping
                   physically disable children, turtle conservation to make a meaningful impact.
@@ -157,27 +157,27 @@ layout: 'base.njk'
                </p>
             </div>
             <ul class="gallery-list-why-vsl">
-               <li class="gallery-item">
+               <li class="gallery-item" data-reveal>
                   <figure class="gallery-image">
                      {% image "./src/assets/img/cc/11.jpg", "Volunteer in Sri Lanka ", "(min-width: 300em) 50vw, 100vw" , "" %}
                   </figure>
                </li>
-               <li class="gallery-item">
+               <li class="gallery-item" data-reveal>
                   <figure class="gallery-image">
                      {% image "./src/assets/img/sambodhi/2.jpeg", "Volunteer in Sri Lanka ", "(min-width: 300em) 50vw, 100vw" , "" %}
                   </figure>
                </li>
-               <li class="gallery-item">
+               <li class="gallery-item" data-reveal>
                   <figure class="gallery-image">
                      {% image "./src/assets/img/cc/3.jpg", "Volunteer in Sri Lanka ", "(min-width: 300em) 50vw, 100vw" , "" %}
                   </figure>
                </li>
-               <li class="gallery-item">
+               <li class="gallery-item" data-reveal>
                   <figure class="gallery-image">
                      {% image "./src/assets/img/cc/2.jpg", "Volunteer in Sri Lanka ", "(min-width: 300em) 50vw, 100vw" , "" %}
                   </figure>
                </li>
-               <li class="gallery-item">
+               <li class="gallery-item" data-reveal>
                   <figure class="gallery-image">
                      {% image "./src/assets/img/cc/7.jpg", "Volunteer in Sri Lanka ", "(min-width: 300em) 50vw, 100vw" , "" %}>
                   </figure>
@@ -189,12 +189,12 @@ layout: 'base.njk'
          - #POPULAR -->
       <section class="popular" id="destination">
          <div class="container">
-            <p class="section-subtitle">Volunteer and Explore Sri Lanka</p>
-            <h2 class="h2 section-title">Discover Sri Lanka's Hidden Treasures
+            <p class="section-subtitle" data-reveal>Volunteer and Explore Sri Lanka</p>
+            <h2 class="h2 section-title" data-reveal>Discover Sri Lanka's Hidden Treasures
                <br>
                Through Volunteer Work
             </h2>
-            <p class="section-text section-welcome-text">
+            <p class="section-text section-welcome-text" data-reveal>
                Experience the magic and magnificence of Sri Lanka while making a difference through our volunteer program. From
                exploring popular destinations to indulging in local food and drink, there is so much to discover in this incredible
                country. With our program, you'll have the chance to travel, learn about a new culture, and give back to underprivileged
@@ -205,7 +205,7 @@ layout: 'base.njk'
                {% for item in collections.featuredthings %}
                <li>
                 <a href="{{ item.url }}">
-                  <div class="popular-card">
+                  <div class="popular-card" data-reveal>
 
                     <figure class="card-img">
                       {% image item.data.image , item.data.imagealt, "(min-width: 300em) 50vw, 100vw" , "" %}
@@ -235,18 +235,18 @@ layout: 'base.njk'
                </li>
                {% endfor %}
             </ul>
-            <a href="/experiance-sri-lanka/"> <button class="btn btn-primary">Explore More</button></a>
+            <a href="/experiance-sri-lanka/"> <button class="btn btn-primary" data-reveal>Explore More</button></a>
          </div>
       </section>
       <!--
          - #GALLERY -->
       <section class="our-mission" id="gallery">
          <div class="container">
-            <p class="section-subtitle">Step Up and Make a Difference</p>
-            <h2 class="h2 section-title">Join Our Mission to
+            <p class="section-subtitle" data-reveal>Step Up and Make a Difference</p>
+            <h2 class="h2 section-title" data-reveal>Join Our Mission to
                <br>Empower Sri Lankan Communities
             </h2>
-            <p class="section-text section-welcome-text">
+            <p class="section-text section-welcome-text" data-reveal>
                At Volunteer Sri Lanka, We believe that volunteer work provides a unique opportunity to contribute towards sustainable
                development and make a positive difference in the lives of underprivileged communities. By joining our affordable and
                low-cost volunteer program, you will have the chance to work alongside local people, experience a new culture, and gain
@@ -265,7 +265,7 @@ layout: 'base.njk'
       </section>
       <section class="popular partner" id="destination">
          <div class="container">
-            <h3 class="h3 section-title">Frequently Asked questions</h3>
+            <h3 class="h3 section-title" data-reveal>Frequently Asked questions</h3>
             <br>
             <div class="accordion js-accordion">
                {% set num=1 %}
@@ -276,7 +276,7 @@ layout: 'base.njk'
                {% set divclass= '' %}
                {% endif %}
                {% if num<6 %}
-               <div class="accordion__item js-accordion-item {{ divclass }}">
+               <div class="accordion__item js-accordion-item {{ divclass }}" data-reveal>
                   <div class="accordion-header js-accordion-header">Q{{ num }}.
                      <b>{{ item.data.title }} ?</b>
                   </div>
@@ -294,7 +294,7 @@ layout: 'base.njk'
             <br>
             <br>
             <a href="/faq/">
-            <button class="btn btn-primary">Continue Reading</button>
+            <button class="btn btn-primary" data-reveal>Continue Reading</button>
             </a>
          </div>
       </section>
@@ -302,18 +302,18 @@ layout: 'base.njk'
          - #CTA -->
       <section class="cta" id="contact">
          <div class="container">
-            <div class="cta-content cta-width">
-               <p class="section-subtitle">Ready to Join the Movement?</p>
-               <h2 class="h2 section-title cta-title-hash">Take the First Step, Join with us
+            <div class="cta-content cta-width" >
+               <p class="section-subtitle" style="text-align:left;" data-reveal>Ready to Join the Movement?</p>
+               <h2 class="h2 section-title cta-title-hash" style="text-align:left;" data-reveal>Take the First Step, Join with us
                   <br>Today
                </h2>
-               <p class="section-text cta-title-hash">
+               <p class="section-text cta-title-hash" data-reveal>
                   Don't miss out on the opportunity to make a difference in Sri Lanka while exploring a new culture and gaining valuable
                   international experience. Sign up for our affordable and life-changing volunteer program today and become a part of our
                   worldwide network of volunteers dedicated to creating positive change
                </p>
             </div>
-            <a href="/apply-now/"><button class="btn btn-primary">Join now</button></a>
+            <a href="/apply-now/"><button class="btn btn-primary" data-reveal>Join now</button></a>
          </div>
       </section>
    </article>

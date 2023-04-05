@@ -9,10 +9,10 @@ permalink: "experiance-sri-lanka/popular-destinations/{{ title | slugify }}/inde
     - #HERO -->
     <section class="pages-hero page-over" id="home">
       <div class="container">
-        <h2 class="h2 hero-title title page-title" id="title">
+        <h2 class="h2 hero-title title page-title" id="title" data-reveal>
           {{ title }}
         </h2>
-        <p class="hero-text" id="sub-title">
+        <p class="hero-text" id="sub-title" data-reveal>
           {% if herosub %}
             {{ herosub }}
           {% else %}
@@ -25,21 +25,21 @@ permalink: "experiance-sri-lanka/popular-destinations/{{ title | slugify }}/inde
     <!-- hero section pver -->
     <section class="popular partner " id="destination">
       <div class="container">
-        <p class="section-subtitle">
+        <p class="section-subtitle" data-reveal>
           <a href="/experiance-sri-lanka/" class="a-link">Experiance-Sri-Lanka</a>/
           <a href="/experiance-sri-lanka/popular-destinations/" class="a-link">Popular-Destinations</a>/
           <a href="" class="a-link">{{ title }}</a>
         </p>
-        <h2 class="h2 section-title">{{ heading }}</h2>
+        <h2 class="h2 section-title" data-reveal>{{ heading }}</h2>
         <br>
           <br>
-            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;" data-reveal>
               {{ content | safe }}
             </div>
             {% if title=='Hill Country' %}
               <ul class="popular-list">
                 {% for item in collections.hillcounty %}
-                  <li>
+                  <li data-reveal>
                     <a href="#{{ item.data.id }}">
                       <div class="popular-card">
                         <figure class="card-img">
@@ -68,20 +68,20 @@ permalink: "experiance-sri-lanka/popular-destinations/{{ title | slugify }}/inde
                     <br>
                       {% for subitem in collections.hillcounty %}
                         <section id="{{ subitem.data.id }}">
-                          <p class="section-subtitle">{{ subitem.data.subheading }}</p>
-                          <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
+                          <p class="section-subtitle" data-reveal>{{ subitem.data.subheading }}</p>
+                          <h2 class="h2 section-title" data-reveal>{{ subitem.data.title }}</h2>
                           <br>
                             <br>
-                              <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+                              <div class="section-text " style="display:flex;flex-direction: column;align-items: center;" data-reveal>
                                 {{ subitem.templateContent | safe }}
                               </div>
-                              <hr style="margin-top: 5rem;margin-bottom: 5rem;"></section>
+                              <hr style="margin-top: 5rem;margin-bottom: 5rem;" data-reveal></section>
                             {% endfor %}
                           {% endif %}
                           {% if title=='Rainforests' %}
                             <ul class="popular-list">
                               {% for item in collections.forests %}
-                                <li>
+                                <li data-reveal>
                                   <a href="#{{ item.data.id }}">
                                     <div class="popular-card">
                                       <figure class="card-img">
@@ -110,14 +110,14 @@ permalink: "experiance-sri-lanka/popular-destinations/{{ title | slugify }}/inde
                                   <br>
                                     {% for subitem in collections.forests %}
                                       <section id="{{ subitem.data.id }}">
-                                        <p class="section-subtitle">{{ subitem.data.subheading }}</p>
-                                        <h2 class="h2 section-title">{{ subitem.data.title }}</h2>
+                                        <p class="section-subtitle" data-reveal>{{ subitem.data.subheading }}</p>
+                                        <h2 class="h2 section-title" data-reveal> {{ subitem.data.title }}</h2>
                                         <br>
                                           <br>
-                                            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;">
+                                            <div class="section-text " style="display:flex;flex-direction: column;align-items: center;" data-reveal>
                                               {{ subitem.templateContent | safe }}
                                             </div>
-                                            <hr style="margin-top: 5rem;margin-bottom: 5rem;"></section>
+                                            <hr style="margin-top: 5rem;margin-bottom: 5rem;" data-reveal></section>
                                           {% endfor %}
                                         {% endif %}
                                       </section>

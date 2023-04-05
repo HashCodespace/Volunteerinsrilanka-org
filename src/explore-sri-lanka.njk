@@ -12,12 +12,12 @@ eleventyImport:
     - #HERO -->
     <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/3.jpeg');">
       <div class="container">
-        <h2 class="h2 hero-title title page-title" id="title">
+        <h2 class="h2 hero-title title page-title" id="title" data-reveal>
           Explore Sri Lanka's
           <br>
             <font-custom>Popular Destinations</font-custom>
           </h2>
-          <p class="hero-text" id="sub-title">
+          <p class="hero-text" id="sub-title" data-reveal>
             Immerse Yourself in the Culture and Scenery of These Must-Visit Places
           </p>
         </div>
@@ -27,11 +27,11 @@ eleventyImport:
         <div class="container">
           <br>
             <br>
-              <p class="section-subtitle">
+              <p class="section-subtitle" data-reveal>
                 Explore the Wonders of Sri Lanka's
               </p>
-              <h2 class="h2 section-title">Top Tourist Spots</h2>
-              <p class="section-text">
+              <h2 class="h2 section-title" data-reveal>Top Tourist Spots</h2>
+              <p class="section-text" data-reveal>
                 Are you ready to discover the hidden gems of Sri Lanka?
                 <br>Our popular destinations page is your ultimate guide to exploring the best of Sri Lanka's sights and attractions.
                   <br>
@@ -42,7 +42,7 @@ eleventyImport:
                         <ul class="popular-list">
                           {% set sectionname = "Popular Destinations" %}
                           {% for item in collections.destinations %}
-                            <li>
+                            <li data-reveal>
                               <a href="{{ item.url }}">
                                 <div class="popular-card">
 

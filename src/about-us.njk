@@ -12,10 +12,10 @@ eleventyImport:
       - #HERO -->
       <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/4.jpeg');">
         <div class="container">
-          <h2 class="h2 hero-title title page-title" id="title">
+          <h2 class="h2 hero-title title page-title" id="title" data-reveal>
             Who we are ?
           </h2>
-          <p class="hero-text" id="sub-title">
+          <p class="hero-text" id="sub-title" data-reveal>
             ABSOLUTELY WE'RE DIFFERENT
           </p>
         </div>
@@ -23,11 +23,11 @@ eleventyImport:
       <!-- hero section pver -->
       <section class="popular partner unset-align" id="destination">
         <div class="container">
-          <p class="section-subtitle">
+          <p class="section-subtitle" data-reveal>
             About us
           </p>
-          <h2 class="h2 section-title">Empowering Volunteers to Make a Difference in Sri Lanka</h2>
-          <p class="section-text ">
+          <h2 class="h2 section-title" data-reveal>Empowering Volunteers to Make a Difference in Sri Lanka</h2>
+          <p class="section-text " data-reveal>
             Volunteering Srilanka provides a safe, structured and social platform with volunteer, travel and immersion
             opportunities, available from 1-12 weeks. We make sure that each of our volunteering programs meets the high standard as
             expected and deserved by our volunteers. Safety is high on our priority list and we always make sure that you feel safe
@@ -43,13 +43,13 @@ eleventyImport:
                     throughout your time with us.
                     <br>
                       <br></p>
-                      <p class="section-subtitle">
+                      <p class="section-subtitle" data-reveal>
                         To say it in short</p>
-                      <h2 class="h3 section-title">“Volunteering SriLanka is the best way to volunteer, intern and travel across the beautiful
+                      <h2 class="h3 section-title" data-reveal>“Volunteering SriLanka is the best way to volunteer, intern and travel across the beautiful
                         srilanka.”</h2>
-                      <hr style="margin: 5rem  0;">
-                        <h2 class="h3 section-title">Safety and Risk Management</h2>
-                        <p class="section-text ">
+                      <hr style="margin: 5rem  0;" data-reveal>
+                        <h2 class="h3 section-title" data-reveal>Safety and Risk Management</h2>
+                        <p class="section-text " data-reveal>
                           Your safety is our top priority. Naturally, we can guarantee a volunteer experience to be 100% trouble-free. However, we
                           have taken all necessary precautions to ensure our programs are as safe as possible.
                           <br>
@@ -58,8 +58,8 @@ eleventyImport:
                               team. We have stayed in the accommodation, experienced the orientation and worked on the volunteer projects.
                               <br>
                                 <br></p>
-                                <h3 class="h3 section-title">Having fun</h3>
-                                <p class="section-text ">
+                                <h3 class="h3 section-title" data-reveal>Having fun</h3>
+                                <p class="section-text " data-reveal>
                                   One of the best aspects of volunteering is meeting some amazing like-minded people. We place volunteers providing a
                                   platform for a social experience! Living and working alongside other international volunteers provides fantastic
                                   opportunities. For the reason that you will create treasured memories together of your experience abroad.
@@ -68,11 +68,11 @@ eleventyImport:
                                       We provide our own exclusive Volunteer House accommodation. By providing shared volunteer accommodation, we ensure a
                                       strong social element. In addition, our team is always there to help you plan any independent travel!
                                     </p>
-                                    <hr style="margin-top: 5rem;"></div>
+                                    <hr style="margin-top: 5rem;" data-reveal></div>
                                   </section>
                                   <section class="popular partner" id="destination">
                                     <div class="container">
-                                      <h3 class="h3 section-title">Still have any questions</h3>
+                                      <h3 class="h3 section-title" data-reveal>Still have any questions</h3>
                                       <br>
                                         <div class="accordion js-accordion">
                                           {% set num=1 %}
@@ -83,7 +83,7 @@ eleventyImport:
                                               {% set divclass= '' %}
                                             {% endif %}
                                             {% if num<11 %}
-                                              <div class="accordion__item js-accordion-item {{ divclass }}">
+                                              <div class="accordion__item js-accordion-item {{ divclass }}" data-reveal>
                                                 <div class="accordion-header js-accordion-header">Q{{ num }}.
                                                   <b>{{ item.data.title }} ?</b>
                                                 </div>
@@ -101,23 +101,23 @@ eleventyImport:
                                         <br>
                                           <br>
                                             <a href="/faq/">
-                                              <button class="btn btn-primary">Continue Reading</button>
+                                              <button class="btn btn-primary" data-reveal>Continue Reading</button>
                                             </a>
                                           </div>
                                         </section>
                                         <section class="cta" id="contact">
                                           <div class="container">
                                             <div class="cta-content cta-width">
-                                              <p class="section-subtitle">Ready to Join the Movement?</p>
-                                              <h2 class="h2 section-title cta-title-hash">Take the First Step, Join with us Today</h2>
-                                              <p class="section-text cta-title-hash">
+                                              <p class="section-subtitle" style="text-align:left;" data-reveal>Ready to Join the Movement?</p>
+                                              <h2 class="h2 section-title cta-title-hash" style="text-align:left;" data-reveal>Take the First Step, Join with us Today</h2>
+                                              <p class="section-text cta-title-hash" data-reveal>
                                                 Don't miss out on the opportunity to make a difference in Sri Lanka while exploring a new culture and gaining valuable
                                                 international experience. Sign up for our affordable and life-changing volunteer program today and become a part of our
                                                 worldwide network of volunteers dedicated to creating positive change
                                               </p>
                                             </div>
                                             <a href="/apply-now/">
-                                              <button class="btn btn-primary">Join now</button>
+                                              <button class="btn btn-primary" data-reveal>Join now</button>
                                             </a>
                                           </div>
                                         </section>

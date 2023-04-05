@@ -10,10 +10,10 @@ layout: 'base.njk'
     - #HERO -->
     <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/6.jpeg');">
       <div class="container">
-        <h2 class="h2 hero-title title page-title" id="title">
+        <h2 class="h2 hero-title title page-title" id="title" data-reveal>
           Enchanting Wonders of Sri Lanka
         </h2>
-        <p class="hero-text" id="sub-title">
+        <p class="hero-text" id="sub-title" data-reveal>
           Discover the Beauty and Diversity of Sri Lanka's Natural and Cultural Treasures
         </p>
       </div>
@@ -21,11 +21,11 @@ layout: 'base.njk'
     <!-- hero section pver -->
     <section class="popular partner unset-align" id="destination">
       <div class="container">
-        <p class="section-subtitle">
+        <p class="section-subtitle" data-reveal>
           Discover your own
         </p>
-        <h2 class="h2 section-title">Magical beauty of Sri Lanka</h2>
-        <p class="section-text ">
+        <h2 class="h2 section-title" data-reveal>Magical beauty of Sri Lanka</h2>
+        <p class="section-text " data-reveal>
           Sri Lanka is a destination that has got all the necessary volunteering and holiday ingredients hence the reason it is
           often accompanied by the descriptive title of 'magical beauty'. Volunteering in Sri Lanka is a combination of
           enchantment and magnificence due to the lasting impression it leaves on you. When you step off the plane and onto Sri
@@ -51,13 +51,13 @@ layout: 'base.njk'
           content with their time, leaving the rest to'serendipity,' because a 'happy accident' is what Sri Lanka is all about.
         </p>
         <br><br><br>
-        <p class="section-subtitle">
+        <p class="section-subtitle" data-reveal>
           Featured Destinations
         </p>
-        <h3 class="h2 section-title">Explore Sri Lanka's Popular Destinations</h3><br><br>
+        <h3 class="h2 section-title" data-reveal>Explore Sri Lanka's Popular Destinations</h3><br><br>
         <ul class="popular-list">
           {% for item in collections.featureddestinations %}
-            <li>
+            <li data-reveal>
                 <a href="{{ item.url }}">
                   <div class="popular-card">
 
@@ -90,33 +90,34 @@ layout: 'base.njk'
           {% endfor %}
         </ul>
         <a href="/explore-sri-lanka/">
-          <button class="btn btn-primary">More Destinations</button>
+          <button class="btn btn-primary" data-reveal>More Destinations</button>
         </a>
         <br><br><br>
-        <ul class="package-list">
-          <li>
+        <ul class="package-list" >
+          <li data-reveal >
             <div class="package-card" style="grid-template-columns: 1.3fr 1.5fr;">
-              <figure class="card-banner">
-                <img src="/assets/images/com/2.jpeg" alt="Experience The Great Holiday On Beach" loading="lazy">
+              <figure class="card-banner" >
+                {% image "./src/assets/img/arugambay/2.jpeg" , "Enchanting Wonders of Sri Lanka", "(min-width: 300em) 50vw, 100vw" , "" %}
+                
               </figure>
               <div class="card-content scooter-card">
-                <h3 class="h3 card-title">Get Your Journey Started</h3>
+                <h3 class="h3 card-title" >Get Your Journey Started</h3>
                 <ul class="card-meta-list">
                   <li class="card-meta-item">
                     <div class="meta-box">
                       <ion-icon name="airplane" role="img" class="md hydrated" aria-label="time"></ion-icon>
-                      <p class="text">Travel info</p>
+                      <p class="text" >Travel info</p>
                     </div>
                   </li>
                   <li class="card-meta-item">
                     <div class="meta-box">
                       <ion-icon name="location" role="img" class="md hydrated" aria-label="location"></ion-icon>
-                      <p class="text">Sri Lanka</p>
+                      <p class="text" >Sri Lanka</p>
                     </div>
                   </li>
                 </ul>
                 <br>
-                <p class="card-text">
+                <p class="card-text" >
                   Here you will find all the essential information you need to plan your trip, including visa requirements, currency,
                   transportation options, and safety tips. We've also included insider tips on the best time to visit, must-see
                   destinations, and off-the-beaten-path experiences. Whether you're a first-time visitor or a seasoned traveler, our

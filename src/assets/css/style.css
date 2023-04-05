@@ -66,6 +66,13 @@
    */
 
   --transition: 0.25s ease-in-out;
+/*    --transition: 0.25s ease-in-out;*/
+  --transition-1: 0.25s ease;
+  --transition-2: 0.5s ease;
+  --transition-3: 0.5s ease;
+  --cubic-in: cubic-bezier(0.51, 0.03, 0.64, 0.28);
+  --cubic-out: cubic-bezier(0.33, 0.85, 0.4, 0.96);
+
 
   /**
    * spacing
@@ -150,6 +157,7 @@ body { background: var(--white); }
   padding: var(--padding, 8px 18px);
   border: var(--border-width, 2px) solid transparent;
   transition: var(--transition);
+  text-align: center;
 }
 
 .btn-primary {
@@ -200,9 +208,12 @@ font-weight: 700;
   text-transform: uppercase;
   font-family: var(--ff-montserrat);
   margin-bottom: 8px;
+  text-align: center;
 }
 
-.section-title { margin-bottom: 15px; }
+.section-title { 
+  text-align: center;
+  margin-bottom: 15px; }
 
 .section-text {
   color: var(--black-coral);
@@ -435,10 +446,10 @@ font-weight: 700;
 
 @keyframes hero-slider{
   0%{
-    background-image: url("../img/10.jpeg");
+    background-image: url("../img/cc/14.png");
   }
   10%{
-    background-image: url("../img/10.jpeg");
+    background-image: url("../img/cc/14.png");
 
   }
   12%{
@@ -2268,4 +2279,25 @@ th{
 
 }
 
+
+
+/*-----------------------------------*\
+  #SCROLL ANIMATIONS
+\*-----------------------------------*/
+
+
+[data-reveal] {
+  transform: translateY(50px);
+  opacity: 0;
+  transition: var(--transition-3);
+}
+
+[data-reveal="left"] { transform: translate(-50px, 0); }
+
+[data-reveal="right"] { transform: translate(50px, 0); }
+
+[data-reveal].revealed {
+  transform: translate(0, 0);
+  opacity: 1;
+}
 

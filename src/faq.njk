@@ -12,10 +12,10 @@ eleventyImport:
       - #HERO -->
       <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/6.jpeg');">
         <div class="container">
-          <h2 class="h2 hero-title title page-title" id="title">
+          <h2 class="h2 hero-title title page-title" id="title" data-reveal>
             Frequently Asked questions
           </h2>
-          <p class="hero-text" id="sub-title" style="max-width:80ch">
+          <p class="hero-text" id="sub-title" style="max-width:80ch" data-reveal>
             We understand that you may have questions about our volunteer programs and we're here to help. Below you'll find answers
             to some of the most commonly asked questions. If you can't find the information you're looking for, please don't
             hesitate to contact us directly. Our team will be more than happy to assist you.
@@ -33,7 +33,7 @@ eleventyImport:
               {% else %}
                 {% set divclass= '' %}
               {% endif %}
-              <div class="accordion__item js-accordion-item {{ divclass }}">
+              <div class="accordion__item js-accordion-item {{ divclass }}" data-reveal>
                 <div class="accordion-header js-accordion-header">Q{{ num }}.
                   <b>{{ item.data.title }} ?</b>
                 </div>

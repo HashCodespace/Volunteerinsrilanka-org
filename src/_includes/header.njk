@@ -1,5 +1,5 @@
 {% set navitems = [
-  [" Volunteer in Sri Lanka",'/',''],
+  ["Volunteer in Sri Lanka",'/',''],
   ['Volunteer Programs','/volunteer-programs/',''],
   ["Experiance Sri Lanka",'/experiance-sri-lanka/',''],
   ['Volunteering Fee','/volunteering-fee/',''],
@@ -16,7 +16,7 @@
     <div class="header-top">
       <div class="container">
 
-        <a href="tel:+01123456790" class="helpline-box">
+        <a href="tel:+94779308187" class="helpline-box">
 
           <div class="icon-box">
             <ion-icon name="call-outline"></ion-icon>
@@ -32,7 +32,7 @@
 
         <a href="#" class="logo" style="color:white;font-size: 20px;">
           <!-- <img src="./assets/images/logo.svg" alt=" Volunteer in Sri Lanka logo"> -->
-          - LOGO HERE  - 
+          -LOGO- 
         </a>
 
         <div class="header-btn-group">
@@ -83,7 +83,7 @@
 
             <a href="#" class="logo" style="color:white;font-size: 20px;">
               <!-- <img src="./assets/images/logo-blue.svg" alt=" Volunteer in Sri Lanka logo"> -->
-              - LOGO HERE - 
+              - LOGO - 
 
             </a>
 
@@ -102,7 +102,7 @@
                 {% set navdata=[item[1],'',''] %}
               {% endif %}
 
-              {% if item[0]==' Volunteer in Sri Lanka' %}
+              {% if item[0]=='Volunteer in Sri Lanka' %}
                 {% set navname='Home' %}
               {% else %}
                 {% set navname=item[0] %}
@@ -126,5 +126,6 @@
 
       </div>
     </div>
+    <div active-tab active-link style="display:none;visibility: hidden;"></div>
 
   </header>

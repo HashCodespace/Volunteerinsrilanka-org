@@ -11,7 +11,7 @@ layout: 'base.njk'
         - #HERO
       -->
 
-      <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/11.jpg');">
+      <section class="pages-hero" id="home" style="background-image: url('/assets/img/galle/8.jpeg');">
         <div class="container"> 
             <h2 class="h2 hero-title title page-title" id="title">
               Project Area <font-custom>Galle</font-custom>
@@ -77,39 +77,43 @@ layout: 'base.njk'
 <section class="gallery" id="gallery">
         <div class="container">
 
-          <ul class="gallery-list">
+          
 
-            <li class="gallery-item">
-              <figure class="gallery-image">
-                <img src="/assets/images/gallery-1.jpg" alt="Gallery image">
-              </figure>
-            </li>
+<ul class="gallery-list" style="
+    margin: 8%;
+">
 
-            <li class="gallery-item">
-              <figure class="gallery-image">
-                <img src="/assets/images/gallery-2.jpg" alt="Gallery image">
-              </figure>
-            </li>
+<li class="gallery-item">
+  <figure class="gallery-image">
+    {% image "./src/assets/img/galle/3.jpeg", "Galle", "(min-width: 300em) 50vw, 100vw" %}
+  </figure>
+</li>
 
-            <li class="gallery-item">
-              <figure class="gallery-image">
-                <img src="/assets/images/gallery-3.jpg" alt="Gallery image">
-              </figure>
-            </li>
+<li class="gallery-item">
+  <figure class="gallery-image">
+    {% image "./src/assets/img/galle/5.jpeg", "Galle", "(min-width: 300em) 50vw, 100vw" %}
+  </figure>
+</li>
 
-            <li class="gallery-item">
-              <figure class="gallery-image">
-                <img src="/assets/images/gallery-4.jpg" alt="Gallery image">
-              </figure>
-            </li>
+<li class="gallery-item">
+  <figure class="gallery-image">
+    {% image "./src/assets/img/galle/1.jpeg", "Galle", "(min-width: 300em) 50vw, 100vw" %}
+  </figure>
+</li>
 
-            <li class="gallery-item">
-              <figure class="gallery-image">
-                <img src="/assets/images/gallery-5.jpg" alt="Gallery image">
-              </figure>
-            </li>
+<li class="gallery-item">
+  <figure class="gallery-image">
+    {% image "./src/assets/img/galle/6.jpeg", "Galle", "(min-width: 300em) 50vw, 100vw" %}
+  </figure>
+</li>
 
-          </ul>
+<li class="gallery-item">
+  <figure class="gallery-image">
+    {% image "./src/assets/img/galle/7.jpeg", "Galle", "(min-width: 300em) 50vw, 100vw" %}
+  </figure>
+</li>
+
+</ul>
 
         </div>
       </section>
