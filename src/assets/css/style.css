@@ -446,17 +446,17 @@ font-weight: 700;
 
 @keyframes hero-slider{
   0%{
-    background-image: url("../img/cc/14.png");
+    background-image: url("../img/cc/14.webp");
   }
   10%{
-    background-image: url("../img/cc/14.png");
+    background-image: url("../img/cc/14.webp");
 
   }
   12%{
-    background-image: url("../img/cc/14.png");
+    background-image: url("../img/cc/14.webp");
   }
   20%{
-    background-image: url("../img/cc/14.png");
+    background-image: url("../img/cc/14.webp");
   }
   22%{
     background-image: url("../img/cc/16.jpg");
@@ -492,10 +492,10 @@ font-weight: 700;
   }
 
   72%{
-    background-image: url("../img/cc/14.png");
+    background-image: url("../img/cc/14.webp");
   }
   80%{
-    background-image: url("../img/cc/14.png");
+    background-image: url("../img/cc/14.webp");
   }
   82%{
     background-image: url("../img/cc/7.jpg");
