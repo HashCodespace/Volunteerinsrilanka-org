@@ -1,5 +1,8 @@
 const { DateTime } = require("luxon")
 const Image = require("@11ty/eleventy-img");
+const htmlMinifier = require("html-minifier-terser");
+const postcss = require("postcss");
+const terser = require("terser");
 
 
 async function imageShortcode(src, alt, sizes , style, classlist) {
@@ -38,7 +41,43 @@ module.exports = function(eleventyConfig){
   eleventyConfig.addFilter("postDate", (dataObj) => {
     return DateTime.fromJSDate(dataObj).toLocaleString(DateTime.DATE_MED);
   })
-  
+    // Minify HTML
+  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+      return htmlMinifier.minify(content, {
+        collapseWhitespace: true,
+        conservativeCollapse: true,
+        minifyCSS: true,
+        minifyJS: true,
+        removeComments: true,
+      });
+    }
+
+    return content;
+  });
+
+  eleventyConfig.addTransform('cssmin', async (content, outputPath) => {
+    if (outputPath && outputPath.endsWith('.css')) {
+      const result = await postcss([cssnano]).process(content);
+      return result.css;
+    }
+
+    return content;
+  });
+
+  // Minify JS
+  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (code, callback) {
+    try {
+      const minified = await terser.minify(code);
+
+      callback(null, minified.code);
+    } catch (err) {
+      console.error("Terser error: ", err);
+
+      // Fail gracefully.
+      callback(null, code);
+    }
+  });
     // Return your Object options:
   return {
     markdownTemplateEngine: "njk",
@@ -47,4 +86,7 @@ module.exports = function(eleventyConfig){
       output: "dist"
     }
   };
+
+
+
 }
