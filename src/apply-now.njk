@@ -11,7 +11,7 @@ layout: 'base.njk'
         - #HERO
       -->
 
-      <section class="pages-hero" id="home" style="background-image: url('/assets/images/com/8.jpeg');">
+      <section class="pages-hero" id="home" style="background-image: url('/assets/img/13.jpeg');">
         <div class="container"> 
             <h2 class="h2 hero-title title page-title" id="title">
                Join Our Volunteer Programs Today
@@ -27,15 +27,6 @@ layout: 'base.njk'
 
         </div>
       </section> <!-- hero section pver -->
-
-
-
-
-
-
-
-
-
 
 
       <section class="popular " id="destination" >
@@ -389,9 +380,10 @@ layout: 'base.njk'
                 <label for="project" class="input-label">Your preferred Volunteer project *</label>
 
                 <select name="project" id="project" required style="width:100%;" class="input-field">
-                  <option style="color:var(--spanish-gray);" >- Please Choose an Option -</option>
-                  <option value="project-1">Project-1</option>
-                  <option value="project-2">Project-2</option>
+                  <option style="color:var(--spanish-gray);" value="not-selected">- Please Choose an Option -</option>
+                  {% for program in collections.programs %}
+                    <option value="{{ program.data.title | slugify }}">{{ program.data.title }}</option>
+                  {% endfor %}
 
                 </select>
               </div>

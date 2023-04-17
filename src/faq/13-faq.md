@@ -1,6 +1,6 @@
 ---
-title:  do i need to be able to speak a foreign language in order to join the program
+title:  do I need to be able to speak a foreign language to join the program
 isactive: ['active']
 
 ---
-in srilanka, people know english, so there is no problem with communication if you know the english language. knowledge of other foreign language is not requirement for our project area.
+in Sri Lanka, people know English, so there is no problem with communication if you know the English language. knowledge of other foreign languages is not a requirement for our project area.

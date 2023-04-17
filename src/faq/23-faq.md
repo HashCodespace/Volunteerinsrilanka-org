@@ -3,4 +3,4 @@ title: where are projects located in sri lanka
 isactive: ['active']
 
 ---
-volunteering srilanka has program placements at galle
+volunteer in Sri Lanka has program placements at Galle

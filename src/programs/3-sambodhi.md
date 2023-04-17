@@ -1,5 +1,5 @@
 ---
-title: Volunteering at Sambodhi
+title: Disabled Care Volunteer Program
 heading: A Home for the Homeless Disabled
 image: ./src/assets/img/sambodhi/1.jpeg
 imagealt: Volunteering at Sambodhi

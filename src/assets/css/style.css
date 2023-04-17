@@ -796,15 +796,8 @@ font-weight: 700;
     flex-direction: row;
 }
 
-.media-line::before{
-  content: '';
-  position: absolute;
-  background: var(--white) !important;
-  width: 1px;
-  height: 100%;
-  bottom: 0;
-  left: -7px;
-}
+
+
 }
 
 
@@ -876,12 +869,6 @@ font-weight: 700;
 }
 
 
-
-.media-line::before{
-
-  background: var(--forest-green);
-
-}
 
 
 
@@ -1493,7 +1480,7 @@ address {
 
   .helpline-box .icon-box { padding: 14px; }
 
-  .header-top .logo img { max-width: unset; }
+  .header-top .logo img { max-width: 150px; }
 
   .search-btn { font-size: 30px; }
 
