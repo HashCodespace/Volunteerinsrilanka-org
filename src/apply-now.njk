@@ -42,7 +42,7 @@ layout: 'base.njk'
           <div class="container" style="justify-content: center;width: 90%;">
       
 
-            <form action="" class="tour-search-form" name="Applications" style="gap:2rem;" method="POST" netlify>
+            <form action="" class="tour-search-form" id="Applications" name="Applications" style="gap:2rem;" method="POST" netlify>
               <input type="hidden" name="form-name" value="Applications">
               <div class="input-wrapper">
                 <label for="first-name" class="input-label">First Name*</label>
@@ -408,7 +408,7 @@ layout: 'base.njk'
 
 
 
-<script async>
+<script defer>
     const slugify = str =>
     str
       .toLowerCase()
@@ -464,3 +464,26 @@ layout: 'base.njk'
     };
     
 </script>
+    <script>
+      const form = document.getElementById("Applications");
+
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
+
+        const formData = new FormData(form);
+
+        fetch("/", {
+          method: "POST",
+          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: new URLSearchParams(formData).toString(),
+        })
+          .then((response) => {
+            if (response.ok) {
+              window.location.href = "/thank-you.html";
+            } else {
+              throw new Error("Network response was not ok.");
+            }
+          })
+          .catch((error) => alert(error));
+      });
+    </script>
