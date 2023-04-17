@@ -36,7 +36,7 @@ layout: 'base.njk'
 
           <h2 class="h2 section-title">Volunteer Application Registration</h2> <br>
           <p class="section-text " style="max-width:100ch;">
-            We welcome all applicants who are enthusiastic about volunteering and making a difference in the lives of others. Our application process is clear and uncomplicated, and it only takes a few minutes to complete. You will have the opportunity to teach and mentor children in our day care centers, assist orphans and abandoned children, participate in community development projects, and much more by joining our programs. We think that volunteering can change your life, and we are delighted to welcome you to our team of committed volunteers. Simply fill out the application form below to apply, and <br>
+            We welcome all applicants who are enthusiastic about volunteering and making a difference in the lives of others. Our application process is clear and uncomplicated, and it only takes a few minutes to complete. You will have the opportunity to teach Buddhist monks English teaching program, Turtle conservation program and volunteering in home for the homeless disabled and much more by joining our programs. We think that volunteering can change your life, and we are delighted to welcome you to our team of committed volunteers. Simply fill out the application form below to apply, and <br>
             We'll get back to you as soon as possible. <br> <br>
           </p>
           <div class="container" style="justify-content: center;width: 90%;">
@@ -376,16 +376,10 @@ layout: 'base.njk'
                 <input type="date" name="start-date" id="start-date" required class="input-field">
               </div>
 
-              <div class="input-wrapper" style="grid-column:1/3;">
-                <label for="project" class="input-label">Your preferred Volunteer project *</label>
+              <div class="input-wrapper shen-added" style="grid-column:1/3;">
+                
 
-                <select name="project" id="project" required style="width:100%;" class="input-field">
-                  <option style="color:var(--spanish-gray);" value="not-selected">- Please Choose an Option -</option>
-                  {% for program in collections.programs %}
-                    <option value="{{ program.data.title | slugify }}">{{ program.data.title }}</option>
-                  {% endfor %}
-
-                </select>
+                
               </div>
 
 
@@ -414,3 +408,42 @@ layout: 'base.njk'
 
 
 
+<script defer>
+    const slugify = str =>
+    str
+      .toLowerCase()
+      .trim()
+      .replace(/[^\w\s-]/g, '')
+      .replace(/[\s_-]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const getprogram = urlParams.get('getprogram') || '';
+    const inputWrapper = document.querySelector('.shen-added');
+
+    if (getprogram == '') {
+      inputWrapper.innerHTML = `
+                  <label for="project" class="input-label">Your preferred Volunteer project *</label>
+                  <select name="project" id="project" required style="width:100%;" class="input-field">
+                  <option style="color:var(--spanish-gray);" value="not-selected">- Please Choose an Option -</option>
+                  {% for program in collections.programs %}
+                    <option value="{{ program.data.title | slugify }}">{{ program.data.title }}</option>
+                    {% endfor %}
+                  </select>`;
+
+    }else{
+      const slugpack = slugify(getprogram);
+      inputWrapper.innerHTML = `
+                  <label for="project" class="input-label">Your preferred Volunteer project (Auto Selected)</label>
+                  <select name="project" id="project" required style="width:100%;" class="input-field">
+
+                  <option  style="color:white;display:none" selected="selected" value="${slugpack}">${getprogram}</option>
+                  {% for program in collections.programs %}
+                    <option value="{{ program.data.title | slugify }}">{{ program.data.title }}</option>
+                    {% endfor %}
+                  </select>`;
+
+    };
+    
+</script>

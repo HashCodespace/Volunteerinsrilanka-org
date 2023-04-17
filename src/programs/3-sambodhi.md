@@ -1,5 +1,5 @@
 ---
-title: Disabled Care Volunteer Program
+title: Volunteer in a Home for Disabled Homeless Individuals
 heading: A Home for the Homeless Disabled
 image: ./src/assets/img/sambodhi/1.jpeg
 imagealt: Volunteering at Sambodhi
@@ -26,7 +26,7 @@ As a volunteer, you will have the opportunity to help residents engage in creati
           <li>• Creating activities and entertaining the children with games and songs</li>
           <li>• Socializing with the children and boosting their confidence</li>
           <li>• Helping with other activities as your skills allow, from admin to maintenance</li>
-          <li>• Your volunteering program will run from Monday to Friday, from 9 am to 12 pm. You will be able to travel to Sambodhi via scooter, which will take only 8 minutes.</li>
+          <li>• Your volunteering program will run from Monday to Friday, from 9 am to 12 pm. You will be able to travel to Sambodhi by scooter, which will take only 8 minutes.</li>
         </ul>
 	
 </section>

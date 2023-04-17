@@ -1,5 +1,5 @@
 ---
-title: Buddhist Monks English Teaching
+title: Teaching English to Buddhist Monks
 heading: Buddhist Monks English Teaching Volunteer Program
 image: ./src/assets/img/cc/133.jpeg
 imagealt: Buddhist Monks English Teaching Volunteer Program

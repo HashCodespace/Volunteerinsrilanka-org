@@ -2128,7 +2128,25 @@ border-radius: 1rem;
   }
 }
 
+.fee-list-green li {
+  display: flex;
+  align-items: center;
+}
 
+.fee-list-green li ion-icon{
+  color: green;
+  margin-right: 0.5rem;
+}
+
+.fee-list-red li {
+  display: flex;
+  align-items: center;
+}
+
+.fee-list-red li ion-icon{
+  color: red;
+  margin-right: 0.5rem;
+}
 
 
 
