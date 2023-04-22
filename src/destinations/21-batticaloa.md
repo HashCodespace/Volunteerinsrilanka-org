@@ -2,7 +2,7 @@
 title: Batticaloa
 herosub : Discovering the Hidden Gems of Batticaloa
 heading: A Journey Through Eastern Sri Lanka
-image: ./src/assets/img/batti.jpeg
+image: ./src/assets/img/b2.jpg
 imagealt: Batticaloa
 description: "A city situated in the eastern province of Sri Lanka, is known for its serene beaches, picturesque lagoons, and historical landmarks."
 
@@ -10,7 +10,7 @@ description: "A city situated in the eastern province of Sri Lanka, is known for
 ---
 Pasikuda and Kalkuda beaches flank Batticaloa like two beautiful consorts guarding a dowager queen. Batticaloa is located on Sri Lanka's east coast and has a beautiful lagoon and beach. A melodious sound emanating from the picturesque lagoon on moonlit nights is attributed to its singing fish. Fascinating cultural aspects include a small community of descendants of Portuguese soldiers who continue to speak a fast-disappearing Creole Portuguese dialect that is said to be similar to Medieval Portuguese. The curved coves of Pasikuda Beach resemble the gleaming edge of a serrated sickle.
 
-{% image "./src/assets/img/batti.jpeg", "Batticaloa", "(min-width: 300em) 50vw, 100vw" , "max-width:80%; border-radius: 20px; height:auto; margin:5%;" %}
+{% image "./src/assets/img/b1.jpeg", "Batticaloa", "(min-width: 300em) 50vw, 100vw" , "max-width:80%; border-radius: 20px; height:auto; margin:5%;" %}
 
 
 
@@ -18,3 +18,4 @@ The white sand is made up of such fine granules that walking on it feels like wa
 
 The ancient edifices of St Joseph’s Convent, St Michael’s College compete for attention with the Methodist Church built in 1838.The Hindu temple of Anipandi Sitivigniswara Alayar with its ornate tower entrance is the most impressive of the Hindu shrines.The descendants of the Portuguese and other foreign mercenaries who speak Creole Portuguese are today carpenters, barbers and fisherman assimilated. They have intermarried yet have preserved such customs as celebrating Christmas and dancing the Kafringa and carry names such as De Lima, Ragel, Barthelot, Andrado and Sela. Kafringa is a type of music that is cherished by the Portuguese descendants of Batticaloa quite popular with many in Sri Lanka with its strange combination of la bamba and calypso. You will hear it often at dinner time at some of the Sri Lanka beach hotels. The bands in the luxury hotels of Sri Lanka will play Kafringa if requested. Baticaloa is definitely worth a visit during your Sri Lanka tour.
 
+{% image "./src/assets/img/b2.jpg", "Batticaloa", "(min-width: 300em) 50vw, 100vw" , "max-width:80%; border-radius: 20px; height:auto; margin:5%;" %}

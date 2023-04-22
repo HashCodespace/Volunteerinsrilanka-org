@@ -20,13 +20,13 @@ As a volunteer, you will have the opportunity to help residents engage in creati
 	 As a volunteer at Sambodhi, you will be responsible for the following: 
    <br>
    <br>
-	<ul class="section-text" style="margin-left: 2%;">
-          <li>• Helping to teach disabled children</li>
-          <li>• Attending to and interacting with disabled children.</li>
-          <li>• Creating activities and entertaining the children with games and songs</li>
-          <li>• Socializing with the children and boosting their confidence</li>
-          <li>• Helping with other activities as your skills allow, from admin to maintenance</li>
-          <li>• Your volunteering program will run from Monday to Friday, from 9 am to 12 pm. You will be able to travel to Sambodhi by scooter, which will take only 8 minutes.</li>
+	<ul class="section-text fee-list-green" style="margin-left: 2%;">
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Helping to teach disabled children</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Attending to and interacting with disabled children.</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Creating activities and entertaining the children with games and songs</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Socializing with the children and boosting their confidence</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Helping with other activities as your skills allow, from admin to maintenance</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Your volunteering program will run from Monday to Friday, from 9 am to 12 pm. You will be able to travel to Sambodhi by scooter, which will take only 8 minutes.</li>
         </ul>
 	
 </section>

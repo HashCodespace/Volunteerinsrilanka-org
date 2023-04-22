@@ -225,6 +225,7 @@ font-weight: 700;
   margin-bottom: 30px;
   font-size: 1.1rem;
   max-width: 80%;
+  text-align: left;
 }
 
 .card-text {

@@ -7,10 +7,4 @@ id:  peakwildernesssanctuary
 description: 'Here, you can hike through lush forests, scale mountain peaks, and witness breathtaking views of misty valleys.'
 
 ---
-Are you an adventurous soul seeking an escape to the wilderness? Look no further than Peak Wilderness Sanctuary, a natural wonder located in the heart of Sri Lanka. This incredible sanctuary spans over 22,000 hectares and is home to a diverse range of flora and fauna.
-
-Here, you can hike through lush forests, scale mountain peaks, and witness breathtaking views of misty valleys. The sanctuary is also home to numerous waterfalls and streams, adding to the serenity of this natural paradise.
-
-As you trek through the sanctuary, keep your eyes peeled for the elusive Sri Lankan leopard, sambar deer, wild boar, and many other species that call this place home. And at the end of a long day of exploration, you can relax and take in the tranquility of the surroundings.
-
-Make sure to add Peak Wilderness Sanctuary to your Sri Lankan itinerary for an unforgettable adventure.
+The third largest natural reserve in Sri Lanka, the Peak Wilderness Sanctuary is a tropical rainforest which derives its name from the surrounding areas of Adams Peak, Horton Plains, Pidhurutalagala and Hakgala. In 2009 the world’s rarest toad, the Adenomus kandianus which was thought to be extinct for 133 years, was rediscovered in this rainforest.

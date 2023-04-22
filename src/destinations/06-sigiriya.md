@@ -9,15 +9,20 @@ description: ' Sigiriya, also known as Lion Rock, is a UNESCO World Heritage Sit
 ---
 
 {% image "./src/assets/img/sigiriya/3.jpeg", "Sigiriya in Sri Lanka", "(min-width: 300em) 50vw, 100vw" , "max-width:80%; border-radius: 20px; height:auto; margin:5%;" %}
+<h2 class="h2 section-title"> What is Sigiriya ?</h2>
 
-Sigiriya is a stunning palace and fortress that pays tribute to its ingenious builders. Let us not forget the King, who desired a Sri Lanka Holiday package in a palace built on the flat top of a rock, complete with a terrace and a mirror wall. The mid-level entrance through the famous Lion gate that gives Sigiriya its name makes it the ideal tailor-made holiday Sri Lanka.Heavenly Maidens frescoes narrate in paint the pleasures of a pristine past of a land that you have chosen when you decided on your Sri Lanka vacation. Sigiriya is an architectural marvel and a classic example of first-millennium urban planning. A park laid out on a symmetrical plan to appease Royal indolence, as well as water retaining structures with ingenious surface and subsurface hydraulic systems, will astound you, as most of them still function today.
+Sigiriya is an ancient rock fortress and palace built by King Kashyapa during the reign of 473 – 495 which is standing majestically 660 feet straight up. It is located in the northern Matale district near the town of Dambulla in central province of Sri Lanka. The word Sigiriya or the Sinhagiri means the Lion’s Rock where you have to climb up 1200 steps before you reach the Lion Rock Fortress on top of Sigiriya. There are several platforms that break up the steps and allow for a little break if you need it. Today Sigiriya rock fortress is one of the most famous Archeological Treasure and UNESCO named Sigiriya rock as a World Heritage in 1982 under the name “Ancient City of Sigiriya Sri Lanka”. 
+
+
 
 {% image "./src/assets/img/sigiriya/4.jpeg", "Sigiriya Wallart in Sri Lanka", "(min-width: 300em) 50vw, 100vw" , "max-width:80%; border-radius: 20px; height:auto; margin:5%;" %}
 
+<h2 class="h2 section-title"> Architecture of Sigiriya Lion Rock</h2>
 
-What will enthrall you most are the frescoes and the mirror wall graffiti. Together they narrate a story painted and etched of the genius of a people who lived and loved with passion. They surpass the guest comments you will read of the most fastidious of Boutique Hotels in Sri Lanka.
 
-The Frescoes – are drawn in a style considered unique. They radiate an ethereal beauty that seduces your senses with a grace that is exquisite despite its antiquity.The Mirror Wall- It is said the Mirror Wall was so polished that the King could see himself when he passed through the ornate terrace in the sky. Its surface suggests that it is made of some form of porcelain. The mirror wall has verses dating from the 8th century wherein they wrote on love, irony, loss and grief.The Gardens of Sigiriya is one of the oldest landscaped gardens in the world.The Lion’s Mouth – is the entrance to the palace, with its giant paws still intact. A guide for you to imagine the enormous edifice that it once was and still is on the Sri Lanka Map.
+This fortified garden city of Sigiriya rock fortress is an exceptional master piece of ancient urban planning / landscape & architecture / construction technology /exceptional hydraulic engineering & management / ancient fine art with unique harmony between nature and human imagination and all these living examples proved that it was a Well Planned City & Palace in 5th Century AD. Sigiriya rock fortress is recognized as one of the best preserved surviving ancient urban sites in Asia from the 1st millennium or simply it’s a Living Museum. Sigiriya World Heritage Site is versatile and many-faceted appeal, and it is one of Sri Lanka’s ancient political capitals and Sri Lanka’s most sensational heritage site.
+
+
 
 <ul class="gallery-list" style="
     margin: 8%;

@@ -62,18 +62,18 @@ Across Asia, there is an ancient myth that eating turtle eggs and meat will incr
 	 Every turtle conservation volunteer will spend their time next to the beach caring for the sea turtles that have been rescued and are now living in the project site. Additionally, undertaking many beach cleans in the local area to keep beaches safe and clean for the turtles and their nests. Your volunteer program will run from Monday-Friday between 9am-12pm. You will get your project usually by scooter which takes about 10 minutes. Your typical duties as a volunteer in Sri Lanka will include:
    <br>
    <br>
-	<ul class="section-text" style="margin-left: 2%;">
-          <li>• Preparing fresh food and assisting feeding on a daily basis</li>
-          <li>• Cleaning within the project premises and nearby beach area</li>
-          <li>• Taking care of the nesting area</li>
-          <li>• Regular beach cleans and beach patrols</li>
-          <li>• Cleaning and refilling the turtle tanks</li>
-          <li>• Assisting with medication</li>
-          <li>• Cleaning the turtles’ shells</li>
-          <li>• Counting and burying turtle eggs safely</li>
-          <li>• Designing education boards around the sanctuary</li>
-          <li>• Painting and drawing for information and animal welfare education</li>
-          <li>• Releasing hatched baby turtles into the sea </li>               
+	<ul class="section-text fee-list-green" style="margin-left: 2%;">
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Preparing fresh food and assisting feeding on a daily basis</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Cleaning within the project premises and nearby beach area</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Taking care of the nesting area</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Regular beach cleans and beach patrols</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Cleaning and refilling the turtle tanks</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Assisting with medication</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Cleaning the turtles’ shells</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Counting and burying turtle eggs safely</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Designing education boards around the sanctuary</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Painting and drawing for information and animal welfare education</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Releasing hatched baby turtles into the sea </li>               
         </ul>
 
 Each Sri Lanka turtle conservation volunteer will join with the local staff at the project to get to grips with the daily tasks and what is expected of them. This will include tasks as part of a team as well as individual roles

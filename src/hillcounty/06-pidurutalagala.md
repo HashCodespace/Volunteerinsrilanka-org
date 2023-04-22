@@ -11,4 +11,3 @@ Pidurutalagala, standing at an elevation of 2,524 meters above sea level, is the
 
 The mountain is a popular destination among nature lovers and adventure seekers alike. You can hike to the summit and witness the stunning sunrise or take a scenic drive through the winding roads that lead to the top. The area is also known for its picturesque tea plantations and charming villages, offering a glimpse into the local way of life.
 
-Experience the beauty and serenity of Pidurutalagala on your next visit to Sri Lanka

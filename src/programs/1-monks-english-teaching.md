@@ -23,13 +23,13 @@ These young monks are highly enthusiastic to learn English, however, they do not
 	 As a volunteer for the Buddhist Monks Teaching Project, you'll have to do the following (apart from other minor works that may crop up as & when required) :
    <br>
    <br>
-	<ul class="section-text" style="margin-left: 2%;">
-          <li>• Teaching English at a basic level to young monks in small to mid-sized groups.</li>
-          <li>• Prepare for each session focusing on the specific needs of the group.</li>
-          <li>• Help the staff for the lesson planning and also find out creative ways to teach.</li>
-          <li>• Focus on basic speaking, reading and writing English as well as some basic grammar sessions.</li>
-          <li>• Help the monks to know more about the outer world and satiate their thirst for knowledge</li>
-          <li>• Your English teaching program will run from monday -friday 9 am-12 pm.You will get your project by scooter which takes 20 minutes.</li>
+	<ul class="section-text fee-list-green" style="margin-left: 2%;">
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Teaching English at a basic level to young monks in small to mid-sized groups.</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Prepare for each session focusing on the specific needs of the group.</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Help the staff for the lesson planning and also find out creative ways to teach.</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Focus on basic speaking, reading and writing English as well as some basic grammar sessions.</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Help the monks to know more about the outer world and satiate their thirst for knowledge</li>
+          <li><ion-icon name="checkmark-sharp"></ion-icon> Your English teaching program will run from monday -friday 9 am-12 pm.You will get your project by scooter which takes 20 minutes.</li>
         </ul>
 	
 </section>
