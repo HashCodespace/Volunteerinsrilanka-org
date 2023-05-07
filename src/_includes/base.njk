@@ -5,6 +5,53 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  {% if keywords %}
+    <meta name="keywords" content="{{ keywords }} ">
+  {% else %}
+    <meta property="keywords" content="Volunteer in Sri Lanka, Sri Lanka volunteer opportunities, Volunteering programs in Sri Lanka, Wildlife conservation Sri Lanka, Sri Lanka turtle conservation, Elephant conservation Sri Lanka, Teaching English in Sri Lanka, Disabled care Sri Lanka, Community development Sri Lanka, Sustainable tourism Sri Lanka, Rural development Sri Lanka, Cultural exchange Sri Lanka, International volunteering Sri Lanka, Volunteer abroad Sri Lanka, Responsible volunteering Sri Lanka, Ethical volunteering Sri Lanka, Social impact Sri Lanka, Meaningful travel Sri Lanka, Adventure volunteering Sri Lanka">
+  {% endif %}
+
+
+  {% if description %}
+    <meta name="description" content="{{ description }} ">
+  {% else %}
+    <meta property="description" content="Volunteer in Sri Lanka with us and make a difference in the lives of the people. We offer a range of volunteer programs to suit your interests.">
+  {% endif %}
+
+
+  <meta name='subject' content="Volunteering programs in Sri Lanka - Volunteer in Sri Lanka">
+  <meta name='copyright' content='Hashen'>
+  <meta name='author' content='Volunteer in Sri Lanka, info@volunteerinsrilanka.org'>
+  <meta name='designer' content='Hashen'>
+  <meta name='url' content='https://volunteerinsrilanka.org'>
+  <link rel="canonical" href="https://volunteerinsrilanka.org{{ page.url | url }}">
+
+  <meta name='pagename' content='Volunteer in Sri Lanka | {{ title }}'>
+  <meta name='category' content='Volunteer Programs'>
+  <meta name='coverage' content='Worldwide'>
+  <meta name='distribution' content='Global'>
+  <meta name='fb:page_id' content='100091639515770'>
+  <meta name='og:email' content='info@volunteerinsrilanka.org'>
+  <meta name='og:phone_number' content='+94779308187'>
+
+  <meta property="og:image" content="https://volunteerinsrilanka.org/assets/img/logo/banner.png">
+
+  {% if og.title %}
+    <meta property="og:title" content="{{ og.title }}">
+  {% else %}
+    <meta property="og:title" content="{{ title }}">
+  {% endif %}
+
+  {% if og.description %}
+    <meta property="og:description" content="{{ og.description }}">
+  {% else %}
+    <meta property="og:description" content="Volunteer in Sri Lanka with us and make a difference in the lives of the people. We offer a range of volunteer programs to suit your interests.">
+  {% endif %}
+
+
+
+
   <title>{{ title }}</title>
 
   <!-- 

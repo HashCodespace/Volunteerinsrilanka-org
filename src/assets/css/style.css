@@ -2082,12 +2082,14 @@ border-radius: 1rem;
   display: none;
 }
 
-.accordion-body__contents {
+.accordion-body__contents{
   padding: 1.5em 1.5em;
   font-size: .85em;
-  text-transform: capitalize;
+  display: inline-block;
 }
-
+.accordion-body__contents::first-letter{
+  text-transform: uppercase;
+}
 .accordion__item.active:last-child .accordion-header {
   border-radius: none;
 }

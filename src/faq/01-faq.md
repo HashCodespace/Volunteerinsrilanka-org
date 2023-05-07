@@ -3,4 +3,4 @@ title: Who are volunteers
 isactive: ['active']
 
 ---
-The Volunteers Can Be From All Over The World. There Is No Age Limit To Join The Volunteer Program. Participant's Main Characteristic Is The Willingness To Help. Our Volunteers Give Their Time And Money To Conserve And Protect The Environment, Uplift And Build Positive Communities, Teach Children, And Promote Health, Education, And Ecological Awareness In Srilanka
+The volunteers can be from all over the world. there is no age limit to join the volunteer program. participant's main characteristic is the willingness to help. our volunteers give their time and money to conserve and protect the environment, uplift and build positive communities, teach children, and promote health, education, and ecological awareness in Sri Lanka
