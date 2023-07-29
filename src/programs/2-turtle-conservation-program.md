@@ -1,95 +1,83 @@
 ---
-title: Turtle Conservation Program
-heading: Sri Lanka Turtle Conservation Volunteers
+title: Protecting Sri Lanka's Sea Turtles | Volunteer in Sri Lanka
+heading: Protecting Sri Lanka's Sea Turtles
+herosub: A Transformative Volunteer Experience
 image: ./src/assets/img/cc/17.jpg
 imagealt: Sri Lanka Turtle Conservation Volunteers
-description: 'Your role as a volunteer includes raising awareness about plastic pollution, caring for injured and disabled turtles, and releasing newly hatched turtles back into the wild... '
+description: 'Join the Sri Lanka Turtle Conservation Volunteer Program to protect and rehabilitate sea turtles amid habitat destruction, pollution, and poaching. Contribute to community development while safeguarding these majestic marine creatures.'
 
 ---
-<section id="Overview">
 
-You can protect and rehabilitate sea turtles whilst also helping at community development projects as a Sri Lanka turtle conservation volunteer. Many species of turtles are under threat and at risk of becoming endangered, hence there is a great need for wildlife conservation efforts. Raise awareness of plastic pollution, care for injured and disable turtles and release freshly hatched babies back into the wild, safe from natural risks and local poachers.
-<br>
-<br>
+<h1 class="h2 section-title " >Protecting Sri Lanka's Sea Turtles</h1>
 
-<h2 class="h2 section-title " >Background To The Turtle Conservation Program</h2>
+Sri Lanka, a country renowned for its rich biodiversity, is home to several species of sea turtles. Unfortunately, these majestic creatures are facing numerous threats, including habitat destruction, pollution, and poaching. The Sri Lanka Turtle Conservation Volunteer Program offers an extraordinary opportunity to contribute to the protection and rehabilitation of sea turtles while actively participating in community development projects. In this article, we will explore the background and significance of the Turtle Conservation Program, volunteer placement examples, and the roles and responsibilities of volunteers in safeguarding these remarkable marine creatures.
 
-In Sri Lanka, there are five species of turtles that are commonly encountered. These are the Green Turtle, Hawksbill, Loggerhead, Olive Ridley and Leatherback. The Green turtle is the most common turtle species and will likely be the one you come across the most if you volunteer in Sri Lanka. The Loggerhead turtle is the rarest and thus hardest to spot in Sri Lanka. They are more commonly found on the East Coast of America.
+<h2 class="h3 section-title " >Background to the Turtle Conservation Program</h2>
 
- 
+Sri Lanka is blessed with an abundance of sea turtle species, including the Green Turtle, Hawksbill, Loggerhead, Olive Ridley, and Leatherback. However, several of these species are critically endangered and on the brink of extinction due to hunting, habitat loss, and human activities. The Turtle Conservation Program aims to address these challenges by focusing on various conservation efforts.
 
-The Hawksbill (renowned for its beautiful shell), Olive Ridley (smallest of the sea turtles) and Leatherback (largest of the 5 species) are harder to spot for different reasons. Sadly they are critically endangered and sit on the brink of extinction. This is mainly because they have been heavily hunted and fell victim to other human activity as well.
+One significant aspect of the program involves the rehabilitation and care of disabled turtles. Many of these turtles are found by local fishermen who bring them to the project site, located near the fishing ports. These injured turtles require ongoing support and rehabilitation to regain their strength and ability to survive in the wild.
 
-
-For instance, fishing is one of the major industries in south of Sri Lanka. The location of the volunteer work in Sri Lanka is close to the local fisheries ports. Sea turtles are often found in fishing nets and many have lost limbs, becoming disabled and are no longer able to survive in the wild. Many of these disabled turtles are found by local fishermen who bring them to the project site for rehabilitation and care.
-
- 
-
-Most importantly, each environmental choice we make every day as a human has an impact upon all marine life. Millions of microplastics, straws and bottles are found in the sea and beaches across the globe. Plastic pollution is becoming a huge problem worldwide and our Sri Lanka turtle conservation volunteers aim to fight the battle against this environmental catastrophe.
-
- 
-
-Volunteering with turtles in Sri Lanka on our turtle conservation program is an incredible opportunity to do your bit to care for these incredible creatures, whilst spending time in a country that will amaze you on so many levels.
-<br>
-
-<h2 class="h2 section-title " >Turtle Conservation Volunteer Placement Examples</h2>
+Additionally, the program emphasizes raising awareness about the environmental impact of plastic pollution. The excessive use of plastic has led to a global crisis, with millions of microplastics polluting the oceans and posing a severe threat to marine life. The Sri Lanka Turtle Conservation Volunteers actively work towards mitigating this problem and promoting environmental consciousness.
 
 
- <b> Turtle Conservation Sanctuary </b> - Each Sri Lanka turtle conservation volunteer will be based at a turtle sanctuary in Galle. Here, the Sri Lanka volunteer program aims to provide daily care and rehabilitation for the disabled turtles. They have a long term goal to release the healthy turtles back to the wild, as well as protecting turtle eggs that have been stolen by local poachers.
- 
+<h2 class="h3 section-title " >Turtle Conservation Volunteer Placement Examples</h2>
 
-Beginning from the orientation, volunteers will learn a great deal about turtle conservation. For instance, how to nest eggs, identify different kinds of turtles, how eggs hatch, how to treat turtles, the differences between the species, how to send turtles back into the sea and so much more. In short, this is a project where you will learn a lot and be able to make a tangible difference with your time.
+<div class="margin-l-1">
+<h3 class="h4 section-title " >1. Turtle Conservation Sanctuary</h3>
+As a volunteer, you will contribute to the daily care and rehabilitation of disabled turtles in Galle. Your volunteer work will be scheduled from 9:00 AM to 12:00 PM, and you will have the opportunity to return to the volunteer accommodation after your volunteering hours.
 
-
-Beach Cleans - As female turtles will only lay their eggs on beaches that are safe environments to them, it is crucial the area is maintained in order to encourage them to nest. Consequently, every Sri Lanka animal volunteer will get involved in cleaning the local beaches for litter and dangerous debris.
-
- 
-
-Climate change, waste and plastic pollution is increasing at an alarming rate across the world and we want to continue raising awareness and promote conservation through our volunteer program.
+The long-term goal is to release healthy turtles back into the wild and protect turtle eggs from poachers. Throughout your placement, you will learn essential skills such as nest care, turtle identification, egg hatching, turtle treatment, and releasing turtles back into the sea. This placement offers a valuable opportunity to make a tangible difference in the lives of these remarkable creatures.
 
 
-This is an important core task that volunteers will engage with in the Sri Lanka turtle conservation program. As part of the teams efforts to support coastal conservation, they aim to collect 200KG of rubbish from the beaches each day. Subsequently, volunteers are the driving force in achieving such goals.
+<h3 class="h4 section-title " >2. Beach Cleans</h3>
 
-<b>Turtle Hatchery & Baby Turtle Release </b>- Volunteers will help to nest, monitor and care for turtle eggs that have been brought to the turtle hatchery. Usually, these are removed from an unsafe area where they may be at risk from human activity. This often includes outside tourist hotels but also if they can be stolen by local poachers.
+Female turtles only lay their eggs on beaches that are safe and clean. To encourage nesting, volunteers actively participate in cleaning the local beaches, removing litter and dangerous debris. With the increasing threat of climate change and plastic pollution, beach cleans play a crucial role in creating a safe environment for nesting turtles. The goal is to collect approximately 200 kilograms of rubbish from the beaches each day, and volunteers are instrumental in achieving this target.
 
- 
+<h3 class="h4 section-title " >3. Turtle Hatchery and Baby Turtle Release</h3>
 
-Across Asia, there is an ancient myth that eating turtle eggs and meat will increase your life span. As a result, turtle eggs are sold illegally on the black market. The hatchery provides a safe environment for the turtles to be nested and monitored for conservation. They follow the National Wildlife Department guidelines and release the babies back into the wild with the help each Sri Lanka turtle conservation volunteer.
-</section>
-<section id="responsibilities">
-<h2 class="h2 section-title " >Volunteer Roles & Responsibilities</h2>
+Volunteers play a vital role in nesting, monitoring, and caring for turtle eggs brought to the hatchery. These eggs are often relocated from unsafe areas where they are at risk from human activities and poachers. The hatchery provides a secure environment for the eggs to hatch, ensuring the conservation of the species. Volunteers adhere to the guidelines set by the National Wildlife Department and assist in the release of baby turtles back into the wild.
 
-	 Every turtle conservation volunteer will spend their time next to the beach caring for the sea turtles that have been rescued and are now living in the project site. Additionally, undertaking many beach cleans in the local area to keep beaches safe and clean for the turtles and their nests. Your volunteer program will run from Monday-Friday between 9am-12pm. You will get your project usually by scooter which takes about 10 minutes. Your typical duties as a volunteer in Sri Lanka will include:
-   <br>
-   <br>
-	<ul class="section-text fee-list-green" style="margin-left: 2%;">
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Preparing fresh food and assisting feeding on a daily basis</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Cleaning within the project premises and nearby beach area</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Taking care of the nesting area</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Regular beach cleans and beach patrols</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Cleaning and refilling the turtle tanks</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Assisting with medication</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Cleaning the turtles’ shells</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Counting and burying turtle eggs safely</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Designing education boards around the sanctuary</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Painting and drawing for information and animal welfare education</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Releasing hatched baby turtles into the sea </li>               
-        </ul>
+</div>
 
-Each Sri Lanka turtle conservation volunteer will join with the local staff at the project to get to grips with the daily tasks and what is expected of them. This will include tasks as part of a team as well as individual roles
+<h2 class="h3 section-title " >Volunteer Roles and Responsibilities</h2>
 
- 
+As a turtle conservation volunteer in Sri Lanka, you will spend your days caring for rescued sea turtles at the project site. Your responsibilities will include
 
-You can do your bit to help tackle the global issue of plastic pollution by cleaning the beaches where many turtles lay eggs in the south. Although this may be one of the more mundane aspects of the program, its importance cannot be underestimated. The volunteer's efforts are recognised positively by the Wildlife Department. It is not uncommon that after one beach clean we have collected up to 20 bags of litter!
+<ul class="section-text fee-list-green" style="margin-left: 2%; max-width: unset;font-size: 1em; font-weight: bold;">
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Daily feeding and preparing fresh food for the turtles.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Cleaning the project premises and nearby beach areas to maintain a safe and clean environment.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Taking care of the nesting area to ensure the successful hatching of eggs.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Participating in regular beach cleans and patrols to remove litter and debris.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Cleaning and refilling turtle tanks, ensuring the turtles have a healthy and suitable habitat.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Assisting with medication and providing necessary treatment to injured turtles.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Cleaning the shells of the turtles to maintain their hygiene and health.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Counting and safely burying turtle eggs to protect them from poachers and natural risks.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Designing educational boards to raise awareness about turtle conservation within the sanctuary.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Engaging in painting and drawing activities for information dissemination and animal welfare education.</li>
+  <li><ion-icon name="checkmark-sharp"></ion-icon> Assisting in the release of hatched baby turtles into the sea, ensuring their safe transition into their natural habitat.</li>               
+</ul>
+
+Each volunteer will work closely with the local staff, who will provide guidance and support in carrying out these responsibilities. Through teamwork and individual contributions, volunteers play a crucial role in protecting and rehabilitating sea turtles.
+
+After finishing their volunteer work, volunteers in all programs will have the opportunity to visit world-famous beaches such as Unawatuna, Weligama, or even Mirissa, all of which are located within a short distance. The afternoons are free for volunteers to explore, relax, or engage in any activities they desire. It's important to note that all programs run from Monday to Friday.
 
 
-</section>
 
-<h3 class="h3 section-title " >Weekends</h3>
-Your project work in Sri Lanka runs from Monday-Friday and weekends are free. You are welcome to relax and hang out at the volunteer accommodation but most participants will use this time to travel and explore the country. 
-<br>
+<h2 class="h3 section-title " >Weekends and Free Time</h2>
 
-<section id="Gallery">
+The Turtle Conservation Program runs from Monday to Friday, allowing volunteers to have weekends free to relax, unwind, and explore the beauty of Sri Lanka. While you are welcome to spend time at the volunteer accommodation, many participants use this opportunity to travel and experience the diverse attractions of the country. Sri Lanka offers breathtaking landscapes, ancient temples, vibrant markets, and delicious cuisine, making it a captivating destination for exploration and cultural immersion.
+
+<h2 class="h3 section-title " >Community Impact and Sustainable Volunteering</h2>
+
+One significant aspect of the Turtle Conservation Program is that the program fees directly benefit the local community. Unlike some international organizations, the funds are channeled into local initiatives that support conservation efforts, promote education, and create opportunities for the community members. By volunteering in this program, you contribute to the sustainable development of the local community and actively participate in the conservation of Sri Lanka's precious marine life.
+
+<h2 class="h3 section-title " >Conclusion</h2>
+
+Joining the Sri Lanka Turtle Conservation Volunteer Program is an exceptional opportunity to protect and rehabilitate endangered sea turtles while engaging in community development projects. Through your dedicated efforts, you contribute to the care and rehabilitation of disabled turtles, clean beaches to create safe nesting environments, and participate in the release of baby turtles into the wild. This transformative volunteer experience allows you to make a tangible difference in the lives of these incredible creatures and promotes environmental awareness. Embrace the opportunity to safeguard Sri Lanka's sea turtles while immersing yourself in the natural beauty and rich culture of this captivating country.
+
+
+<div id="Gallery">
 
 <ul class="gallery-list" style="
     margin: 8%;
@@ -126,4 +114,4 @@ Your project work in Sri Lanka runs from Monday-Friday and weekends are free. Yo
 </li>
 
 </ul>
-</section>
+</div>
