@@ -1,5 +1,5 @@
 ---
-title: Volunteering at a Home for Disabled Homeless Individuals
+title: Providing Care and Compassion 
 heading: Providing Care and Compassion 
 image: ./src/assets/img/sambodhi/1.jpeg
 imagealt: Volunteering at Sambodhi
