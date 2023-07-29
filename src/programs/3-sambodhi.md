@@ -4,7 +4,7 @@ heading: Volunteering at a Home for Disabled Homeless Individuals
 herosub: Providing Care and Compassion
 image: ./src/assets/img/sambodhi/1.jpeg
 imagealt: Volunteering at Sambodhi
-description: 'Sambodhi is a place of refuge for physically and intellectually disabled homeless individuals, offering them a safe and caring environment where they can find solace and support. Within the walls of Sambodhi, 55 residents, ranging from 7 to 75 years old, have found a home where they are accepted and cared for. Many of these individuals have been abandoned by their families due to their disabilities or lack the necessary resources for proper care. As a volunteer at Sambodhi, you have the opportunity to make a profound impact on the lives of these vulnerable individuals by providing much-needed support and compassion.'
+description: 'Discover Sambodhi, a sanctuary for physically & intellectually disabled homeless individuals. Join us as a volunteer, making a profound impact on their lives, offering support & compassion'
 
 ---
 
