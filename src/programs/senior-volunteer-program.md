@@ -4,7 +4,7 @@ heading: The Senior Volunteer Program in Sri Lanka
 herosub: Empowering Seniors
 image: ./src/assets/images/placeholder.webp
 imagealt: The Senior Volunteer Program in Sri Lanka
-description: Break barriers and make a difference with the Senior Volunteer Program in Sri Lanka. Embrace the significance of senior volunteerism, contribute skills and compassion, support communities, and explore the beauty of Sri Lanka's world-famous beaches. Age is no limit to meaningful impact!
+description: Break barriers and make a difference with the Senior Volunteer Program in Sri Lanka. Embrace the significance of senior volunteerism, contribute skills and compassion, support communities, and explore the beauty of Sri Lanka s world-famous beaches. Age is no limit to meaningful impact
 
 ---
 

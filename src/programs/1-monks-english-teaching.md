@@ -4,7 +4,7 @@ heading: Teaching English to Buddhist Monks
 herosub: A Fulfilling Volunteer Experience in Sri Lanka
 image: ./src/assets/img/cc/133.jpeg
 imagealt: Buddhist Monks English Teaching Volunteer Program
-description: "Immerse in Sri Lanka's Buddhist heritage with the Teaching Monks Program. Volunteer at Pirivenas, nurturing young monks' education and English skills. Discover the rewards of this unique experience"
+description: "Immerse in Sri Lanka s Buddhist heritage with the Teaching Monks Program. Volunteer at Pirivenas, nurturing young monks education and English skills. Discover the rewards of this unique experience"
 
 ---
 

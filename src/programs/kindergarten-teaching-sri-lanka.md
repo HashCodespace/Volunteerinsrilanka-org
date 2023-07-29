@@ -3,7 +3,7 @@ title: Exploring the Joy of Kindergarten Teaching in Sri Lanka | Volunteer in Sr
 heading: Exploring the Joy of Kindergarten Teaching
 image: ./src/assets/images/placeholder.webp
 imagealt: Exploring the Joy of Kindergarten Teaching
-description: Embark on a meaningful journey as a volunteer in Sri Lanka's Kindergarten Teaching Programs. Shape young minds, lay the foundation for their future, and experience the joy of making a positive impact. Discover the program details and the beauty of Sri Lanka's world-famous beaches during your free time.
+description: Embark on a meaningful journey as a volunteer in Sri Lankas Kindergarten Teaching Programs. Shape young minds, lay the foundation for their future, and experience the joy of making a positive impact. Discover the program details and the beauty of Sri Lanka s world-famous beaches during your free time.
 
 ---
 
