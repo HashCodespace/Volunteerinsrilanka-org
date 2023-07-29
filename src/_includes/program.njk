@@ -1,6 +1,6 @@
 ---
 layout: 'base.njk'
-permalink: "volunteer-programs/{{ title | slugify }}/index.html"
+permalink: "volunteer-programs/{{ heading | slugify }}/"
 ---
 <style>
   .section-text p {
@@ -14,7 +14,7 @@ permalink: "volunteer-programs/{{ title | slugify }}/index.html"
     <section class="pages-hero page-over" id="home" >
       <div class="container">
         <h2 class="h2 hero-title title page-title" id="title">
-          {{ title }}
+          {{ heading }}
         </h2>
         <p class="hero-text" id="sub-title">
           {% if herosub %}
@@ -23,23 +23,26 @@ permalink: "volunteer-programs/{{ title | slugify }}/index.html"
             Volunteer Programs | Make a Difference in Sri Lanka
           {% endif %}
         </p>
+        <div class="btn-group slider-reveal" id="btn-group">
+               <a href="/apply-now/index.html?getprogram={{ heading }}" ><button class="btn btn-secondary">Inquiry now</button></a>
+        </div>
       </div>
       {% image image , imagealt, "(min-width: 300em) 50vw, 100vw" , "position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);min-height: 100%;min-width: 100%;z-index: -1;" %}
     </section>
     <!-- hero section pver -->
-    <section class="popular partner unset-align">
+    {# <section class="popular partner unset-align">
       <div class="container">
         <center>
           <div class="program-tabs">
             <a href="#Overview"><button>Overview</button></a>
             <a href="#responsibilities"><button>Responsibilities</button></a>
             <a href="#Gallery"><button>Gallery</button></a>
-            <a href="/apply-now/index.html?getprogram={{ title }}"><button>Inquiry now</button></a>
+            <a href="/apply-now/index.html?getprogram={{ heading }}"><button>Inquiry now</button></a>
           </div>
         </center>       
-    </section>
+    </section> #}
     <article>
-    <div class="section-text container unset-align">
+    <div class="section-text container unset-align margin-t-5">
       {{ content | safe }}
     </div>
     </article>

@@ -1,43 +1,50 @@
 ---
-title: Teaching English to Buddhist Monks
-heading: Buddhist Monks English Teaching Volunteer Program
+title: Teaching English to Buddhist Monks | Volunteer in Sri Lanka
+heading: Teaching English to Buddhist Monks 
+herosub: A Fulfilling Volunteer Experience in Sri Lanka
 image: ./src/assets/img/cc/133.jpeg
 imagealt: Buddhist Monks English Teaching Volunteer Program
 description: "Teach English and empower Buddhist monks to communicate effectively with people from all over the world through our volunteer program.... "
 
 ---
-<section id="Overview">
-Sri Lanka is one of those countries where Buddhism was spread in its earliest days. It's not just a prominent religion in the nation, but a way of life as well. Being a volunteer for the Teaching Monks Program, you'll be working at a Pirivena, an educational institution of Buddhist monks (a school, you may say).
-<br>
-<br>
-In this institution, the monks get a holistic learning opportunity, studying different subjects like Pali (an Indo-Aryan language), Sanskrit, history, prosody, astrology, and logic, apart from the scriptures of Buddhism. The Pirivena is also the place where young monks are trained by their masters to follow the rules and regulations promulgated in the Vinaya Pitaka (a prominent Buddhist scripture) which is one of the three parts that make up the Tripitaka - a collection of Buddhist teachings that are the foundation of the Theravada Buddhist philosophy.
-<br>
-<br>
 
-These young monks are highly enthusiastic to learn English, however, they do not have adequate resources to polish their skills. The Government has appointed local teachers who take a 40 minutes class every day, but even the teachers aren't well versed with the language. Hence, being a volunteer, you'll get to play an active role in the Pirivena and teach these bright monks.
+<h1 class="h2 section-title " >Teaching English to Buddhist Monks</h1>
 
+Sambodhi is a place of refuge for physically and intellectually disabled homeless individuals, offering them a safe and caring environment where they can find solace and support. Within the walls of Sambodhi, 55 residents, ranging from 7 to 75 years old, have found a home where they are accepted and cared for. Many of these individuals have been abandoned by their families due to their disabilities or lack the necessary resources for proper care. As a volunteer at Sambodhi, you have the opportunity to make a profound impact on the lives of these vulnerable individuals by providing much-needed support and compassion.
 
-</section>
-<section id="responsibilities">
-<h2 class="h2 section-title " >Volunteer Roles & Responsibilities</h2>
-	 As a volunteer for the Buddhist Monks Teaching Project, you'll have to do the following (apart from other minor works that may crop up as & when required) :
-   <br>
-   <br>
-	<ul class="section-text fee-list-green" style="margin-left: 2%;">
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Teaching English at a basic level to young monks in small to mid-sized groups.</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Prepare for each session focusing on the specific needs of the group.</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Help the staff for the lesson planning and also find out creative ways to teach.</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Focus on basic speaking, reading and writing English as well as some basic grammar sessions.</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Help the monks to know more about the outer world and satiate their thirst for knowledge</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Your English teaching program will run from monday -friday 9 am-12 pm.You will get your project by scooter which takes 20 minutes.</li>
-        </ul>
-	
-</section>
+<h2 class="h3 section-title " >The Challenges Faced by Sambodhi</h2>
 
-<h3 class="h3 section-title " >Weekends</h3>
-Your project work in Sri Lanka runs from Monday-Friday and weekends are free. You are welcome to relax and hang out at the volunteer accommodation but most participants will use this time to travel and explore the country. 
+Sambodhi operates with limited staff and resources, making the daily tasks and care of the residents a collective effort. While the younger children attend school in the morning, the rest of the residents lack a structured routine beyond meal times and tea breaks. These individuals face physical and intellectual disabilities that present significant challenges in their daily lives. As a volunteer, your presence and contributions can provide them with a sense of purpose, joy, and community.
 
-<br>
+<h2 class="h3 section-title " >The Importance of Volunteer Involvement</h2>
+
+Volunteers play a vital role in improving the well-being and quality of life for the residents of Sambodhi. By dedicating your time and energy, you can make a tangible difference in their lives and bring about positive changes. The support and engagement you provide can help boost their morale, enhance their social interactions, and foster a sense of belonging within the community. Your involvement as a volunteer brings light and hope to those who have experienced abandonment and marginalization.
+
+<h2 class="h3 section-title " >Volunteer Roles and Responsibilities</h2>
+
+As a volunteer at Sambodhi, you will be entrusted with various roles and responsibilities. These may include:
+<div class="margin-l-1">
+<h3 class="h4 section-title " >Assisting with teaching disabled children</h3>
+
+Some of the residents are children who require educational support. As a volunteer, you can assist in teaching basic skills, engaging them in interactive activities, and providing individual attention to help them thrive academically.
+
+<h3 class="h4 section-title " >Interacting and attending to the residents</h3>
+
+Engage in meaningful interactions with the residents, offering companionship, support, and care. Your presence and attention can have a profound impact on their emotional well-being and sense of self-worth.
+
+<h3 class="h4 section-title " >Creating activities and entertainment</h3>
+
+Organize creative activities, such as arts and crafts, games, and singing sessions, to provide the residents with opportunities for joy and self-expression. These activities can promote cognitive development, boost their confidence, and bring smiles to their faces.
+
+<h3 class="h4 section-title " >Socializing and boosting confidence</h3>
+
+Spend time socializing with the residents, showing genuine interest in their lives, and encouraging their strengths and talents. Your positive interactions can help build their self-esteem and empower them to embrace their individuality.
+
+<h3 class="h4 section-title " >Assisting with other tasks</h3>
+
+Depending on your skills and abilities, you may be involved in various other activities, such as administrative tasks or maintenance work. Your flexibility and willingness to contribute in different ways ensure the smooth functioning of the home.
+</div>
+
 
 <section id="Gallery">
 <ul class="gallery-list" style="

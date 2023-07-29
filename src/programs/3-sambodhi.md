@@ -1,6 +1,7 @@
 ---
-title: Providing Care and Compassion 
-heading: Providing Care and Compassion 
+title: Volunteering at a Home for Disabled Homeless Individuals  | Volunteer in Sri Lanka
+heading: Volunteering at a Home for Disabled Homeless Individuals
+herosub: Providing Care and Compassion
 image: ./src/assets/img/sambodhi/1.jpeg
 imagealt: Volunteering at Sambodhi
 description: 'Welcome to Sambodhi, a special place where physical and intellectual disabled homeless people find a safe and caring environment... '
@@ -79,7 +80,7 @@ The impact of volunteerism at Sambodhi extends beyond the duration of the progra
 
 Volunteering at Sambodhi, a home for disabled homeless individuals, is a profoundly rewarding experience that allows you to make a meaningful impact on the lives of vulnerable individuals. By providing care, compassion, and engagement, you contribute to their overall well-being and help them find a sense of belonging within a supportive community. Your involvement as a volunteer brings joy, empowerment, and a renewed sense of hope to those who have faced significant challenges. As you dedicate your time and energy to Sambodhi, you become an agent of positive change, promoting compassion and inclusivity in society. Together, let us create a world where everyone is valued, cared for, and given the opportunity to thrive.
 
-<section id="Gallery">
+<div id="Gallery">
 <ul class="gallery-list" style="
     margin: 8%;
 ">
@@ -109,4 +110,4 @@ Volunteering at Sambodhi, a home for disabled homeless individuals, is a profoun
 </li>
 
 </ul>
-</section>
+</div>
