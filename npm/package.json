@@ -1,0 +1,21 @@
+{
+  "name": "volunteering-sri-lanka",
+  "version": "1.0.0",
+  "description": "The Official Website Of Volunteering Sri Lanka",
+  "main": "main.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "Hashen Udara",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "html-minifier-terser": "^7.2.0",
+    "postcss": "^8.4.22",
+    "terser": "^5.16.9"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^3.0.0"
+  }
+}

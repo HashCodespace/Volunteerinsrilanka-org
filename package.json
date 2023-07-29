@@ -1,8 +1,8 @@
 {
-  "name": "volunteering-sri-lanka",
+  "name": "bethel-agency",
   "version": "1.0.0",
-  "description": "The Official Website Of Volunteering Sri Lanka",
-  "main": "main.js",
+  "description": "Website for Bethel Travel Agency",
+  "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy"
@@ -10,12 +10,9 @@
   "author": "Hashen Udara",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0",
-    "html-minifier-terser": "^7.2.0",
-    "postcss": "^8.4.22",
-    "terser": "^5.16.9"
+    "@11ty/eleventy": "^2.0.1"
   },
   "dependencies": {
-    "@11ty/eleventy-img": "^3.0.0"
+    "@11ty/eleventy-img": "^3.1.0"
   }
 }

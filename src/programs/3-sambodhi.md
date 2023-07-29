@@ -1,43 +1,83 @@
 ---
-title: Volunteer in a Home for Disabled Homeless Individuals
-heading: A Home for the Homeless Disabled
+title: Volunteering at a Home for Disabled Homeless Individuals
+heading: Providing Care and Compassion 
 image: ./src/assets/img/sambodhi/1.jpeg
 imagealt: Volunteering at Sambodhi
 description: 'Welcome to Sambodhi, a special place where physical and intellectual disabled homeless people find a safe and caring environment... '
 
 ---
 
-<section id="Overview">
+<h1 class="h2 section-title " >Volunteering at a Home for Disabled Homeless Individuals</h1>
 
-Welcome to Sambodhi, a special place where physical and intellectual disabled homeless people find a safe and caring environment. Sambodhi provides care for 55 individuals ranging from 7 to 75 years old, each with their own unique story. Some were abandoned by their families due to their disability, while others were left behind because their families lacked the resources to care for them.
+Sambodhi is a place of refuge for physically and intellectually disabled homeless individuals, offering them a safe and caring environment where they can find solace and support. Within the walls of Sambodhi, 55 residents, ranging from 7 to 75 years old, have found a home where they are accepted and cared for. Many of these individuals have been abandoned by their families due to their disabilities or lack the necessary resources for proper care. As a volunteer at Sambodhi, you have the opportunity to make a profound impact on the lives of these vulnerable individuals by providing much-needed support and compassion.
 
-With limited staff and resources, the residents of Sambodhi rely on each other to carry out daily tasks. The youngest children attend school in the morning, but for the rest of the residents, there is no structured routine beyond meal times and twice-daily tea breaks. This is where you come in as a volunteer - you can make a real difference in the residents' daily lives by contributing to their well-being.
+<h2 class="h3 section-title " >The Challenges Faced by Sambodhi</h2>
 
-As a volunteer, you will have the opportunity to help residents engage in creative activities and play games, providing them with a much-needed break from their daily routine. Physiotherapists are also welcome to practice with disabled individuals. Your presence and contributions will help to boost the residents' morale and create a sense of community.
-</section>
-<section id="responsibilities">
-<h2 class="h2 section-title " >Volunteer Roles & Responsibilities</h2>
-	 As a volunteer at Sambodhi, you will be responsible for the following: 
-   <br>
-   <br>
-	<ul class="section-text fee-list-green" style="margin-left: 2%;">
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Helping to teach disabled children</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Attending to and interacting with disabled children.</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Creating activities and entertaining the children with games and songs</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Socializing with the children and boosting their confidence</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Helping with other activities as your skills allow, from admin to maintenance</li>
-          <li><ion-icon name="checkmark-sharp"></ion-icon> Your volunteering program will run from Monday to Friday, from 9 am to 12 pm. You will be able to travel to Sambodhi by scooter, which will take only 8 minutes.</li>
-        </ul>
-	
-</section>
+Sambodhi operates with limited staff and resources, making the daily tasks and care of the residents a collective effort. While the younger children attend school in the morning, the rest of the residents lack a structured routine beyond meal times and tea breaks. These individuals face physical and intellectual disabilities that present significant challenges in their daily lives. As a volunteer, your presence and contributions can provide them with a sense of purpose, joy, and community.
 
-<h3 class="h3 section-title " >Weekends</h3>
-Your project work in Sri Lanka runs from Monday to Friday, which leaves the weekends free for you to explore the country or simply relax at the volunteer accommodation. Sri Lanka is a beautiful country with much to offer, from beaches to ancient ruins and everything in between.
-   <br>
-   <br>
-Thank you for considering volunteering at Sambodhi. We look forward to welcoming you and working together to make a positive difference in the lives of those in need.
+<h2 class="h3 section-title " >The Importance of Volunteer Involvement</h2>
 
-<br>
+Volunteers play a vital role in improving the well-being and quality of life for the residents of Sambodhi. By dedicating your time and energy, you can make a tangible difference in their lives and bring about positive changes. The support and engagement you provide can help boost their morale, enhance their social interactions, and foster a sense of belonging within the community. Your involvement as a volunteer brings light and hope to those who have experienced abandonment and marginalization.
+
+<h2 class="h3 section-title " >Volunteer Roles and Responsibilities</h2>
+
+As a volunteer at Sambodhi, you will be entrusted with various roles and responsibilities. These may include:
+<div class="margin-l-1">
+<h3 class="h4 section-title " >Assisting with teaching disabled children</h3>
+
+Some of the residents are children who require educational support. As a volunteer, you can assist in teaching basic skills, engaging them in interactive activities, and providing individual attention to help them thrive academically.
+
+<h3 class="h4 section-title " >Interacting and attending to the residents</h3>
+
+Engage in meaningful interactions with the residents, offering companionship, support, and care. Your presence and attention can have a profound impact on their emotional well-being and sense of self-worth.
+
+<h3 class="h4 section-title " >Creating activities and entertainment</h3>
+
+Organize creative activities, such as arts and crafts, games, and singing sessions, to provide the residents with opportunities for joy and self-expression. These activities can promote cognitive development, boost their confidence, and bring smiles to their faces.
+
+<h3 class="h4 section-title " >Socializing and boosting confidence</h3>
+
+Spend time socializing with the residents, showing genuine interest in their lives, and encouraging their strengths and talents. Your positive interactions can help build their self-esteem and empower them to embrace their individuality.
+
+<h3 class="h4 section-title " >Assisting with other tasks</h3>
+
+Depending on your skills and abilities, you may be involved in various other activities, such as administrative tasks or maintenance work. Your flexibility and willingness to contribute in different ways ensure the smooth functioning of the home.
+</div>
+
+<h2 class="h3 section-title " >Working Schedule and Weekends</h2>
+
+Your volunteer program at Sambodhi will run from Monday to Friday, with daily sessions scheduled from 9 am to 12 pm. Traveling to Sambodhi from your accommodation typically takes only 8 minutes by scooter, ensuring convenient access to the facility. The weekends are free, allowing you the opportunity to explore the wonders of Sri Lanka or simply unwind and recharge at the volunteer accommodation. Sri Lanka offers a myriad of attractions, from pristine beaches to ancient ruins and lush landscapes, providing a rich cultural and natural backdrop for your weekend adventures.
+
+<h2 class="h3 section-title " >The Impact of Volunteerism at Sambodhi</h2>
+
+Volunteerism at Sambodhi goes beyond providing immediate support and care to the residents. It creates a lasting impact on both the volunteers and the individuals they serve. Let's explore the significant outcomes and benefits of volunteering at Sambodhi
+<div class="margin-l-1">
+<h3 class="h4 section-title " >Empowerment and Enhanced Quality of Life</h3>
+
+Through your involvement, the residents of Sambodhi experience increased empowerment and an improved quality of life. Your companionship, attention, and engagement give them a sense of belonging and dignity. By participating in educational activities, creative pursuits, and social interactions, the residents develop new skills, gain confidence, and discover their unique abilities. The transformational impact of your volunteerism helps them lead more fulfilling and meaningful lives.
+
+
+<h3 class="h4 section-title " >Community Building and Social Integration</h3>
+
+Volunteers play a crucial role in building a sense of community and fostering social integration within Sambodhi. By bridging the gap between residents and the wider society, volunteers promote inclusivity and challenge the stigma associated with disabilities. Through meaningful interactions, the volunteers help break down barriers and create an environment of acceptance and understanding. The sense of community cultivated at Sambodhi instills a feeling of belonging and support for the residents.
+
+
+<h3 class="h4 section-title " >Awareness and Advocacy</h3>
+
+Volunteerism at Sambodhi raises awareness about the challenges faced by disabled homeless individuals. By sharing their stories and experiences, volunteers inspire empathy and compassion in others. This increased awareness can lead to greater advocacy for the rights and well-being of individuals with disabilities, promoting inclusivity and driving social change. Volunteers become ambassadors for the cause, advocating for equal opportunities and challenging societal biases and stereotypes.
+
+<h3 class="h4 section-title " >Personal Growth and Cross-Cultural Learning</h3>
+
+Volunteering at Sambodhi offers volunteers a transformative personal growth experience. It provides an opportunity to develop empathy, patience, and resilience while expanding cultural understanding and awareness. Interacting with individuals from different backgrounds and with diverse abilities broadens perspectives and fosters a deeper appreciation for the inherent value of every human being. Volunteers gain valuable life skills, enhance their intercultural competence, and forge connections that transcend differences.
+
+<h3 class="h4 section-title " >Sustainable Impact</h3>
+
+The impact of volunteerism at Sambodhi extends beyond the duration of the program. The relationships and connections built during volunteering can endure over time, creating a lasting support system for the residents. By fostering a sense of community and providing ongoing support, volunteers contribute to the long-term well-being and development of the residents. Additionally, the advocacy efforts and increased awareness generated through volunteerism can lead to systemic changes in society, promoting greater inclusivity and support for individuals with disabilities.
+</div>
+
+<h2 class="h3 section-title " >Conclusion</h2>
+
+Volunteering at Sambodhi, a home for disabled homeless individuals, is a profoundly rewarding experience that allows you to make a meaningful impact on the lives of vulnerable individuals. By providing care, compassion, and engagement, you contribute to their overall well-being and help them find a sense of belonging within a supportive community. Your involvement as a volunteer brings joy, empowerment, and a renewed sense of hope to those who have faced significant challenges. As you dedicate your time and energy to Sambodhi, you become an agent of positive change, promoting compassion and inclusivity in society. Together, let us create a world where everyone is valued, cared for, and given the opportunity to thrive.
 
 <section id="Gallery">
 <ul class="gallery-list" style="

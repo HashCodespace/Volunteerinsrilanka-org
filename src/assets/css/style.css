@@ -1370,7 +1370,13 @@ address {
 
 
 
+.unset-align{
+  text-align: unset !important;
+}
 
+.margin-l-1{
+  margin-left: 1rem;
+}
 
 /*-----------------------------------*\
  * #GO TO TOP
@@ -2254,7 +2260,7 @@ th{
   background-color: var(--white-green);
   padding: 0.5rem 2rem;
   border-radius: 12px;
-  margin-bottom: 4.5rem;
+  margin-bottom: 2.5rem;
   width: 90%;
 }
 

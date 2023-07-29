@@ -8,7 +8,7 @@ permalink: "volunteer-programs/{{ title | slugify }}/index.html"
   }
 </style>
 <main>
-  <article>
+
     <!--
     - #HERO -->
     <section class="pages-hero page-over" id="home" >
@@ -27,7 +27,7 @@ permalink: "volunteer-programs/{{ title | slugify }}/index.html"
       {% image image , imagealt, "(min-width: 300em) 50vw, 100vw" , "position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);min-height: 100%;min-width: 100%;z-index: -1;" %}
     </section>
     <!-- hero section pver -->
-    <section class="popular partner unset-align" id="destination">
+    <section class="popular partner unset-align">
       <div class="container">
         <center>
           <div class="program-tabs">
@@ -36,18 +36,16 @@ permalink: "volunteer-programs/{{ title | slugify }}/index.html"
             <a href="#Gallery"><button>Gallery</button></a>
             <a href="/apply-now/index.html?getprogram={{ title }}"><button>Inquiry now</button></a>
           </div>
-        </center>
-        
-        <h2 class="h2 section-title unset-align">{{ heading }}</h2>
-        <br>
-          <br>
-            <div class="section-text " style="">
-              {{ content | safe }}
-            </div>
-            
+        </center>       
     </section>
+    <article>
+    <div class="section-text container unset-align">
+      {{ content | safe }}
+    </div>
+    </article>
 
 
+</main>
 
 
 
