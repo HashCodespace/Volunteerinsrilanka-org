@@ -454,10 +454,10 @@ font-weight: 700;
 
   }
   12%{
-    background-image: url("../img/cc/14.webp");
+    background-image: url("../img/p1.jpg");
   }
   20%{
-    background-image: url("../img/cc/14.webp");
+    background-image: url("../img/p1.jpg");
   }
   22%{
     background-image: url("../img/cc/16.jpg");
@@ -2325,4 +2325,8 @@ th{
   all: unset;
   text-decoration: underline;
   cursor: pointer;
+}
+
+.sl-article{
+  color: var(--gunmetal);
 }

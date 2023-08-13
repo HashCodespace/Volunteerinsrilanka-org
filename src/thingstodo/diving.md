@@ -3,7 +3,6 @@ title: Diving & Snorkeling
 heading: Discover the Underwater World of Sri Lanka
 herosub:  Diving and Snorkeling in Sri Lanka
 image: ./src/assets/img/thingstodo/18.jpeg
-tags: featuredthings
 imagealt: Diving and Snorkeling in Sri Lanka
 description: 'The country is home to a variety of marine life, including coral reefs, colorful fish, sea turtles, and even shipwrecks.'
 
