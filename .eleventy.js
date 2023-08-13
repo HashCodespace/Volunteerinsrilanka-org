@@ -14,7 +14,8 @@ async function imageShortcode(src, alt, sizes , style, classlist) {
     alt,
     sizes,
     style,
-    classlist,
+    class: classlist,
+    title: alt,
     loading: "lazy",
     decoding: "async",
   };

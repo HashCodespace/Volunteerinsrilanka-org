@@ -24,17 +24,17 @@ Additionally, the program emphasizes raising awareness about the environmental i
 <h2 class="h3 section-title " >Turtle Conservation Volunteer Placement Examples</h2>
 
 <div class="margin-l-1">
-<h3 class="h4 section-title " >1. Turtle Conservation Sanctuary</h3>
+<h3 class="h4 section-title unset-align" >1. Turtle Conservation Sanctuary</h3>
 As a volunteer, you will contribute to the daily care and rehabilitation of disabled turtles in Galle. Your volunteer work will be scheduled from 9:00 AM to 12:00 PM, and you will have the opportunity to return to the volunteer accommodation after your volunteering hours.
 
 The long-term goal is to release healthy turtles back into the wild and protect turtle eggs from poachers. Throughout your placement, you will learn essential skills such as nest care, turtle identification, egg hatching, turtle treatment, and releasing turtles back into the sea. This placement offers a valuable opportunity to make a tangible difference in the lives of these remarkable creatures.
 
 
-<h3 class="h4 section-title " >2. Beach Cleans</h3>
+<h3 class="h4 section-title unset-align" >2. Beach Cleans</h3>
 
 Female turtles only lay their eggs on beaches that are safe and clean. To encourage nesting, volunteers actively participate in cleaning the local beaches, removing litter and dangerous debris. With the increasing threat of climate change and plastic pollution, beach cleans play a crucial role in creating a safe environment for nesting turtles. The goal is to collect approximately 200 kilograms of rubbish from the beaches each day, and volunteers are instrumental in achieving this target.
 
-<h3 class="h4 section-title " >3. Turtle Hatchery and Baby Turtle Release</h3>
+<h3 class="h4 section-title unset-align" >3. Turtle Hatchery and Baby Turtle Release</h3>
 
 Volunteers play a vital role in nesting, monitoring, and caring for turtle eggs brought to the hatchery. These eggs are often relocated from unsafe areas where they are at risk from human activities and poachers. The hatchery provides a secure environment for the eggs to hatch, ensuring the conservation of the species. Volunteers adhere to the guidelines set by the National Wildlife Department and assist in the release of baby turtles back into the wild.
 

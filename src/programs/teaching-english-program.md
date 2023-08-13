@@ -2,7 +2,7 @@
 title: The Teaching English Program in Sri Lanka | Volunteer in Sri Lanka
 heading: The Teaching English Program in Sri Lanka
 herosub: Empowering Through Language
-image: ./src/assets/images/placeholder.webp
+image: ./src/assets/img/p8.jpg
 imagealt: The Teaching English Program in Sri Lanka
 description: Unlock opportunities in Sri Lanka through the Teaching English Program. Empower local communities by sharing language skills, broadening horizons, and making a meaningful impact. Explore the significance of English education, the role of volunteers, program details, and enjoy leisure time at world-famous beaches.
 
@@ -11,6 +11,34 @@ description: Unlock opportunities in Sri Lanka through the Teaching English Prog
 <h1 class="h2 section-title " >Empowering Through Language: The Teaching English Program in Sri Lanka</h1>
 
 The ability to communicate in English opens doors to educational, professional, and personal opportunities. In Sri Lanka, where English proficiency is highly valued, volunteering in the Teaching English Program allows you to make a meaningful impact on the lives of local communities. By sharing your language skills and cultural knowledge, you empower individuals to develop their English language proficiency and broaden their horizons. In this article, we will explore the significance of English education in Sri Lanka, the role of volunteers in the Teaching English Program, program details, and the exciting opportunities to visit world-famous beaches during free time.
+
+<div id="Gallery">
+
+<ul class="gallery-list" style="
+    margin: 8%;
+">
+
+<li class="gallery-item">
+  <figure class="gallery-image">
+    {% image "./src/assets/img/p8.jpg", "The Teaching English Program in Sri Lanka", "(min-width: 300em) 50vw, 100vw" %}
+  </figure>
+</li>
+
+<li class="gallery-item">
+  <figure class="gallery-image">
+    {% image "./src/assets/img/p10.jpg", "The Teaching English Program in Sri Lanka", "(min-width: 300em) 50vw, 100vw" %}
+  </figure>
+</li>
+
+<li class="gallery-item">
+  <figure class="gallery-image">
+    {% image "./src/assets/img/p11.jpg", "The Teaching English Program in Sri Lanka", "(min-width: 300em) 50vw, 100vw" %}
+  </figure>
+</li>
+
+
+</ul>
+</div>
 
 <h2 class="h3 section-title " >The Significance of English Education in Sri Lanka</h2>
 
@@ -42,32 +70,32 @@ Volunteering in the Teaching English Program offers numerous benefits for volunt
 Teaching English programs in Sri Lanka have a far-reaching and long-term impact on individuals, communities, and the broader society. Let's explore the significant outcomes and benefits that extend beyond the immediate teaching experience:
 
 <div class="margin-l-1">
-<h3 class="h4 section-title " >1. Enhanced Educational Opportunities</h3>
+<h3 class="h4 section-title unset-align" >1. Enhanced Educational Opportunities</h3>
 
 By improving English language proficiency, teaching English programs open doors to enhanced educational opportunities for students. Proficiency in English allows individuals to access a wider range of academic resources, scholarships, and study abroad programs. As a result, students gain the tools and confidence to pursue higher education, expanding their knowledge and career prospects.
 
 
-<h3 class="h4 section-title " >2. Increased Employability</h3>
+<h3 class="h4 section-title unset-align" >2. Increased Employability</h3>
 
 In today's globalized job market, English language skills are highly sought after by employers. Through teaching English programs, individuals gain a competitive edge and increased employability in various industries such as tourism, hospitality, customer service, and international business. Improved English proficiency equips individuals with the communication skills necessary to succeed in a global workplace.
 
-<h3 class="h4 section-title " >3. Cultural Exchange and Understanding</h3>
+<h3 class="h4 section-title unset-align" >3. Cultural Exchange and Understanding</h3>
 
 Teaching English programs foster cultural exchange and understanding between volunteers and local communities. By sharing their own culture and experiences, volunteers contribute to a greater appreciation and understanding of diversity. This cultural exchange promotes mutual respect, empathy, and a broader worldview among both volunteers and students, fostering global citizenship.
 
-<h3 class="h4 section-title " >4. Community Development</h3>
+<h3 class="h4 section-title unset-align" >4. Community Development</h3>
 
 English education plays a vital role in community development. By volunteering in teaching English programs, you support the growth and progress of local communities by providing individuals with a valuable skillset. English proficiency strengthens community resources, such as tourism, business development, and communication networks, contributing to sustainable growth and prosperity.
 
-<h3 class="h4 section-title " >5. Empowerment and Confidence</h3>
+<h3 class="h4 section-title unset-align" >5. Empowerment and Confidence</h3>
 
 The ability to communicate effectively in English empowers individuals, instilling them with confidence and a sense of self-worth. Teaching English programs nurture this empowerment by helping students overcome language barriers and gain the tools to express themselves in an international context. This newfound confidence extends beyond language skills, impacting various aspects of their personal and professional lives.
 
-<h3 class="h4 section-title " >6. Sustainable Impact</h3>
+<h3 class="h4 section-title unset-align" >6. Sustainable Impact</h3>
 
 The impact of teaching English programs extends beyond the immediate classroom experience. By equipping individuals with English language skills, volunteers contribute to the long-term development of local communities and the country as a whole. English education acts as a catalyst for sustainable change, promoting economic growth, cultural exchange, and social progress.
 
-<h3 class="h4 section-title " >7. Lifelong Learning</h3>
+<h3 class="h4 section-title unset-align" >7. Lifelong Learning</h3>
 
 Teaching English programs instill a love for learning that extends beyond language acquisition. Students are inspired to continue their educational journey, motivated by the opportunities and knowledge that English proficiency brings. By nurturing a passion for lifelong learning, volunteers contribute to the personal growth and development of individuals, fostering a thirst for knowledge and a commitment to self-improvement.
 
