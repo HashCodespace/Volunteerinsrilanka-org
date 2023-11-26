@@ -4,8 +4,7 @@ heading: Volunteering at a Home for Disabled Homeless Individuals
 herosub: Providing Care and Compassion
 image: ./src/assets/img/sambodhi/1.jpeg
 imagealt: Volunteering at Sambodhi
-description: 'Discover Sambodhi, a sanctuary for physically & intellectually disabled homeless individuals. Join us as a volunteer, making a profound impact on their lives, offering support & compassion'
-
+description: "Explore Sambodhi, a refuge for homeless individuals with physical and intellectual disabilities. Volunteer to make a profound impact, offering support and compassion."
 ---
 
 <h1 class="h2 section-title " >Volunteering at a Home for Disabled Homeless Individuals</h1>
@@ -23,6 +22,7 @@ Volunteers play a vital role in improving the well-being and quality of life for
 <h2 class="h3 section-title " >Volunteer Roles and Responsibilities</h2>
 
 As a volunteer at Sambodhi, you will be entrusted with various roles and responsibilities. These may include:
+
 <div class="margin-l-1">
 <h3 class="h4 section-title unset-align" >1. Assisting with teaching disabled children</h3>
 
@@ -43,6 +43,7 @@ Spend time socializing with the residents, showing genuine interest in their liv
 <h3 class="h4 section-title unset-align" >5. Assisting with other tasks</h3>
 
 Depending on your skills and abilities, you may be involved in various other activities, such as administrative tasks or maintenance work. Your flexibility and willingness to contribute in different ways ensure the smooth functioning of the home.
+
 </div>
 
 <h2 class="h3 section-title " >Working Schedule and Weekends</h2>
@@ -52,16 +53,15 @@ Your volunteer program at Sambodhi will run from Monday to Friday, with daily se
 <h2 class="h3 section-title " >The Impact of Volunteerism at Sambodhi</h2>
 
 Volunteerism at Sambodhi goes beyond providing immediate support and care to the residents. It creates a lasting impact on both the volunteers and the individuals they serve. Let's explore the significant outcomes and benefits of volunteering at Sambodhi
+
 <div class="margin-l-1">
 <h3 class="h4 section-title unset-align" >1. Empowerment and Enhanced Quality of Life</h3>
 
 Through your involvement, the residents of Sambodhi experience increased empowerment and an improved quality of life. Your companionship, attention, and engagement give them a sense of belonging and dignity. By participating in educational activities, creative pursuits, and social interactions, the residents develop new skills, gain confidence, and discover their unique abilities. The transformational impact of your volunteerism helps them lead more fulfilling and meaningful lives.
 
-
 <h3 class="h4 section-title unset-align" >2. Community Building and Social Integration</h3>
 
 Volunteers play a crucial role in building a sense of community and fostering social integration within Sambodhi. By bridging the gap between residents and the wider society, volunteers promote inclusivity and challenge the stigma associated with disabilities. Through meaningful interactions, the volunteers help break down barriers and create an environment of acceptance and understanding. The sense of community cultivated at Sambodhi instills a feeling of belonging and support for the residents.
-
 
 <h3 class="h4 section-title unset-align" >3. Awareness and Advocacy</h3>
 
@@ -74,6 +74,7 @@ Volunteering at Sambodhi offers volunteers a transformative personal growth expe
 <h3 class="h4 section-title unset-align" >5. Sustainable Impact</h3>
 
 The impact of volunteerism at Sambodhi extends beyond the duration of the program. The relationships and connections built during volunteering can endure over time, creating a lasting support system for the residents. By fostering a sense of community and providing ongoing support, volunteers contribute to the long-term well-being and development of the residents. Additionally, the advocacy efforts and increased awareness generated through volunteerism can lead to systemic changes in society, promoting greater inclusivity and support for individuals with disabilities.
+
 </div>
 
 <h2 class="h3 section-title " >Conclusion</h2>

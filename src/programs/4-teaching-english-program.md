@@ -4,8 +4,7 @@ heading: The Teaching English Program in Sri Lanka
 herosub: Empowering Through Language
 image: ./src/assets/img/p8.jpg
 imagealt: The Teaching English Program in Sri Lanka
-description: Unlock opportunities in Sri Lanka through the Teaching English Program. Empower local communities by sharing language skills, broadening horizons, and making a meaningful impact. Explore the significance of English education, the role of volunteers, program details, and enjoy leisure time at world-famous beaches.
-
+description: Empower local communities in Sri Lanka by teaching English, making a meaningful impact, and enjoying leisure time at world-famous beaches.
 ---
 
 <h1 class="h2 section-title " >Empowering Through Language: The Teaching English Program in Sri Lanka</h1>
@@ -36,14 +35,12 @@ The ability to communicate in English opens doors to educational, professional, 
   </figure>
 </li>
 
-
 </ul>
 </div>
 
 <h2 class="h3 section-title " >The Significance of English Education in Sri Lanka</h2>
 
 English education plays a crucial role in Sri Lanka as it is widely recognized as the global language of communication and commerce. Proficiency in English opens doors to better employment opportunities, higher education, and cultural exchange. However, access to quality English education is often limited in certain communities, creating a gap that volunteers can help bridge. By volunteering in the Teaching English Program, you contribute to empowering individuals with a valuable skillset that can positively impact their future.
-
 
 <h2 class="h3 section-title " >The Role of Volunteers in the Teaching English Program</h2>
 
@@ -73,7 +70,6 @@ Teaching English programs in Sri Lanka have a far-reaching and long-term impact 
 <h3 class="h4 section-title unset-align" >1. Enhanced Educational Opportunities</h3>
 
 By improving English language proficiency, teaching English programs open doors to enhanced educational opportunities for students. Proficiency in English allows individuals to access a wider range of academic resources, scholarships, and study abroad programs. As a result, students gain the tools and confidence to pursue higher education, expanding their knowledge and career prospects.
-
 
 <h3 class="h4 section-title unset-align" >2. Increased Employability</h3>
 

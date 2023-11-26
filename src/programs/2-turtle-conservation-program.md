@@ -4,8 +4,7 @@ heading: Protecting Sri Lanka's Sea Turtles
 herosub: A Transformative Volunteer Experience
 image: ./src/assets/img/cc/17.jpg
 imagealt: Sri Lanka Turtle Conservation Volunteers
-description: 'Join the Sri Lanka Turtle Conservation Volunteer Program to protect and rehabilitate sea turtles amid habitat destruction, pollution, and poaching. Contribute to community development while safeguarding these majestic marine creatures.'
-
+description: Protect sea turtles from threats like habitat destruction & poaching. Contribute to community development while preserving these  marine creatures
 ---
 
 <h1 class="h2 section-title " >Protecting Sri Lanka's Sea Turtles</h1>
@@ -20,7 +19,6 @@ One significant aspect of the program involves the rehabilitation and care of di
 
 Additionally, the program emphasizes raising awareness about the environmental impact of plastic pollution. The excessive use of plastic has led to a global crisis, with millions of microplastics polluting the oceans and posing a severe threat to marine life. The Sri Lanka Turtle Conservation Volunteers actively work towards mitigating this problem and promoting environmental consciousness.
 
-
 <h2 class="h3 section-title " >Turtle Conservation Volunteer Placement Examples</h2>
 
 <div class="margin-l-1">
@@ -28,7 +26,6 @@ Additionally, the program emphasizes raising awareness about the environmental i
 As a volunteer, you will contribute to the daily care and rehabilitation of disabled turtles in Galle. Your volunteer work will be scheduled from 9:00 AM to 12:00 PM, and you will have the opportunity to return to the volunteer accommodation after your volunteering hours.
 
 The long-term goal is to release healthy turtles back into the wild and protect turtle eggs from poachers. Throughout your placement, you will learn essential skills such as nest care, turtle identification, egg hatching, turtle treatment, and releasing turtles back into the sea. This placement offers a valuable opportunity to make a tangible difference in the lives of these remarkable creatures.
-
 
 <h3 class="h4 section-title unset-align" >2. Beach Cleans</h3>
 
@@ -62,8 +59,6 @@ Each volunteer will work closely with the local staff, who will provide guidance
 
 After finishing their volunteer work, volunteers in all programs will have the opportunity to visit world-famous beaches such as Unawatuna, Weligama, or even Mirissa, all of which are located within a short distance. The afternoons are free for volunteers to explore, relax, or engage in any activities they desire. It's important to note that all programs run from Monday to Friday.
 
-
-
 <h2 class="h3 section-title " >Weekends and Free Time</h2>
 
 The Turtle Conservation Program runs from Monday to Friday, allowing volunteers to have weekends free to relax, unwind, and explore the beauty of Sri Lanka. While you are welcome to spend time at the volunteer accommodation, many participants use this opportunity to travel and experience the diverse attractions of the country. Sri Lanka offers breathtaking landscapes, ancient temples, vibrant markets, and delicious cuisine, making it a captivating destination for exploration and cultural immersion.
@@ -75,7 +70,6 @@ One significant aspect of the Turtle Conservation Program is that the program fe
 <h2 class="h3 section-title " >Conclusion</h2>
 
 Joining the Sri Lanka Turtle Conservation Volunteer Program is an exceptional opportunity to protect and rehabilitate endangered sea turtles while engaging in community development projects. Through your dedicated efforts, you contribute to the care and rehabilitation of disabled turtles, clean beaches to create safe nesting environments, and participate in the release of baby turtles into the wild. This transformative volunteer experience allows you to make a tangible difference in the lives of these incredible creatures and promotes environmental awareness. Embrace the opportunity to safeguard Sri Lanka's sea turtles while immersing yourself in the natural beauty and rich culture of this captivating country.
-
 
 <div id="Gallery">
 
