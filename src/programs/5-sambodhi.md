@@ -4,7 +4,7 @@ heading: Volunteering at a Home for Disabled Homeless Individuals
 herosub: Providing Care and Compassion
 image: ./src/assets/img/sambodhi/1.jpeg
 imagealt: Volunteering at Sambodhi
-description: "Explore Sambodhi, a refuge for homeless individuals with physical and intellectual disabilities. Volunteer to make a profound impact, offering support and compassion."
+description: " Volunteer to make a profound impact through support and compassion."
 ---
 
 <h1 class="h2 section-title " >Volunteering at a Home for Disabled Homeless Individuals</h1>
