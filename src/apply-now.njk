@@ -63,7 +63,8 @@ og:
       
 
             {# <form action=""" class="tour-search-form" name="Applications for Programs" style="gap:2rem;" method="GET"> #}
-             <form action="https://formspree.io/f/mlekalnl" class="tour-search-form" name="Applications for Programs" style="gap:2rem;" method="POST"> 
+             <form  netlify class="tour-search-form" name="Applications for Programs" style="gap:2rem;" method="POST"> 
+              <input name="project" type="hidden" />
               <div class="input-wrapper" style="grid-column: 1/3;width: 100%;">
                 <label for="name" class="input-label">Your Name*</label>
 
@@ -380,7 +381,7 @@ og:
              
 
               <button type="submit" class="btn btn-primary" style="grid-column: 1/3;margin: auto;">Submit Application</button>
-
+              
             </form>
 
         </div>
