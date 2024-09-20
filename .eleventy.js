@@ -1,10 +1,9 @@
-const { DateTime } = require("luxon")
+const { DateTime } = require("luxon");
 const Image = require("@11ty/eleventy-img");
 
-
-async function imageShortcode(src, alt, sizes , style, classlist) {
+async function imageShortcode(src, alt, sizes, style, classlist) {
   let metadata = await Image(src, {
-    widths: [750, 600, 1000,1200],
+    widths: [750, 600, 1000, 1200],
     formats: ["webp"],
     urlPath: "/images/",
     outputDir: "./dist/images/",
@@ -24,10 +23,10 @@ async function imageShortcode(src, alt, sizes , style, classlist) {
   return Image.generateHTML(metadata, imageAttributes);
 }
 
-
-module.exports = function(eleventyConfig){
-  eleventyConfig.addPassthroughCopy('./src/assets')
-  eleventyConfig.addPassthroughCopy('./src/.htaccess')
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("./src/assets");
+  eleventyConfig.addPassthroughCopy("./src/admin");
+  eleventyConfig.addPassthroughCopy("./src/.htaccess");
   // eleventyConfig.addPassthroughCopy('./src/admin')
   eleventyConfig.addAsyncShortcode("image", imageShortcode);
 
@@ -38,14 +37,14 @@ module.exports = function(eleventyConfig){
 
   eleventyConfig.addFilter("postDate", (dataObj) => {
     return DateTime.fromJSDate(dataObj).toLocaleString(DateTime.DATE_MED);
-  })
-  
-    // Return your Object options:
+  });
+
+  // Return your Object options:
   return {
     markdownTemplateEngine: "njk",
     dir: {
       input: "src",
-      output: "dist"
-    }
+      output: "dist",
+    },
   };
-}
+};
