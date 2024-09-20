@@ -1,0 +1,56 @@
+---
+layout: 'base.njk'
+permalink: "blog/{{ title | slugify }}/"
+---
+<style>
+  .section-text p {
+    max-width: unset;
+  }
+</style>
+<main>
+
+    <!--
+    - #HERO -->
+    <section class="pages-hero page-over" id="home" >
+      <div class="container">
+        <h2 class="h2 hero-title title page-title" id="title">
+          {{ title }}
+        </h2>
+        {# <p class="hero-text" id="sub-title">
+          {% if herosub %}
+            {{ herosub }}
+          {% else %}
+            Volunteer Programs | Make a Difference in Sri Lanka
+          {% endif %}
+        </p> #}
+        <div class="btn-group slider-reveal" id="btn-group">
+               <a href="/apply-now/index.html?getprogram={{ heading }}" ><button class="btn btn-secondary">Register for this program</button></a>
+        </div>
+      </div>
+      {% image img , imgalt, "(min-width: 300em) 50vw, 100vw" , "position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);min-height: 100%;min-width: 100%;z-index: -1; height: auto;" %}
+    </section>
+    <article>
+    <div class="section-text container unset-align margin-t-5">
+      {{ content | safe }}
+    </div>
+    </article>
+
+
+    <section class="cta" id="contact">
+       <div class="container">
+          <div class="cta-content cta-width" >
+             <p class="section-subtitle" style="text-align:left;" data-reveal>Ready to Join the Movement?</p>
+             <h2 class="h2 section-title cta-title-hash" style="text-align:left;" data-reveal>Take the First Step, Join with us with
+                <br>{{ title }}
+             </h2>
+             <br>
+             <a href="/apply-now/"><button class="btn btn-primary" data-reveal>Apply Now for this Program</button></a>
+          </div>
+          
+       </div>
+    </section>
+
+</main>
+
+
+
