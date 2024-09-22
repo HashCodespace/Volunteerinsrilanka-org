@@ -1,5 +1,7 @@
 ---
 title: Volunteer English Teaching Program in Sri Lanka
+description: Empower local communities in Sri Lanka by teaching English, making a meaningful impact, and enjoying leisure time at world-famous beaches.
+image: /assets/img/p8.jpg
 location: Unawatuna, Galle, Sri Lanka
 programFee: $180 per week
 minimumAge: 17

@@ -1,5 +1,7 @@
 ---
 title: Turtle Conservation Volunteer Program in Sri Lanka -- Galle
+description: Protect sea turtles from threats like habitat destruction & poaching. Contribute to community development while preserving these  marine creatures
+image: /assets/img/cc/17.jpg
 location: Rumassala, Galle, Sri Lanka
 programFee: $180 per week
 minimumAge: 17

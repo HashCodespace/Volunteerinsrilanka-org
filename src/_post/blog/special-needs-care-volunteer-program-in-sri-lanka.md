@@ -1,5 +1,7 @@
 ---
 title: Special Needs Care Volunteer Program in Sri Lanka
+description: " Volunteer to make a profound impact through support and compassion."
+image: /assets/img/sambodhi/1.jpeg
 location: Rumassala, Galle, Sri Lanka
 programFee: $180 per week
 minimumAge: 17

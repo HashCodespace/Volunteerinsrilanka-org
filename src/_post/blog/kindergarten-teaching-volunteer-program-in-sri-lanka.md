@@ -1,5 +1,7 @@
 ---
 title: Kindergarten Teaching Volunteer Program in Sri Lanka
+description: Influence young minds, build the base for their future, and enjoy the satisfaction of creating a positive change.
+image: /assets/img/p1.jpg
 location: Unawatuna, Galle, Sri Lanka
 programFee: $180 per week
 minimumAge: 17

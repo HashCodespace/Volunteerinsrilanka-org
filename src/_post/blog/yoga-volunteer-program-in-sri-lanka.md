@@ -1,5 +1,7 @@
 ---
 title: Yoga Volunteer Program in Sri Lanka
+description: "Discover holistic well-being through our  program, seamlessly integrating yoga with volunteering to nurture vitality, clarity, and resilience amid life's demands."
+image: /assets/img/p12.jpg
 location: Unawatuna, Galle, Sri Lanka
 programFee: $180 per week
 minimumAge: 17

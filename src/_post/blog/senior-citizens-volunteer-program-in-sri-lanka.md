@@ -1,5 +1,7 @@
 ---
 title: Senior Citizens Volunteer Program in Sri Lanka
+description: "Contributing skills and compassion to support communities while exploring the beauty of world-famous beaches. Age is no limit to making a meaningful impact."
+image: /assets/img/p5.jpg
 location: Rumassala, Galle, Sri Lanka
 programFee: $180 per week
 minimumAge: 17

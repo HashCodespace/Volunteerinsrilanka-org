@@ -1,5 +1,7 @@
 ---
 title: Teaching English to Buddhist Monks in Sri Lanka Program
+description: Volunteer at Pirivenas, supporting the education and English skills of young monks. Uncover the gratification of this distinctive experience.
+image: /assets/img/cc/133.jpeg
 location: Unawatuna, Galle, Sri Lanka
 programFee: $180 per week
 minimumAge: 17
