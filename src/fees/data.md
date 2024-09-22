@@ -1,5 +1,5 @@
 ---
-perweek: 160
+perweek: 180
 weeks: 6
-perextraweek : 160
+perextraweek: 180
 ---
