@@ -7,50 +7,56 @@ permalink: "blog/{{ title | slugify }}/"
     max-width: unset;
   }
 </style>
-<main>
-
-    <!--
-    - #HERO -->
-    <section class="pages-hero page-over" id="home" >
-      <div class="container">
-        <h2 class="h2 hero-title title page-title" id="title">
-          {{ title }}
-        </h2>
-        {# <p class="hero-text" id="sub-title">
-          {% if herosub %}
-            {{ herosub }}
-          {% else %}
-            Volunteer Programs | Make a Difference in Sri Lanka
-          {% endif %}
-        </p> #}
-        <div class="btn-group slider-reveal" id="btn-group">
-               <a href="/apply-now/index.html?getprogram={{ heading }}" ><button class="btn btn-secondary">Register for this program</button></a>
+<header class="bg-primary text-white py-20">
+        <div class="container mx-auto px-4 text-center">
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">{{ title }}</h1>
+            <p class="text-xl text-blue-100">Make a Difference in {{ location }}</p>
         </div>
-      </div>
-      <img src="{{ img }}" sizes="(min-width: 300em) 50vw, 100vw" loading="lazy" alt="{{ imgalt }}" style="position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);min-height: 100%;min-width: 100%;z-index: -1; height: auto;">
-    </section>
-    <article>
-    <div class="section-text container unset-align margin-t-5">
-      {{ content | safe }}
-    </div>
-    </article>
+    </header>
+
+    <main class="container mx-auto my-12 px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+            <div class="lg:col-span-2">
+                <section class="bg-white shadow-sm rounded-lg p-8 mb-8">
+                    <h2 class="text-2xl font-bold mb-6 text-secondary">Program Overview</h2>
+                    <article class="prose max-w-none lg:prose-xl">
+                        {{ content | safe }}
+                    </article>
+                </section>
+            </div>
+            <div class="lg:col-span-1 space-y-8">
+                <aside class="bg-white shadow-sm rounded-lg p-6">
+                    <h3 class="text-xl font-semibold mb-4 text-secondary">Program Details</h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-center"><svg class="w-5 h-5 mr-2 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg><span><strong class="font-semibold">Location:</strong> {{ location }}</span></li>
+                        <li class="flex items-center"><svg class="w-5 h-5 mr-2 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg><span><strong class="font-semibold">Program Fee:</strong> {{ programFee }}</span></li>
+                        <li class="flex items-center"><svg class="w-5 h-5 mr-2 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg><span><strong class="font-semibold">Minimum Age:</strong> {{ minimumAge }}</span></li>
+                        <li class="flex items-center"><svg class="w-5 h-5 mr-2 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg><span><strong class="font-semibold">Start Dates:</strong> {{ startDates }}</span></li>
+                        <li class="flex items-center"><svg class="w-5 h-5 mr-2 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg><span><strong class="font-semibold">Volunteer Hours:</strong> {{ volunteerHours }}</span></li>
+                    </ul>
+                </aside>
+                <aside class="bg-white shadow-sm rounded-lg p-6">
+                    <h3 class="text-xl font-semibold mb-4 text-secondary">Accommodation</h3>
+                    <ul class="space-y-3">
+                        <li><strong class="font-semibold">Location:</strong> {{ accommodation.location }}</li>
+                        <li><strong class="font-semibold">Proximity:</strong> {{ accommodation.proximity }}</li>
+                        <li><strong class="font-semibold">Room Type:</strong> {{ accommodation.roomType }}</li>
+                    </ul>
+                </aside>
+                <aside class="bg-white shadow-sm rounded-lg p-6">
+                    <h3 class="text-xl font-semibold mb-4 text-secondary">Meals</h3>
+                    <ul class="space-y-3">
+                        <li><strong class="font-semibold">Provided:</strong> {{ meals.provided }}</li>
+                        <li><strong class="font-semibold">Cuisine:</strong> {{ meals.cuisine }}</li>
+                        <li><strong class="font-semibold">Vegetarian Options:</strong> {{ meals.vegetarianOptions }}</li>
+                    </ul>
+                </aside>
+            </div>
+        </div>
+    </main>
 
 
-    <section class="cta" id="contact">
-       <div class="container">
-          <div class="cta-content cta-width" >
-             <p class="section-subtitle" style="text-align:left;" data-reveal>Ready to Join the Movement?</p>
-             <h2 class="h2 section-title cta-title-hash" style="text-align:left;" data-reveal>Take the First Step, Join with us with
-                <br>{{ title }}
-             </h2>
-             <br>
-             <a href="/apply-now/"><button class="btn btn-primary" data-reveal>Apply Now for this Program</button></a>
-          </div>
-          
-       </div>
-    </section>
-
-</main>
+    
 
 
 
