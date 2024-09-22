@@ -79,4 +79,11 @@ Participating in the Senior Citizens Volunteer Program offers numerous benefits:
 
 The Senior Citizens Volunteer Program in Sri Lanka empowers seniors to make a significant impact while continuing their journey of personal growth. Through involvement in various volunteer activities, seniors contribute to community development, foster intergenerational connections, and experience the warmth and beauty of Sri Lanka.
 
-Embrace the opportunity to make a lasting difference
+Embrace the opportunity to make a lasting difference, create meaningful connections, and celebrate the contributions of seniors in creating a more inclusive and compassionate society.
+
+## Don’t miss this chance!
+
+Join the Senior Citizens Volunteer Program Sri Lanka today and be a part of a transformative experience that benefits both you and the communities you serve.
+
+As a trusted and reputable volunteer program in Sri Lanka, we understand the importance of transparency regarding the costs associated with our programs. Like any other organization, we incur daily expenses to place and accommodate volunteers effectively. The program fee is allocated to cover placement services, administrative support, in country orientation
+and the ongoing maintenance of our projects across Sri Lanka.

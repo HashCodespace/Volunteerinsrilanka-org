@@ -109,3 +109,6 @@ Experience a blend of impactful conservation work and cultural exploration. Cont
 Register now for the Turtle Conservation Volunteer Program in Sri Lanka -- Galle!
 
 Embark on a transformative journey of environmental stewardship and cultural discovery.
+
+As a trusted and reputable volunteer program in Sri Lanka, we understand the importance of transparency regarding the costs associated with our programs. Like any other organization, we incur daily expenses to place and accommodate volunteers effectively. The program fee is allocated to cover placement services, administrative support, in country orientation
+and the ongoing maintenance of our projects across Sri Lanka.

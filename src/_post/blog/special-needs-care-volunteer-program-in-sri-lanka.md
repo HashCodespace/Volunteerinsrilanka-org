@@ -91,3 +91,5 @@ Immerse yourself in the breathtaking beauty of Galle, from its pristine beaches 
 Join the Special Needs Care Volunteer Program in Sri Lanka - Galle today!
 
 Become an agent of positive change and help create a world where everyone is valued and given the opportunity to thrive.
+
+As a trusted and reputable volunteer program in Sri Lanka, we understand the importance of transparency regarding the costs associated with our programs. Like any other organization, we incur daily expenses to place and accommodate volunteers effectively. The program fee is allocated to cover placement services, administrative support, in-country orientation and the ongoing maintenance of our projects across Sri Lanka.

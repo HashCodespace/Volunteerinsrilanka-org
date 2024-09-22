@@ -66,4 +66,46 @@ You can design your own curriculum or let us help you use ideas from past volunt
 
 ## What Can I Do in My Free Time?
 
-Joining the Kindergarten teaching volunteer program in Sri
+Joining the Kindergarten teaching volunteer program in Sri Lanka is the ultimate adventure for those eager to make a difference. Your mornings will be dedicated to impactful volunteer work, leaving your afternoons wide open for thrilling personal explorations and relaxation.
+Discover breathtaking coastlines, crystal-clear waters, lush green forests, and dive into a world of exciting activities in free time.
+
+## Things to Do in Galle
+
+- Go skydiving over Koggala
+- Snorkel at Unawatuna and Rumassala beaches
+- Dive in Unawatuna Bay
+- Go whale watching in Mirissa
+- Swim in the Talpe Rock Pools
+- Sail on Koggala Lake
+- Walk around the Koggala Lake Islands
+- Just a short walk to the stunning Jungle Beach and White Beach
+- Explore the native flora and fauna of Kanneliya Rainforest
+
+## How to Join the Kindergarten Teaching Volunteer Program in Sri Lanka
+
+It’s super easy!
+
+1. Select a program
+2. Complete your online application
+3. Get ready for departure
+4. Arrive in Sri Lanka as a volunteer
+5. Discover and enjoy the wonders
+
+## Can I come as a solo volunteer or as part of a team?
+
+Absolutely! Sri Lanka is a very safe country, where the warm hospitality and vibrant culture make you feel right at home. Whether you’re traveling alone or with a group, you’ll experience the richness of Sri Lankan life and become part of their welcoming community.
+
+We are dedicated to assisting you and ensuring your safety at every step of your journey.
+
+## Why Should You Visit Sri Lanka as a Volunteer?
+
+Imagine savoring delicious local cuisine, enjoying affordable transport and accommodation, and exploring a country full of stunning tourist destinations.
+
+How does combining meaningful volunteer work with discovering breathtaking beaches, lush rainforests, and vibrant cities sound to you?
+
+Make your move today!
+
+Register now for the Kindergarten teaching volunteer program in Sri Lanka and truly feel alive as a volunteer!
+
+As a trusted and reputable volunteer program in Sri Lanka, we understand the importance of transparency regarding the costs associated with our programs. Like any other organization, we incur daily expenses to place and accommodate volunteers effectively. The program fee is allocated to cover placement services, administrative support, in country orientation
+and the ongoing maintenance of our projects across Sri Lanka.
