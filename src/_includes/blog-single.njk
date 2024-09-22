@@ -29,8 +29,8 @@ permalink: "blog/{{ title | slugify }}/"
   class=" text-white  relative hero-blog  py-20 flex items-center min-h-[70vh]"
   style="background-image: url({{ image }});">
   <div class="container mx-auto px-4 max-w-3xl text-center z-[1]">
-    <h1 class="text-4xl font-serif md:text-5xl font-bold mb-4">{{ title }}</h1>
-    <p class="text-xl  ">Make a Difference in {{ location }}</p>
+    <h1 class="text-4xl font-serif md:text-5xl font-bold mb-4" data-reveal="data-reveal">{{ title }}</h1>
+    <p class="text-xl  " data-reveal="data-reveal">Make a Difference in {{ location }}</p>
     <div class="btn-group slider-reveal mt-4" id="btn-group">
       <a href="/apply-now/index.html?getprogram={{ title }}">
         <button class="btn btn-secondary">Register for this program</button>
@@ -49,7 +49,7 @@ permalink: "blog/{{ title | slugify }}/"
       </section>
     </div>
     <div class="lg:col-span-1 space-y-8">
-      <aside class="bg-muted shadow-sm rounded-xl p-6">
+      <aside class="bg-muted shadow-sm rounded-xl p-6" data-reveal="data-reveal">
         <h3 class="text-xl font-semibold mb-4 text-secondary">Program Details</h3>
         <ul class="space-y-4">
           <li class="flex items-center">
@@ -136,8 +136,14 @@ permalink: "blog/{{ title | slugify }}/"
               <br/> {{ volunteerHours }}</span>
           </li>
         </ul>
+        <a href="/apply-now/index.html?getprogram={{ title }}">
+          <button class="btn btn-primary w-full  mt-6">Register for this program</button>
+        </a>
+        <a href="/contact-us/">
+          <button class="btn btn-secondary  btn-green-no-fill w-full  mt-3">Contact Us</button>
+        </a>
       </aside>
-      <aside class="bg-muted shadow-sm rounded-lg p-6">
+      <aside class="bg-muted shadow-sm rounded-lg p-6" data-reveal="data-reveal">
         <h3 class="text-xl font-semibold mb-4 text-secondary">Accommodation</h3>
         <ul class="space-y-4">
           <li>
@@ -151,7 +157,7 @@ permalink: "blog/{{ title | slugify }}/"
             {{ accommodation.roomType }}</li>
         </ul>
       </aside>
-      <aside class="bg-muted shadow-sm rounded-lg p-6">
+      <aside class="bg-muted shadow-sm rounded-lg p-6" data-reveal="data-reveal">
         <h3 class="text-xl font-semibold mb-4 text-secondary">Meals</h3>
         <ul class="space-y-4">
           <li>
