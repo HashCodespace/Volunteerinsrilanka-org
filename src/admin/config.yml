@@ -26,3 +26,14 @@ collections:
       - { label: "Meta Description", name: "metaDescription", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Testimonials"
+    name: "testimonials"
+    folder: "src/testimonials"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Program", name: "program", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Body", name: "body", widget: "markdown" }

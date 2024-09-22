@@ -10,6 +10,9 @@ og:
 
 
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
    <main>
@@ -123,6 +126,9 @@ og:
                   </div>
                </div>
             </section>
+            
+
+
             <!--
             - #CTA -->
             <section class="cta why-vsl" id="contact">
@@ -267,6 +273,37 @@ og:
                   </p>
                </div>
             </section>
+           
+           <section class="bg-muted py-16">
+  <div class="container mx-auto px-4">
+    <p class="section-subtitle" data-reveal>Testimonials</p>
+    <h2 class="text-3xl font-bold text-center mb-12  font-serif">What Our Volunteers Say</h2>
+    <div class="swiper testimonial-slider">
+      <div class="swiper-wrapper">
+        {% for testimonial in collections.testimonials | reverse %}
+        <div class="swiper-slide">
+          <div class="bg-white rounded-xl shadow-md overflow-hidden p-6">
+            <h3 class="font-bold text-xl mb-2">{{ testimonial.data.name }}</h3>
+            <p class="text-gray-600 mb-4">{{ testimonial.data.program }}</p>
+            <p class="text-gray-800 mb-4">{{ testimonial.templateContent | striptags | truncate(150) }}</p>
+            <a href="/reviews#{{ testimonial.data.name | slug }}" class=" text-secondary hover:opacity-50 transition duration-300">Read full story</a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="swiper-pagination mt-6"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+    </div>
+    <div class="text-center mt-12  w-full">
+      <a href="/reviews" class="w-full">
+                     <button class="btn btn-primary mx-auto" data-reveal>Read All Stories</button>
+                  </a>
+     
+    </div>
+  </div>
+</section>
+
             <section class="popular partner" id="destination">
                <div class="container">
                   <h3 class="h3 section-title" data-reveal>Frequently Asked questions</h3>
@@ -420,3 +457,32 @@ og:
             accordion.init({speed: 300, oneOpen: true});
          });
       </script>
+      <script defer>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Swiper('.testimonial-slider', {
+      slidesPerView: 1,
+      spaceBetween: 30,
+      loop: true,
+      autoplay: {
+        delay: 3000,
+        disableOnInteraction: false,
+      },
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      breakpoints: {
+        640: {
+          slidesPerView: 2,
+        },
+        1024: {
+          slidesPerView: 3,
+        },
+      },
+    });
+  });
+</script>

@@ -1,0 +1,42 @@
+---
+layout: 'base.njk'
+title: Volunteer Stories
+---
+      <section class="pages-hero" id="home" style="background-image: url('/assets/img/15.jpeg');">
+        <div class="container">
+          <h2 class="h2 hero-title title page-title" id="title">
+           Volunteer Stories
+          </h2>
+          <p class="hero-text" id="sub-title">
+            What Our Volunteers Say about Volunteer in Sri Lanka
+          </p>
+          <a href="https://g.page/r/CRNzeHSZtXAoEAI/review" target="_blank" class="btn btn-secondary flex items-center gap-2 w-fit mx-auto">
+          <ion-icon name="logo-google"></ion-icon>
+          Write a Review on Google</a>
+        </div>
+      </section>
+<div class="container mx-auto px-4 py-16">
+  {% for testimonial in collections.testimonials | reverse %}
+  <div id="{{ testimonial.data.name | slug }}" class="mb-16 scroll-mt-24">
+    <div class="bg-muted/30 rounded-xl overflow-hidden p-8">
+      <h2 class="text-2xl font-bold mb-2">{{ testimonial.data.name }}</h2>
+      <p class="text-gray-600 mb-4">{{ testimonial.data.program }}</p>
+      <div class="prose max-w-none">
+        {{ testimonial.templateContent | safe }}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const hash = window.location.hash;
+    if (hash) {
+      const element = document.querySelector(hash);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  });
+</script>
