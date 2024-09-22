@@ -3,13 +3,32 @@ layout: 'base.njk'
 permalink: "blog/{{ title | slugify }}/"
 ---
 <style>
-  .section-text p {
-    max-width: unset;
-  }
+.hero-blog::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.hero-blog {
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  position: relative;
+}
+
 </style>
-<header class="bg-primary text-white py-20">
-        <div class="container mx-auto px-4 text-center">
-            <h1 class="text-4xl md:text-5xl font-bold mb-4">{{ title }}</h1>
+<header class=" text-white  relative hero-blog  py-20 flex items-center min-h-[70vh]" style="background-image: url(/assets/img/p1.jpg);">
+        <div class="container mx-auto px-4 max-w-3xl text-center z-[1]">
+            <h1 class="text-4xl font-serif md:text-5xl font-bold mb-4">{{ title }}</h1>
             <p class="text-xl text-blue-100">Make a Difference in {{ location }}</p>
         </div>
     </header>
