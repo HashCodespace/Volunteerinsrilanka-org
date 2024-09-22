@@ -3,14 +3,15 @@ module.exports = {
   content: ["./src/**/*.{html,njk,md,js}"],
   theme: {
     extend: {
-      fontFamily: {
-        sans: ["Inter", "sans-serif"],
-      },
       colors: {
-        primary: "#3B82F6",
-        secondary: "#1E40AF",
+        primary: "#13544E",
+        secondary: "#13544E",
+        muted: "#E3EBE3",
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require("@tailwindcss/typography"),
+    // ...
+  ],
 };
