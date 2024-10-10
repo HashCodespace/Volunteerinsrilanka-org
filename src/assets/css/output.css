@@ -1239,6 +1239,10 @@ video {
   margin-top: 6rem;
 }
 
+.mb-24 {
+  margin-bottom: 6rem;
+}
+
 .block {
   display: block;
 }
@@ -1277,6 +1281,14 @@ video {
 
 .h-full {
   height: 100%;
+}
+
+.h-\[300px\] {
+  height: 300px;
+}
+
+.h-\[500px\] {
+  height: 500px;
 }
 
 .min-h-\[70vh\] {
@@ -2098,6 +2110,11 @@ video {
 .hover\:text-secondary:hover {
   --tw-text-opacity: 1;
   color: rgb(51 130 39 / var(--tw-text-opacity));
+}
+
+.hover\:text-white:hover {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .hover\:opacity-50:hover {

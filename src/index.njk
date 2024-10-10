@@ -127,8 +127,26 @@ og:
                </div>
             </section>
             
-
-
+ {% for item in collections.blog %}
+ <section class="relative h-[500px] container mx-auto  m-4  mb-24 rounded-2xl" data-reveal>
+            {% if item.data.featuredImage %}
+            <img src="{{ item.data.featuredImage }}" alt="{{ item.data.featuredImageAlt }}" class="absolute rounded-2xl inset-0 w-full h-full object-cover">
+            {% endif %}
+            <div class="absolute rounded-2xl inset-0 bg-gradient-to-br from-black/90  to-green-600/65"></div>
+            <div class="relative rounded-2xl container mx-auto px-4 h-full flex flex-col justify-center text-white">
+                <h1 class="text-4xl md:text-5xl  mt-10  max-w-4xl font-serif font-bold mb-4">{{ item.data.title }}</h1>
+                <p class="text-lg md:text-xl mb-8">{{ item.data.description }}</p>
+                <div class="flex flex-wrap gap-3">
+                    {% for tag in item.data.tags %}
+                    <span class="px-4 py-1.5 bg-white/20 rounded-lg text-sm backdrop-blur">#{{ tag }}</span>
+                    {% endfor %}
+                    
+                </div>
+                 <a href="{{ item.url }}" class="w-full mt-4">
+                     <button class="btn btn-primary bg-white text-primary hover:text-white" >Learn more</button>
+                  </a>
+            </div>
+        </section>
             <!--
             - #CTA -->
             <section class="cta why-vsl" id="contact">
@@ -303,7 +321,7 @@ og:
     </div>
   </div>
 </section>
-
+ {% endfor %}
             <section class="popular partner" id="destination">
                <div class="container">
                   <h3 class="h3 section-title" data-reveal>Frequently Asked questions</h3>
