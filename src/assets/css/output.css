@@ -2147,3 +2147,11 @@ video {
     line-height: 1;
   }
 }
+
+.\[\&_img\]\:rounded-lg img {
+  border-radius: 0.5rem;
+}
+
+.\[\&_img\]\:rounded-xl img {
+  border-radius: 0.75rem;
+}
