@@ -30,6 +30,8 @@ Are you seeking a deeply rewarding volunteer experience? Join our "Teaching Engl
 
 Don't wait, start your transformative journey today and make an impact that lasts a lifetime!
 
+![Teaching English to Buddhist Monks in Sri Lanka Program](/assets/img/programs/1.jpg)
+
 ## How Can I Join the "Teaching English to Buddhist Monks in Sri Lanka" Program?
 
 Volunteering in Sri Lanka is an adventure unlike any other. Through our "Teaching English to Buddhist Monks in Sri Lanka" program, you'll have the opportunity to teach young monks English and engage in cultural exchange.
@@ -70,6 +72,8 @@ Your expertise will be key in expanding their perspectives and enhancing their c
 
 Your mornings will be spent volunteering, but Sri Lanka has so much to offer in your free time. Explore the local beaches, rainforests, and historic sites, all while soaking in the rich culture of Galle.
 
+![Teaching English to Buddhist Monks in Sri Lanka Program](/assets/img/programs/6.jpg)
+
 ### Explore Galle and Surrounding Areas:
 
 - Walk through the historic Galle Fort
@@ -108,6 +112,8 @@ Picture yourself teaching eager young monks while enjoying affordable travel, vi
 **Ready to make a difference?**
 
 Register now for the "Teaching English to Buddhist Monks in Sri Lanka" program and embark on a journey of personal growth and cultural discovery!
+
+![Teaching English to Buddhist Monks in Sri Lanka Program](/assets/img/programs/4.jpg)
 
 ---
 
