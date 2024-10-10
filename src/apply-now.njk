@@ -434,8 +434,8 @@ og:
                   <label for="project" class="input-label">Your preferred Volunteer project *</label>
                   <select name="project" id="project" required style="width:100%;" class="input-field">
                   <option style="color:var(--spanish-gray);" value="not-selected">- Please Choose an Option -</option>
-                  {% for program in collections.programs %}
-                    <option value="{{ program.data.heading | slugify }}">{{ program.data.heading }}</option>
+                  {% for program in collections.volunteerprograms %}
+                    <option value="{{ program.data.title | slugify }}">{{ program.data.title }}</option>
                     {% endfor %}
                   </select>`;
 
@@ -447,8 +447,8 @@ og:
                   <select name="project" id="project" required style="width:100%;" class="input-field">
 
                   <option  style="color:white;display:none" selected="selected" value="${slugpack}">${getprogram}</option>
-                  {% for program in collections.programs %}
-                    <option value="{{ program.data.heading | slugify }}">{{ program.data.heading }}</option>
+                  {% for program in collections.volunteerprograms %}
+                    <option value="{{ program.data.title | slugify }}">{{ program.data.title }}</option>
                     {% endfor %}
                   </select>`;
 
