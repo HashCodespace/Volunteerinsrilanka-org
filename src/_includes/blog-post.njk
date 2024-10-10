@@ -2,68 +2,105 @@
 layout: 'base.njk'
 permalink: "blog/{{ title | slugify }}/"
 ---
-
-
-    <header class="bg-white shadow-sm">
-        <nav class="container mx-auto px-4 py-6">
-            {# Add your navigation here #}
-        </nav>
-    </header>
-
-    <main class="container mx-auto px-4 py-8 lg:py-12">
-        <article class="max-w-3xl mx-auto">
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Smooth scrolling for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            const targetId = this.getAttribute('href').slice(1);
+            const targetElement = document.getElementById(targetId);
+            if (targetElement) {
+                targetElement.scrollIntoView({
+                    behavior: 'smooth'
+                });
+            }
+        });
+    });
+});
+</script>
+<main>
+    <article>
+        <!-- Hero Section with Thumbnail -->
+        <div class="relative h-[600px] m-1 mx-1.5 rounded-2xl">
             {% if featuredImage %}
-            <div class="mb-8 rounded-lg overflow-hidden">
-                <img src="{{ featuredImage }}" alt="{{ featuredImageAlt }}" class="w-full h-auto">
-            </div>
+            <img src="{{ featuredImage }}" alt="{{ featuredImageAlt }}" class="absolute rounded-2xl inset-0 w-full h-full object-cover">
             {% endif %}
-            
-            <header class="mb-8">
-                <h1 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">{{ title }}</h1>
-                <div class="flex items-center text-gray-600 space-x-4">
-                    <span class="flex items-center">
-                        <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                            <path d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z"></path>
-                        </svg>
-                        {{ author }}
-                    </span>
-                    <span class="flex items-center">
-                        <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                            <path d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z"></path>
-                        </svg>
-                        {{ date | postDate  }}
-                    </span>
-                    <span class="flex items-center">
-                        <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                            <path d="M10 12a2 2 0 100-4 2 2 0 000 4z"></path>
-                            <path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd"></path>
-                        </svg>
-                        {{ timeToRead }} min read
-                    </span>
-                </div>
-            </header>
-            
-            <div class="prose lg:prose-lg max-w-none">
-                {{ content | safe }}
-            </div>
-            
-            {% if tags.length %}
-            <footer class="mt-12 pt-6 border-t border-gray-200">
-                <div class="flex flex-wrap gap-2">
+            <div class="absolute rounded-2xl inset-0 bg-gradient-to-br from-black/90  to-green-600/65"></div>
+            <div class="relative rounded-2xl container mx-auto px-4 h-full flex flex-col justify-center text-white">
+                <h1 class="text-4xl md:text-5xl  mt-10  max-w-4xl font-serif font-bold mb-4">{{ title }}</h1>
+                <p class="text-lg md:text-xl mb-8">{{ description }}</p>
+                <div class="flex flex-wrap gap-3">
                     {% for tag in tags %}
-                    <a href="/tags/{{ tag | slug }}" class="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-gray-200 transition-colors">
-                        #{{ tag }}
-                    </a>
+                    <span class="px-4 py-1.5 bg-white/20 rounded-lg text-sm backdrop-blur">#{{ tag }}</span>
                     {% endfor %}
+                    <span class="px-4 py-1.5 bg-white/20 rounded-lg text-sm backdrop-blur">
+                    {# clock icon #}
+            
+                    {{ timeToRead }} min read</span>
                 </div>
-            </footer>
-            {% endif %}
-        </article>
-    </main>
-
-    <footer class="bg-gray-900 text-white py-12">
-        <div class="container mx-auto px-4">
-            {# Add your footer content here #}
+            </div>
         </div>
-    </footer>
 
+        <!-- Content Section -->
+        <div class="container mx-auto px-4 py-12">
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+                 <!-- Main Content -->
+                  <div class="lg:col-span-2">
+                    <div class="prose lg:prose-lg max-w-none">
+                    <!-- Drop Cap for first paragraph -->
+                    {% set firstParagraph = content | getFirstParagraph %}
+                    {% if firstParagraph %}
+                        <p class="first-letter:text-7xl first-letter:font-bold first-letter:float-left first-letter:mr-3 first-letter:mt-2">
+                        {{ firstParagraph | safe }}
+                        </p>
+                    {% endif %}
+                    
+                    {{ content | removeFirstParagraph | addHeaderIds | safe }}
+                    </div>
+                    </div>
+               
+
+                <!-- Dynamic Table of Contents -->
+                 <div class="lg:col-span-1  space-y-8">
+                {% if content | toc %}
+                <aside class="bg-muted/50 p-6 rounded-xl mb-12">
+                    <h2 class="text-lg font-semibold mb-4">In this article</h2>
+                    <ul class="space-y-2">
+                    {% for item in content | toc %}
+                        <li>
+                            <a href="#{{ item.id }}" class="text-gray-700 hover:text-secondary">
+                                {{ item.text }}
+                            </a>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                </aside>
+                {% endif %}
+
+                <!-- Author and Contributors Section -->
+                <aside class="mt-12 pt-6 border-t border-gray-200">
+                    <div class="grid grid-cols-1  gap-8">
+                        <!-- Written by -->
+                        <div>
+                            <h2 class="text-gray-900 font-semibold mb-4">Written by</h2>
+                            <div class="flex items-center">
+                                <img src="/assets/img/logo/favicon.png" alt="{{ author }}" class="w-12 h-12 rounded-full mr-4">
+                                <div>
+                                    <h3 class="font-semibold">{{ author }}</h3>
+                                    <p class="text-gray-600">Program Organizer</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                       
+                    </div>
+                </aside>
+
+             
+                    </div>
+               
+            </div>
+        </div>
+    </article>
+</main>
