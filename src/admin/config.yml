@@ -42,12 +42,7 @@ collections:
               widget: "text",
               required: false,
             }
-          - {
-              label: "OG Image",
-              name: "ogImage",
-              widget: "image",
-              required: false,
-            }
+          - { label: "OG Image", name: "img", widget: "image", required: false }
           - {
               label: "Twitter Card",
               name: "twitterCard",

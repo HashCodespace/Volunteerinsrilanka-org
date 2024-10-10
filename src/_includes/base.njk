@@ -34,7 +34,13 @@
   <meta name='og:email' content='info@volunteerinsrilanka.org'>
   <meta name='og:phone_number' content='+94779308187'>
 
-  <meta property="og:image" content="https://volunteerinsrilanka.org/assets/img/logo/banner.png">
+ {% if og.img %}
+    <meta property="og:image" content="https://volunteerinsrilanka.org{{ og.img }}">
+  {% else %}
+     <meta property="og:image" content="https://volunteerinsrilanka.org/assets/img/logo/banner.png">
+  {% endif %}
+  
+ 
 
   {% if og.title %}
     <meta property="og:title" content="{{ og.title }}">
