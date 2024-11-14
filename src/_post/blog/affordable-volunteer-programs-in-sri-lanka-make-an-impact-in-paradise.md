@@ -1,9 +1,12 @@
 ---
 title: "Affordable Volunteer Programs in Sri Lanka: Make an Impact in Paradise"
-description: Sri Lanka, with its rich culture and natural beauty, offers affordable volunteer opportunities that allow travelers to make a meaningful impact while exploring its stunning landscapes.
+description: Sri Lanka, with its rich culture and natural beauty, offers
+  affordable volunteer opportunities that allow travelers to make a meaningful
+  impact while exploring its stunning landscapes.
 date: 2024-11-05T12:43:00.000Z
-featuredImage: /assets/img/7.jpg
+featuredImage: /assets/img/mahendra-photo-july-29-1-.jpg
 featuredImageAlt: .
+featured: true
 author: Volunteer in Sri Lanka Team
 draft: false
 timeToRead: 7
