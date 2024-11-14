@@ -6,7 +6,7 @@ description: Sri Lanka, with its rich culture and natural beauty, offers
 date: 2024-11-05T12:43:00.000Z
 featuredImage: /assets/img/mahendra-photo-july-29-1-.jpg
 featuredImageAlt: .
-featured: true
+featured: false
 author: Volunteer in Sri Lanka Team
 draft: false
 timeToRead: 7
