@@ -1,0 +1,49 @@
+---
+title : Blog | Volunteer in Sri Lanka
+layout: 'base.njk'
+keywords: "volunteer programs, Sri Lanka, community service, charity, Volunteer in Sri Lanka, Sri Lanka volunteer opportunities, Volunteering programs in Sri Lanka, Wildlife conservation Sri Lanka, Sri Lanka turtle conservation, Elephant conservation Sri Lanka, Teaching English in Sri Lanka, Disabled care Sri Lanka, Community development Sri Lanka, Sustainable tourism Sri Lanka, Rural development Sri Lanka, Cultural exchange Sri Lanka, International volunteering Sri Lanka, Volunteer abroad Sri Lanka, Responsible volunteering Sri Lanka, Ethical volunteering Sri Lanka, Social impact Sri Lanka, Meaningful travel Sri Lanka, Adventure volunteering Sri Lanka"
+description: "Our volunteer programs in Sri Lanka are designed to offer you a unique experience while making a positive impact in the community."
+og:
+  title: "Volunteer Programs in Sri Lanka"
+  description: "Our volunteer programs are designed to offer you a unique experience while making a positive impact in the community of Sri Lanka."
+
+---
+
+<main>
+  <article>
+    <!--
+    - #HERO -->
+    <section class="pages-hero" id="home" style="background-image: url('/assets/img/p1.jpg');">
+      <div class="container">
+        <h2 class="h2 hero-title title page-title" id="title" data-reveal>
+        Volunteer Insights & Stories
+        </h2>
+        <p class="hero-text" id="sub-title" data-reveal>
+          Experience the Joy of Giving Back and Helping Local Communities
+        </p>
+      </div>
+    </section>
+    <!-- hero section pver -->
+    <section class="popular partner " id="destination">
+      <div class="container">
+        <div class=" grid grid-cols-1 gap-8 md:grid-cols-3  ">
+          {% set sectionname = "Blog" %}
+          {% for item in collections.blog  | reverse%}
+            <div class="product-card " data-reveal>
+              <div class="product-image">
+                <img src="{{ item.data.featuredImage }}" alt="{{ item.data.featuredImageAlt }}"/>
+              </div>
+              <div class="product-details">
+                <p class="card-subtitle   uppercase text-sm text-secondary">
+                  <a href="{{ item.url }}">{{ sectionname }}</a>
+                </p>
+                <a href="{{ item.url }}" > <h2 class="product-title text-xl mt-2 line-clamp-3">{{ item.data.title }}</h2></a>
+                <p class="product-description line-clamp-3">
+                  {{ item.data.description }}
+                </p>
+                <a href="{{ item.url }}" class="btn btn-secondary btn-green-no-fill">Read More</a>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </section>

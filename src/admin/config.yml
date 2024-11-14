@@ -28,6 +28,12 @@ collections:
           name: "featuredImageAlt",
           widget: "string",
         }
+      - {
+          label: "Featured on Home Page",
+          name: "featured",
+          widget: "boolean",
+          default: true,
+        }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Categories", name: "categories", widget: "list" }
