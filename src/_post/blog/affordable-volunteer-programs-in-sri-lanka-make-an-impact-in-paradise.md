@@ -4,7 +4,7 @@ description: Sri Lanka, with its rich culture and natural beauty, offers
   affordable volunteer opportunities that allow travelers to make a meaningful
   impact while exploring its stunning landscapes.
 date: 2024-11-05T12:43:00.000Z
-featuredImage: /assets/img/mahendra-photo-july-29-1-new.jpg
+featuredImage: /assets/img/mahendra-photo-july-new.jpg
 featuredImageAlt: .
 featured: false
 author: Volunteer in Sri Lanka Team
