@@ -24,7 +24,7 @@ Sri Lanka’s affordability is one of its biggest draws. Here, your volunteer fe
 
 ## The Most Affordable Volunteer Programs in Sri Lanka
 
-At Volunteer in Sri Lanka,  our mission is to connect passionate individuals like you with impactful yet affordable [volunteer programs in Sri Lanka](https://volunteerinsrilanka.org/volunteer-programs/). Each of our programs caters to different interests and skills, so you can find the perfect fit for your passions. Our team of dedicated professionals will support you from start to finish, from pre-trip orientation to in-country guidance, so you feel at home as you embark on this transformative journey.
+At [Volunteer in Sri Lanka,](https://volunteerinsrilanka.org/about-us/)  our mission is to connect passionate individuals like you with impactful yet affordable [volunteer programs in Sri Lanka](https://volunteerinsrilanka.org/volunteer-programs/). Each of our programs caters to different interests and skills, so you can find the perfect fit for your passions. Our team of dedicated professionals will support you from start to finish, from pre-trip orientation to in-country guidance, so you feel at home as you embark on this transformative journey.
 
 Here’s a closer look at some of the rewarding ways you can make a difference in Sri Lanka:
 
