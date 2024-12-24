@@ -51,15 +51,11 @@ Sri Lanka’s Cultural Triangle is where you’ll find some of the island’s mo
 
 ![sigiriya lion rock](/assets/img/8.jpg)
 
-
-
 ### Go on an Epic Wildlife Safari
 
 Sri Lanka’s national parks are some of the best in Asia to see wildlife and January is a great time to visit. Yala National Park is famous for leopard sightings but it’s also home to elephants, sloth bears, crocodiles, and a wide variety of birdlife. If you want to see elephants Udawalawe National Park is one of the best places to see them in the wild. For a more peaceful experience go to Wilpattu National Park where serene lakes and dense forests are home to a variety of wildlife including the elusive leopard and several species of deer.
 
 ![yala safari](/assets/img/4.jpg)
-
-
 
 ### Experience Thai Pongal in Jaffna
 
@@ -67,39 +63,27 @@ In mid-January, the Tamil community celebrates Thai Pongal, the harvest festival
 
 ![thai pongal in jaffna](/assets/img/7.jpg)
 
-
-
 ### Take the Scenic Train from Kandy to Ella
 
 The Kandy to Ella train ride is one of the most beautiful train journeys in the world and January is the best time to see it all. As the train chugs along through misty mountains, you’ll pass tea plantations, waterfalls, and deep valleys. Once in Ella, this charming hill town, hike to Little Adam’s Peak for breathtaking views. Visit the famous Nine Arches Bridge, a colonial wonder surrounded by lush greenery, or take a dip in Ravana Falls, one of the island’s most beautiful waterfalls.
 
 ![ella train sri lanka](/assets/img/1.jpg)
 
-
-
 ### Hike in Sri Lanka’s Hill Country
 
 For the outdoor enthusiast, January is the best time to explore Sri Lanka’s hill country. Horton Plains National Park is home to World’s End, a cliff with an 880-meter drop and breathtaking views of the plains below. For a spiritual hike climb Adam’s Peak (Sri Pada), a sacred mountain that attracts pilgrims from all over Sri Lanka. The pre-dawn climb is special as you get to see the first light of the sun from the top which is a sacred site for Buddhists, Hindus, Christians, and Muslims.
-
-
 
 ### Experience Sri Lanka’s Tea Heritage in Nuwara Eliya
 
 Sri Lanka is famous for its tea and Nuwara Eliya is the heart of the tea industry on the island. Known as “Little England” Nuwara Eliya is a must-visit to experience the tea heritage. Visit some of the most famous tea plantations such as Pedro Tea Estate for a guided tour to learn about the history and process of tea production. Don’t miss the chance to taste the finest Ceylon tea, famous for its unique flavor and quality. The hill country climate is a perfect escape from the tropical heat and the colonial charm of Nuwara Eliya adds to the appeal.
 
-
-
 ### Whale Watching in Mirissa
 
 January is the best time to visit Mirissa and watch whales. On the early morning boat tours you can see the majestic blue whales, sperm whales, and playful dolphins swimming off the coast. The waters around Mirissa are rich in marine life so this is a must-do for nature lovers and wildlife enthusiasts. The boat tours are led by experienced guides who will share interesting facts about the whales and the marine ecosystem.
 
-
-
 ### Chill Out on Sri Lanka’s Southern Coast Beaches
 
 Sri Lanka in January is perfect to relax on the southern beaches. The calm seas and good weather make Unawatuna, Tangalle, and Hikkaduwa perfect for swimming, snorkeling, and sunbathing. These beaches are less crowded than the more touristy areas and very peaceful. If you are a water sports enthusiast you can also try surfing, kite surfing, and diving.
-
-
 
 ### Visit the Historic Galle Fort
 
@@ -107,9 +91,9 @@ A UNESCO World Heritage Site, Galle Fort is a must-see for history and architect
 
 ![galle dutch fort](/assets/img/galle-fort-6.jpg)
 
-
-
 ## Volunteer in Down South Sri Lanka
+
+![](/assets/img/whatsapp-image-2024-12-23-at-16.45.01_ac3f087b.jpg)
 
 Sri Lanka in January offers the perfect blend of adventure, relaxation, and purpose. With [Volunteer
 in Sri Lanka](https://volunteerinsrilanka.org/about-us/), you can give back while exploring one of the world’s most amazing places.
@@ -121,6 +105,5 @@ Based in the beautiful south of Sri Lanka our [volunteer programs](https://volun
 local communities and make a real difference. Whether you’re teaching English to Buddhist monks, helping care for children with special needs, or supporting turtle conservation, there’s a project for everyone.
 
 No experience is needed, just a willingness to give back.  With 24/7 support and a range of meaningful projects to choose from, your journey will be both impactful and rewarding.
-
 
 [Get in touch with us](https://volunteerinsrilanka.org/volunteer-programs/) today and start your volunteering adventure!
