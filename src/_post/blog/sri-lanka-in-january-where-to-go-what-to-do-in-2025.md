@@ -1,10 +1,10 @@
 ---
 title: "Sri Lanka in January: Where to Go & What to Do in 2025"
 description: Top Things to Do in Sri Lanka in January
-date: 2024-12-24T10:52:00.000Z
+date: 2024-12-24T16:07:00.000Z
 featuredImage: /assets/img/what-to-do-in-sri-lanka-2025.jpg
 featuredImageAlt: Volunteers in Sri Lanka
-featured: true
+featured: false
 author: Volunteers in Sri Lanka
 tags:
   - Sri Lanka
