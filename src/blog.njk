@@ -29,7 +29,8 @@ og:
         <div class=" grid grid-cols-1 gap-8 md:grid-cols-3  ">
           {% set sectionname = "Blog" %}
           {% for item in collections.blog  | reverse%}
-            <div class="product-card " data-reveal>
+            <div class="product-card relative " data-reveal>
+              <a  href="{{ item.url }}" class="absolute inset-0 z-0" aria-hidden="true"></a>
               <div class="product-image">
                 <img src="{{ item.data.featuredImage }}" alt="{{ item.data.featuredImageAlt }}"/>
               </div>
@@ -37,11 +38,23 @@ og:
                 <p class="card-subtitle   uppercase text-sm text-secondary">
                   <a href="{{ item.url }}">{{ sectionname }}</a>
                 </p>
+                
                 <a href="{{ item.url }}" > <h2 class="product-title text-xl mt-2 line-clamp-3">{{ item.data.title }}</h2></a>
-                <p class="product-description line-clamp-3">
+                
+                <div class="product-meta flex  gap-3 divide-x-2  text-neutral-400 text-sm">
+                 
+                 
+                  <div class="product-meta-item">
+                   
+                    <span class="product-meta-detail">{{ item.data.timeToRead }} min read</span>
+                  </div>
+                  <div class="product-meta-item pl-2">
+                   <time datetime="{{ item.date }}" >{{ item.date | postDate }}</time>
+                  </div>
+                </div>
+                <p class="product-description line-clamp-3 mt-4">
                   {{ item.data.description }}
                 </p>
-                <a href="{{ item.url }}" class="btn btn-secondary btn-green-no-fill">Read More</a>
               </div>
             </div>
           {% endfor %}

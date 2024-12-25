@@ -81,9 +81,17 @@ document.addEventListener('DOMContentLoaded', function() {
                 <!-- Author and Contributors Section -->
                 <aside class="mt-12 pt-6 border-t border-gray-200">
                     <div class="grid grid-cols-1  gap-8">
+                        <div class="flex gap-3 items-end mb-6">
+                            <h2 class="text-gray-900  text-sm">Published on</h2>
+                           
+                                    <time datetime="{{ date }}" class=" font-semibold text-gray-900">{{ date | postDate }}</time>
+                               
+                               
+                            </div>
+                        </div>
                         <!-- Written by -->
                         <div>
-                            <h2 class="text-gray-900 font-semibold mb-4">Written by</h2>
+                            <h2 class="text-gray-900  mb-4 text-sm">Written by</h2>
                             <div class="flex items-center">
                                 <img src="/assets/img/logo/favicon.png" alt="{{ author }}" class="w-12 h-12 rounded-full mr-4">
                                 <div>
@@ -92,6 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                 </div>
                             </div>
                         </div>
+                        
                         
                        
                     </div>
