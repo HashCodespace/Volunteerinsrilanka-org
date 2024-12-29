@@ -155,3 +155,26 @@ forests, along pristine beaches, or into hidden coves, observing the local
 wildlife as you go. Marine sports, such as surfing, stand-up paddle boarding,
 and even snorkeling provide a great way to relax and appreciate the beauty of
 Sri Lanka’s waters.
+
+
+
+
+
+## Book Your Volunteer Project Today!
+
+
+
+
+
+
+If you’re ready to dive into a rewarding and impactful
+marine conservation experience, Sri Lanka is the place to be. At [Volunteer
+in Sri Lanka](https://volunteerinsrilanka.org/about-us/), we offer everything you need for an unforgettable
+experience, including comfortable accommodation in a single ensuite room with
+air conditioning at Rumassala, meals (breakfast and dinner), and expert
+guidance. All this is for just USD 180 per week.
+
+
+Take the plunge and make a difference while
+experiencing the natural beauty of Sri Lanka. [Book your volunteer project](https://volunteerinsrilanka.org/volunteer-programs/) today and help
+protect the island’s incredible marine life for generations to come.
