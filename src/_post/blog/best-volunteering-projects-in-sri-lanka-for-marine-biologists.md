@@ -162,11 +162,6 @@ Sri Lanka’s waters.
 
 ## Book Your Volunteer Project Today!
 
-
-
-
-
-
 If you’re ready to dive into a rewarding and impactful
 marine conservation experience, Sri Lanka is the place to be. At [Volunteer
 in Sri Lanka](https://volunteerinsrilanka.org/about-us/), We offer everything you need for an unforgettable
