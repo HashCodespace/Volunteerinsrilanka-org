@@ -76,3 +76,15 @@ and fieldwork, enhancing your skills in real-world environments.
 
 
 ![Turtle Conservation in Galle](/assets/img/marine-4.jpg)
+
+
+
+### Turtle Conservation in Galle, Sri Lanka: Your Chance to Make a Difference
+
+If you're a marine biologist passionate about marine
+conservation, there’s no better place to immerse yourself than Galle, Sri
+Lanka. The southern coast of this tropical paradise is home to several crucial
+turtle nesting sites, and you can be part of the team working to protect these
+endangered creatures. Our [turtle conservation project](https://volunteerinsrilanka.org/volunteer-programs/turtle-conservation-volunteer-program-in-sri-lanka-galle/) offers a unique,
+hands-on experience where your efforts directly contribute to the survival of
+sea turtles in Sri Lanka's beautiful coastal ecosystems.
