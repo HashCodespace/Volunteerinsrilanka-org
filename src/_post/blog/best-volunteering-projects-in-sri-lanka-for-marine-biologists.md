@@ -91,6 +91,8 @@ sea turtles in Sri Lanka's beautiful coastal ecosystems.
 
 
 
+![Turtle Conservation](/assets/img/marine-3.jpg)
+
 ### What You’ll Be Doing in Turtle Conservation
 
 **Monitoring and Protecting Nests:** Your mornings and nights will be spent patrolling the
@@ -122,3 +124,34 @@ you’ll help organize educational programs for local communities, including
 schools and fishermen. By teaching the importance of turtle conservation,
 you’ll empower others to join the cause and help preserve these remarkable
 creatures.
+
+
+## Experience Sri Lanka’s Marine Life
+
+While you’re working on marine conservation, you’ll also have the chance to participate in a variety of activities that will enhance your volunteer experience as a marine biologist:
+
+##### [](<>)Whale Watching
+
+Sri Lanka is one of the best places in the world to
+witness the grandeur of whales. The waters off Mirissa, on the southern coast,
+are home to blue whales, the largest animals to ever live on Earth, as well as
+sperm whales and a variety of dolphin species. By joining whale-watching tours,
+you’ll learn about marine mammal behavior and conservation while observing
+these majestic creatures.
+
+##### [](<>)Scuba Diving and Snorkeling
+
+Sri Lanka is a diver’s paradise. The country’s
+crystal-clear waters and vibrant coral reefs provide the perfect backdrop for
+scuba diving and snorkeling. Whether you’re diving near Hikkaduwa, Trincomalee,
+or Pigeon Island, you’ll encounter diverse marine life, from colorful fish to
+majestic sea turtles and giant manta rays.
+
+##### [](<>)Kayaking and Marine Sports
+
+If you prefer more leisurely water activities, kayaking
+is a fantastic way to explore Sri Lanka’s coastline. Paddle through mangrove
+forests, along pristine beaches, or into hidden coves, observing the local
+wildlife as you go. Marine sports, such as surfing, stand-up paddle boarding,
+and even snorkeling provide a great way to relax and appreciate the beauty of
+Sri Lanka’s waters.
