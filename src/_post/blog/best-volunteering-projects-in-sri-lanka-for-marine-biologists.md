@@ -130,7 +130,7 @@ creatures.
 
 While you’re working on marine conservation, you’ll also have the chance to participate in a variety of activities that will enhance your volunteer experience as a marine biologist:
 
-##### [](<>)Whale Watching
+##### **[](<>)Whale Watching**
 
 Sri Lanka is one of the best places in the world to
 witness the grandeur of whales. The waters off Mirissa, on the southern coast,
@@ -139,7 +139,7 @@ sperm whales and a variety of dolphin species. By joining whale-watching tours,
 you’ll learn about marine mammal behavior and conservation while observing
 these majestic creatures.
 
-##### [](<>)Scuba Diving and Snorkeling
+##### **[](<>)Scuba Diving and Snorkeling**
 
 Sri Lanka is a diver’s paradise. The country’s
 crystal-clear waters and vibrant coral reefs provide the perfect backdrop for
@@ -147,7 +147,7 @@ scuba diving and snorkeling. Whether you’re diving near Hikkaduwa, Trincomalee
 or Pigeon Island, you’ll encounter diverse marine life, from colorful fish to
 majestic sea turtles and giant manta rays.
 
-##### [](<>)Kayaking and Marine Sports
+##### [](<>)**Kayaking and Marine Sports**
 
 If you prefer more leisurely water activities, kayaking
 is a fantastic way to explore Sri Lanka’s coastline. Paddle through mangrove
@@ -159,12 +159,11 @@ Sri Lanka’s waters.
 
 
 
-
 ## Book Your Volunteer Project Today!
 
 If you’re ready to dive into a rewarding and impactful
 marine conservation experience, Sri Lanka is the place to be. At [Volunteer
-in Sri Lanka](https://volunteerinsrilanka.org/about-us/), We offer everything you need for an unforgettable
+in Sri Lanka](https://volunteerinsrilanka.org/about-us/) We offer everything you need for an unforgettable
 experience, including comfortable accommodation in a single ensuite room with
 air conditioning at Rumassala, meals (breakfast and dinner), and expert
 guidance. All this is for just USD 180 per week.
