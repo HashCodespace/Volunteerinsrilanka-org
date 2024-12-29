@@ -101,9 +101,9 @@ in Sri Lanka](https://volunteerinsrilanka.org/about-us/), you can give back whil
 Based in the beautiful south of Sri Lanka our [volunteer programs](https://volunteerinsrilanka.org/volunteer-programs/) allow you to connect with
 local communities and make a real difference. Whether you’re teaching English to Buddhist monks, helping care for children with special needs, or supporting turtle conservation, there’s a project for everyone.
 
-Based in the beautiful south of Sri Lanka our [volunteer programs](https://volunteerinsrilanka.org/volunteer-programs/) allow you to connect with
+Based in the beautiful south of Sri Lanka our [volunteer programs](https://volunteerinsrilanka.org/volunteer-programs/) Allow you to connect with
 local communities and make a real difference. Whether you’re teaching English to Buddhist monks, helping care for children with special needs, or supporting turtle conservation, there’s a project for everyone.
 
 No experience is needed, just a willingness to give back.  With 24/7 support and a range of meaningful projects to choose from, your journey will be both impactful and rewarding.
 
-[Get in touch with us](https://volunteerinsrilanka.org/volunteer-programs/) today and start your volunteering adventure!
+[Get in touch with us](https://volunteerinsrilanka.org/volunteer-programs/) Today and start your volunteering adventure!
