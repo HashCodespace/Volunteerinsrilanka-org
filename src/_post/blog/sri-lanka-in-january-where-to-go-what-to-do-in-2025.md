@@ -96,10 +96,7 @@ A UNESCO World Heritage Site, Galle Fort is a must-see for history and architect
 ![](/assets/img/whatsapp-image-2024-12-23-at-16.45.01_ac3f087b.jpg)
 
 Sri Lanka in January offers the perfect blend of adventure, relaxation, and purpose. With [Volunteer
-in Sri Lanka](https://volunteerinsrilanka.org/about-us/), you can give back while exploring one of the world’s most amazing places.
-
-Based in the beautiful south of Sri Lanka our [volunteer programs](https://volunteerinsrilanka.org/volunteer-programs/) allow you to connect with
-local communities and make a real difference. Whether you’re teaching English to Buddhist monks, helping care for children with special needs, or supporting turtle conservation, there’s a project for everyone.
+in Sri Lanka](https://volunteerinsrilanka.org/about-us/) You can give back while exploring one of the world’s most amazing places.
 
 Based in the beautiful south of Sri Lanka our [volunteer programs](https://volunteerinsrilanka.org/volunteer-programs/) Allow you to connect with
 local communities and make a real difference. Whether you’re teaching English to Buddhist monks, helping care for children with special needs, or supporting turtle conservation, there’s a project for everyone.
