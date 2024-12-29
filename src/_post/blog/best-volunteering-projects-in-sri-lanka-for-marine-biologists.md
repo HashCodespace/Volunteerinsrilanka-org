@@ -34,50 +34,30 @@ Here’s how you can experience Sri Lanka’s marine life first-hand while makin
 
 Sri Lanka’s marine ecosystem is as vibrant as it is diverse. The island’s waters are home to an abundance of coral reefs, sea grass beds, mangroves, and deep-sea habitats, making it one of the richest marine environments in the world. The biodiversity found here ranges from small reef fish to some of the world’s largest marine mammals. As a marine biologist, you’ll not only have the chance to study these ecosystems but also play an active role in protecting them.
 
-
-
 ![Coral Reefs](/assets/img/7.jpg)
 
-#### 
-Coral Reefs
+### Coral Reefs
 
 Sri Lanka’s coral reefs are nothing short of spectacular, offering a kaleidoscope of colors and a haven for marine life. The country boasts several marine protected areas, such as the reefs near Hikkaduwa, Pigeon Island, and Bar Reef, which are home to hundreds of species of fish, corals, and other marine organisms. These reefs provide critical ecosystem services, including supporting fish populations, protecting coastlines from erosion, and contributing to local livelihoods through tourism and fishing. The island’s seagrass beds and mangroves serve as crucial habitats for young fish and other marine creatures, while also playing a key role in carbon sequestration.
 
-
-
 ![marine giants](/assets/img/6.jpg)
 
-
-
-#### Marine Giants
+### Marine Giants
 
 The waters surrounding Sri Lanka are also home to a variety of marine mammals, including several species of whales and dolphins. Sri Lanka is one of the top destinations globally for whale watching, particularly for spotting the endangered blue whale, the largest animal to have ever lived on Earth. Dolphins, sperm whales, and other marine mammals frequently visit the island’s coast, making it a paradise for marine biologists and wildlife enthusiasts.
 
-
-
-
 ![Sea Turtles](/assets/img/marine-5.jpg)
 
-#### Sea Turtles
+### Sea Turtles
 
 Sri Lanka is a vital nesting ground for five species of sea turtles, including the endangered Olive Ridley and Leatherback turtles. The island’s beaches, especially along the southern and western coasts, serve as
 key nesting sites. The conservation of these turtles is critical to maintaining the health of marine ecosystems and preventing the decline of turtle populations worldwide.
 
-#### 
-
-
 ![Why Volunteer in Sri Lanka?](/assets/img/marine-8.jpg)
 
+#### Why Volunteer in Sri Lanka?
 
-
-## Why Volunteer in Sri Lanka?
-
-
-
-
-
-
-[Volunteering in Sri Lanka](https://volunteerinsrilanka.org/volunteer-programs/) offers you a chance
+[Volunteering in Sri Lanka](https://volunteerinsrilanka.org/volunteer-programs/) Offers you a chance
 to make a meaningful impact while experiencing one of the world’s most
 beautiful marine environments.
 
