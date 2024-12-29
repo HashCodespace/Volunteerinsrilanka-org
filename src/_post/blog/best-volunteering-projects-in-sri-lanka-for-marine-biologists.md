@@ -88,3 +88,37 @@ turtle nesting sites, and you can be part of the team working to protect these
 endangered creatures. Our [turtle conservation project](https://volunteerinsrilanka.org/volunteer-programs/turtle-conservation-volunteer-program-in-sri-lanka-galle/) offers a unique,
 hands-on experience where your efforts directly contribute to the survival of
 sea turtles in Sri Lanka's beautiful coastal ecosystems.
+
+
+
+### What You’ll Be Doing in Turtle Conservation
+
+**Monitoring and Protecting Nests:** Your mornings and nights will be spent patrolling the
+beaches, keeping a lookout for nesting females. These nighttime patrols are
+crucial to ensure the turtles are not disturbed by human activity or predators.
+Once a nest is found, you’ll mark it and protect it to ensure that the eggs
+remain safe and secure.
+
+**Egg Collection and Relocation:** Sometimes, turtle nests are at risk due to flooding or
+poaching. In these cases, you’ll assist in relocating the eggs to protected
+hatcheries, where they can be carefully incubated. This crucial task helps
+improve the chances of hatchlings surviving their early days.
+
+**Hatchling Release:** Once the eggs hatch, it’s time for the tiny turtles to make their
+way to the ocean. One of the most rewarding parts of your volunteer experience
+will be helping these hatchlings take their first steps toward the sea. By
+releasing them safely into the wild, you’re giving them a better chance of
+survival.
+
+**Rescue and Rehabilitation:** Sea turtles often fall victim to fishing nets, plastic
+pollution, and boat strikes. You’ll help care for injured turtles, providing
+them with the necessary treatment and support to recover. Once they’re fit to
+return to the wild, you’ll be part of the team that releases them back into the
+ocean.
+
+**Education and Awareness:** Beyond physical conservation efforts, raising awareness is a
+critical part of protecting sea turtles. As a volunteer marine biologist,
+you’ll help organize educational programs for local communities, including
+schools and fishermen. By teaching the importance of turtle conservation,
+you’ll empower others to join the cause and help preserve these remarkable
+creatures.
