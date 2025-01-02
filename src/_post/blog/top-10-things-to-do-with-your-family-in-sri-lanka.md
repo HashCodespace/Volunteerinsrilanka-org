@@ -107,4 +107,4 @@ While exploring this breathtaking island, you can also give back to the local co
 For just USD 180 per week, enjoy comfortable ensuite accommodation with air conditioning at Rumassala, along with daily breakfast and dinner. Volunteering as a family not only deepens your
 cultural experience but also creates lifelong memories of making a difference together.
 
-Turn your family vacation into a meaningful experience by volunteering with [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/volunteering-fee/).
+Turn your family vacation into a meaningful experience by volunteering with [Volunteer in Sri Lanka.](https://volunteerinsrilanka.org/volunteering-fee/)
