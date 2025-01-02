@@ -52,3 +52,15 @@ family. Known as the Lion’s Rock, Sigiriya is an ancient rock fortress that
 rises 200m above the surrounding plains. The climb to the top is an adventure,
 with frescoes, a mirror wall, and breathtaking views. Kids will love the
 challenge and adults will be fascinated by the history of Sigiriya.
+
+![Southern Beaches](/assets/img/family-in-sri-lanka-4.jpg)
+
+#### Relax at Southern Beaches
+
+Sri Lanka’s south coast is studded
+with beautiful beaches perfect for family relaxation and adventure. Bentota,
+Unawatuna, and Mirissa have golden sands and clear waters for swimming,
+sunbathing, and building sandcastles. For families looking for more adventure,
+the region has water sports like jet skiing, windsurfing, and parasailing.
+Snorkeling and diving around the coral reefs will let the whole family explore
+the marine life of Sri Lanka.
