@@ -64,3 +64,23 @@ sunbathing, and building sandcastles. For families looking for more adventure,
 the region has water sports like jet skiing, windsurfing, and parasailing.
 Snorkeling and diving around the coral reefs will let the whole family explore
 the marine life of Sri Lanka.
+
+
+
+![Train Ride to Ella and Nuwara Eliya](/assets/img/family-in-sri-lanka-8.jpg)
+
+#### Take the Scenic Train Ride to Ella and Nuwara Eliya
+
+One of the most beautiful train rides in the world is in Sri Lanka. The train from Kandy to Ella or Nuwara Eliya takes you through tea plantations, misty mountains, and villages. The view from the windows is breathtaking and it’s a great way to enjoy Sri Lanka’s scenery. This experience is perfect for families, offering both a relaxing journey and an opportunity to marvel at the stunning landscape.
+
+#### Go Whale Watching in Mirissa
+
+Mirissa, a lovely beach town on the south coast, is famous for whale watching from November to April. A boat trip from Mirissa Beach will give you the chance to see blue whales, sperm whales, and dolphins in their natural habitat. Whale watching is a great experience for families especially kids who will be amazed to see these massive marine mammals breaching the water.
+
+
+
+![Visit a Turtle Hatchery](/assets/img/family-in-sri-lanka-6.jpg)
+
+#### Visit a Turtle Hatchery
+
+Sri Lanka’s beaches have several species of sea turtles and a visit to a turtle hatchery is a great educational experience for the whole family. Places like the Sea Turtle Farm and Hatchery Koggala are focused on the conservation of endangered turtles. Kids will love to see baby turtles being released to the ocean and it’s a great opportunity to learn about the conservation efforts to protect these lovely creatures.
