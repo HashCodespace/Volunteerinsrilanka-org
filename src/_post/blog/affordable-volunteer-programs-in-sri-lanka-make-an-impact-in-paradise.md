@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Affordable Volunteer Programs in Sri Lanka: Make an Impact in Paradise"
 description: Sri Lanka, with its rich culture and natural beauty, offers
   affordable volunteer opportunities that allow travelers to make a meaningful
@@ -8,7 +9,6 @@ featuredImage: /assets/img/mahendra-photo-july-new.jpg
 featuredImageAlt: .
 featured: false
 author: Volunteer in Sri Lanka Team
-draft: false
 timeToRead: 7
 og:
   twitterCard: summary
@@ -24,7 +24,7 @@ Sri Lanka’s affordability is one of its biggest draws. Here, your volunteer fe
 
 ## The Most Affordable Volunteer Programs in Sri Lanka
 
-At [Volunteer in Sri Lanka,](https://volunteerinsrilanka.org/about-us/)  our mission is to connect passionate individuals like you with impactful yet affordable [volunteer programs in Sri Lanka](https://volunteerinsrilanka.org/volunteer-programs/). Each of our programs caters to different interests and skills, so you can find the perfect fit for your passions. Our team of dedicated professionals will support you from start to finish, from pre-trip orientation to in-country guidance, so you feel at home as you embark on this transformative journey.
+At [Volunteer in Sri Lanka,](https://volunteerinsrilanka.org/about-us/)  Our mission is to connect passionate individuals like you with impactful yet affordable [Volunteer programs in Sri Lanka.](https://volunteerinsrilanka.org/volunteer-programs/) Each of our programs caters to different interests and skills, so you can find the perfect fit for your passions. Our team of dedicated professionals will support you from start to finish, from pre-trip orientation to in-country guidance, so you feel at home as you embark on this transformative journey.
 
 Here’s a closer look at some of the rewarding ways you can make a difference in Sri Lanka:
 
@@ -66,7 +66,7 @@ Our local volunteer programs are designed to be accessible to all, with fees tha
 
 #### How to Join Affordable Volunteer Programs in Sri Lanka?
 
-Volunteering in Sri Lanka is open to everyone. Simply visit our website to explore affordable [volunteer programs in Sri Lanka](https://volunteerinsrilanka.org/volunteer-programs/) that align with your passions, apply, and begin preparing for the journey of a lifetime. When you arrive, you’ll be welcomed into a warm community where you’ll quickly feel like part of the family.
+Volunteering in Sri Lanka is open to everyone. Simply visit our website to explore affordable [volunteer programs in Sri Lanka](https://volunteerinsrilanka.org/volunteer-programs/) That align with your passions, apply, and begin preparing for the journey of a lifetime. When you arrive, you’ll be welcomed into a warm community where you’ll quickly feel like part of the family.
 
 #### Taking Back a Little of Sri Lanka
 
@@ -76,4 +76,4 @@ As a volunteer, you’ll return home not only with incredible memories but also 
 
 So if you’re looking for an impactful way to travel, consider participating in affordable [volunteer programs in Sri Lanka.](https://volunteerinsrilanka.org/volunteer-programs/) This offers a once-in-a-lifetime opportunity to make a difference, discover a vibrant culture, and create memories you’ll carry with you forever.
 
-[Contact us today](https://volunteerinsrilanka.org/contact-us/) to take the first step in making a difference!
+[Contact us today](https://volunteerinsrilanka.org/contact-us/) To take the first step in making a difference!
