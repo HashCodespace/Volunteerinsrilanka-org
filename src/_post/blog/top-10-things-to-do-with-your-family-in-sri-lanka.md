@@ -84,3 +84,38 @@ Mirissa, a lovely beach town on the south coast, is famous for whale watching fr
 #### Visit a Turtle Hatchery
 
 Sri Lanka’s beaches have several species of sea turtles and a visit to a turtle hatchery is a great educational experience for the whole family. Places like the Sea Turtle Farm and Hatchery Koggala are focused on the conservation of endangered turtles. Kids will love to see baby turtles being released to the ocean and it’s a great opportunity to learn about the conservation efforts to protect these lovely creatures.
+
+![Walk Through the Peradeniya Botanical Garden](/assets/img/family-in-sri-lanka-5.jpg)
+
+#### Walk Through the Peradeniya Botanical Garden
+
+Located near Kandy, Peradeniya Botanical Garden is one of the largest and most beautiful gardens in Sri Lanka. Families can take a leisurely walk along the well-maintained paths and see thousands of plant species including orchids, spices, and tall palm trees. The garden also has playful monkeys which will be a fun surprise for kids. With plenty of space and shaded areas, it’s a great spot for a family picnic.
+
+
+
+![Hike in Sinharaja Rainforest](/assets/img/family-in-sri-lanka-9.jpg)
+
+#### Hike in Sinharaja Rainforest
+
+Sinharaja Forest Reserve, a UNESCO World Heritage Site, is Sri Lanka’s last remaining tropical rainforest. It’s a great place for a family hike and see unique wildlife and plant species. Kids will love the biodiversity, colorful birds, butterflies, and rare plants. A guided trek through the forest will be an exciting way to learn about the ecological importance of this protected area.
+
+#### Cycle and Shop in Colombo
+
+For a mix of culture, shopping, and urban adventure head to Colombo, the capital of Sri Lanka. Families can rent bicycles and cycle through the city’s colonial architecture, bustling markets, and seafront. Visit the famous Pettah Market where you can buy local handicrafts, textiles, and souvenirs. After cycling through the streets stop by one of the many cafes or restaurants and enjoy Sri Lankan cuisine, the perfect ending to a day of fun.
+
+
+
+![South Beaches](/assets/img/family-in-sri-lanka-1.jpg)
+
+### Make a Difference as a Family: Volunteering in Sri Lanka
+
+
+Sri Lanka offers an exciting range of activities that cater to all ages. From thrilling safaris to cultural
+explorations and time spent by the beach, there’s no shortage of adventures waiting for you. 
+
+While exploring this breathtaking island, you can also give back to the local community by engaging in meaningful projects with [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/about-us/). Whether [teaching English to Buddhist monks](https://volunteerinsrilanka.org/volunteer-programs/teaching-english-to-buddhist-monks-in-sri-lanka-program/), [supporting turtle conservation](https://volunteerinsrilanka.org/volunteer-programs/turtle-conservation-volunteer-program-in-sri-lanka-galle/), or [helping children with special needs](https://volunteerinsrilanka.org/volunteer-programs/special-needs-care-volunteer-program-in-sri-lanka/), we have a [volunteer project ](https://volunteerinsrilanka.org/volunteer-programs/)that is suited to every interest.
+
+For just USD 180 per week, enjoy comfortable ensuite accommodation with air conditioning at Rumassala, along with daily breakfast and dinner. Volunteering as a family not only deepens your
+cultural experience but also creates lifelong memories of making a difference together.
+
+Turn your family vacation into a meaningful experience by volunteering with [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/volunteering-fee/).
