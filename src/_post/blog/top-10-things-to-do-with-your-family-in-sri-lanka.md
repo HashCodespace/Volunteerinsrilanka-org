@@ -40,8 +40,6 @@ visitors can watch them bathe in the river, feed them, and even get up close
 for some photos. It’s a heartwarming experience where kids can learn about
 animal conservation and wildlife protection.
 
-
-
 ![sigiriya fortress](/assets/img/family-tour-2.jpg)
 
 #### Climb the Lion King’s Fortress, Sigiriya
@@ -65,8 +63,6 @@ the region has water sports like jet skiing, windsurfing, and parasailing.
 Snorkeling and diving around the coral reefs will let the whole family explore
 the marine life of Sri Lanka.
 
-
-
 ![Train Ride to Ella and Nuwara Eliya](/assets/img/family-in-sri-lanka-8.jpg)
 
 #### Take the Scenic Train Ride to Ella and Nuwara Eliya
@@ -76,8 +72,6 @@ One of the most beautiful train rides in the world is in Sri Lanka. The train fr
 #### Go Whale Watching in Mirissa
 
 Mirissa, a lovely beach town on the south coast, is famous for whale watching from November to April. A boat trip from Mirissa Beach will give you the chance to see blue whales, sperm whales, and dolphins in their natural habitat. Whale watching is a great experience for families especially kids who will be amazed to see these massive marine mammals breaching the water.
-
-
 
 ![Visit a Turtle Hatchery](/assets/img/family-in-sri-lanka-6.jpg)
 
@@ -91,8 +85,6 @@ Sri Lanka’s beaches have several species of sea turtles and a visit to a turtl
 
 Located near Kandy, Peradeniya Botanical Garden is one of the largest and most beautiful gardens in Sri Lanka. Families can take a leisurely walk along the well-maintained paths and see thousands of plant species including orchids, spices, and tall palm trees. The garden also has playful monkeys which will be a fun surprise for kids. With plenty of space and shaded areas, it’s a great spot for a family picnic.
 
-
-
 ![Hike in Sinharaja Rainforest](/assets/img/family-in-sri-lanka-9.jpg)
 
 #### Hike in Sinharaja Rainforest
@@ -103,17 +95,14 @@ Sinharaja Forest Reserve, a UNESCO World Heritage Site, is Sri Lanka’s last re
 
 For a mix of culture, shopping, and urban adventure head to Colombo, the capital of Sri Lanka. Families can rent bicycles and cycle through the city’s colonial architecture, bustling markets, and seafront. Visit the famous Pettah Market where you can buy local handicrafts, textiles, and souvenirs. After cycling through the streets stop by one of the many cafes or restaurants and enjoy Sri Lankan cuisine, the perfect ending to a day of fun.
 
-
-
 ![South Beaches](/assets/img/family-in-sri-lanka-1.jpg)
 
 ### Make a Difference as a Family: Volunteering in Sri Lanka
 
-
 Sri Lanka offers an exciting range of activities that cater to all ages. From thrilling safaris to cultural
 explorations and time spent by the beach, there’s no shortage of adventures waiting for you. 
 
-While exploring this breathtaking island, you can also give back to the local community by engaging in meaningful projects with [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/about-us/). Whether [teaching English to Buddhist monks](https://volunteerinsrilanka.org/volunteer-programs/teaching-english-to-buddhist-monks-in-sri-lanka-program/), [supporting turtle conservation](https://volunteerinsrilanka.org/volunteer-programs/turtle-conservation-volunteer-program-in-sri-lanka-galle/), or [helping children with special needs](https://volunteerinsrilanka.org/volunteer-programs/special-needs-care-volunteer-program-in-sri-lanka/), we have a [volunteer project ](https://volunteerinsrilanka.org/volunteer-programs/)that is suited to every interest.
+While exploring this breathtaking island, you can also give back to the local community by engaging in meaningful projects with [Volunteer in Sri Lanka ](https://volunteerinsrilanka.org/about-us/) Whether [Teaching English to Buddhist monks](https://volunteerinsrilanka.org/volunteer-programs/teaching-english-to-buddhist-monks-in-sri-lanka-program/) [Supporting turtle conservation ](https://volunteerinsrilanka.org/volunteer-programs/turtle-conservation-volunteer-program-in-sri-lanka-galle/)Or [Helping children with special needs](https://volunteerinsrilanka.org/volunteer-programs/special-needs-care-volunteer-program-in-sri-lanka/) We have a [Volunteer project T](https://volunteerinsrilanka.org/volunteer-programs/)hat is suited to every interest.
 
 For just USD 180 per week, enjoy comfortable ensuite accommodation with air conditioning at Rumassala, along with daily breakfast and dinner. Volunteering as a family not only deepens your
 cultural experience but also creates lifelong memories of making a difference together.
