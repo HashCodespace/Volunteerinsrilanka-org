@@ -73,11 +73,7 @@ Not only will you contribute to important conservation
 efforts, but you’ll also gain practical experience in marine biology, research,
 and fieldwork, enhancing your skills in real-world environments.
 
-
-
 ![Turtle Conservation in Galle](/assets/img/marine-4.jpg)
-
-
 
 ### Turtle Conservation in Galle, Sri Lanka: Your Chance to Make a Difference
 
@@ -85,11 +81,9 @@ If you're a marine biologist passionate about marine
 conservation, there’s no better place to immerse yourself than Galle, Sri
 Lanka. The southern coast of this tropical paradise is home to several crucial
 turtle nesting sites, and you can be part of the team working to protect these
-endangered creatures. Our [turtle conservation project](https://volunteerinsrilanka.org/volunteer-programs/turtle-conservation-volunteer-program-in-sri-lanka-galle/) offers a unique,
+endangered creatures. Our [Turtle conservation project](https://volunteerinsrilanka.org/volunteer-programs/turtle-conservation-volunteer-program-in-sri-lanka-galle/) Offers a unique,
 hands-on experience where your efforts directly contribute to the survival of
 sea turtles in Sri Lanka's beautiful coastal ecosystems.
-
-
 
 ![Turtle Conservation](/assets/img/marine-3.jpg)
 
@@ -125,12 +119,11 @@ schools and fishermen. By teaching the importance of turtle conservation,
 you’ll empower others to join the cause and help preserve these remarkable
 creatures.
 
-
 ## Experience Sri Lanka’s Marine Life
 
 While you’re working on marine conservation, you’ll also have the chance to participate in a variety of activities that will enhance your volunteer experience as a marine biologist:
 
-##### **[](<>)Whale Watching**
+##### [](<>)**Whale Watching**
 
 Sri Lanka is one of the best places in the world to
 witness the grandeur of whales. The waters off Mirissa, on the southern coast,
@@ -139,7 +132,7 @@ sperm whales and a variety of dolphin species. By joining whale-watching tours,
 you’ll learn about marine mammal behavior and conservation while observing
 these majestic creatures.
 
-##### **[](<>)Scuba Diving and Snorkeling**
+##### [](<>)**Scuba Diving and Snorkeling**
 
 Sri Lanka is a diver’s paradise. The country’s
 crystal-clear waters and vibrant coral reefs provide the perfect backdrop for
@@ -156,9 +149,6 @@ wildlife as you go. Marine sports, such as surfing, stand-up paddle boarding,
 and even snorkeling provide a great way to relax and appreciate the beauty of
 Sri Lanka’s waters.
 
-
-
-
 ## Book Your Volunteer Project Today!
 
 If you’re ready to dive into a rewarding and impactful
@@ -167,7 +157,6 @@ in Sri Lanka](https://volunteerinsrilanka.org/about-us/) We offer everything you
 experience, including comfortable accommodation in a single ensuite room with
 air conditioning at Rumassala, meals (breakfast and dinner), and expert
 guidance. All this is for just USD 180 per week.
-
 
 Take the plunge and make a difference while
 experiencing the natural beauty of Sri Lanka. [Book your volunteer project](https://volunteerinsrilanka.org/volunteer-programs/) Today and help
