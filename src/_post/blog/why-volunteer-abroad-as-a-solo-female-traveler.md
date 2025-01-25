@@ -1,8 +1,8 @@
 ---
 title: Why Volunteer Abroad as a Solo Female Traveler?
-description: Volunteering abroad as a solo female traveler in Sri Lanka offers a
-  unique blend of cultural immersion, personal growth, and the chance to make a
-  meaningful impact in a safe and welcoming environment. Here's how.
+description: "Volunteering abroad as a solo female traveler in Sri Lanka offers
+  a unique blend of cultural immersion, personal growth, and the chance to make
+  a meaningful impact in a safe and welcoming environment. "
 date: 2025-01-25T22:20:00.000Z
 featuredImage: /assets/img/7.jpg
 featuredImageAlt: Volunteer in Sri Lanka
