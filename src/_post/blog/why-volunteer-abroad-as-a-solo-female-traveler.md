@@ -36,7 +36,7 @@ Women around the world are embracing solo travel like never before. Studies show
 
 For solo female travelers, safety and cultural sensitivity are key considerations when choosing a destination. Fortunately, Sri Lanka excels in both areas, offering a warm, welcoming environment where women can feel at ease while making a difference.
 
-![](/assets/img/6.jpg)
+![](/assets/img/solo.jpg)
 
 ## Sri Lanka: A Dream Destination for Solo Female Travelers
 
