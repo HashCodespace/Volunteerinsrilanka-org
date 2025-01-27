@@ -128,7 +128,7 @@ Combine wellness with service in our Yoga Volunteer Program. Practice yoga while
 
 Traveling solo as a female may come with challenges, but with the right preparation and support, these can be easily navigated for a safe and enriching journey.
 
-* Start by choosing reputable organizations like [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/about-us/), which offer structured programs and round-the-clock support to ensure your comfort. 
+* Start by choosing reputable organizations like Volunteer in Sri Lanka, that offer structured programs and round-the-clock support to ensure your comfort. 
 * Stay connected with loved ones by carrying a reliable mobile device for navigation and updates. 
 * Most importantly, trust your instincts; if something feels off, prioritize your safety and don’t hesitate to make adjustments.·  
 
