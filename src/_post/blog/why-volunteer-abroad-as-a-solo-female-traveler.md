@@ -96,7 +96,9 @@ Through volunteering, you’ll meet like-minded individuals from around the worl
 
 ## Volunteer Programs in Sri Lanka for Solo Travelers
 
-At [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/about-us/), we’re proud to offer diverse programs tailored to solo travelers. Here are some of the most popular [volunteer opportunities in Sri Lanka](https://volunteerinsrilanka.org/volunteer-programs/):
+At [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/about-us/), we’re proud to offer diverse programs tailored to solo travelers. 
+
+Here are some of the most popular [volunteer opportunities in Sri Lanka](https://volunteerinsrilanka.org/volunteer-programs/):
 
 ### [Turtle Conservation Program](https://volunteerinsrilanka.org/volunteer-programs/turtle-conservation-volunteer-program-in-sri-lanka-galle/)
 
@@ -136,7 +138,9 @@ Traveling solo as a female may come with challenges, but with the right preparat
 
 ## Getting Started with Volunteering in Sri Lanka 
 
-Joining a volunteer program in Sri Lanka is easy with [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/about-us/). Our programs include an affordable weekly rate of USD 180, which covers a single-room accommodation with air conditioning, breakfast and dinner, and airport pickup for those volunteering for more than one month. 
+Joining a volunteer program in Sri Lanka is easy with [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/about-us/). 
+
+Our programs include an affordable weekly rate of USD 180, which covers a single-room accommodation with air conditioning, breakfast and dinner, and airport pickup for those volunteering for more than one month. 
 
 You’ll receive guidance throughout your stay, ensuring a smooth and fulfilling experience. 
 
