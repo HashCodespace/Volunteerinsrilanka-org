@@ -59,27 +59,25 @@ Safety is a top priority for senior travelers, and Sri Lanka delivers on this fr
 
 Healthcare is an important consideration for senior travelers, and Sri Lanka offers excellent medical services. Here, you’ll find modern hospitals and clinics, particularly in cities like Colombo and Galle, and many healthcare providers speak English. Medical services are affordable compared to Western standards, so whether you need routine care or emergency assistance, you can rest easy knowing help is readily available.
 
- 
-
 ## Volunteer in Sri Lanka: How to Get Started?
 
-At [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/about-us/), we believe that age is just a number when it comes to making a difference. Our [volunteer programs](https://volunteerinsrilanka.org/volunteer-programs/) are designed to connect travelers of all ages—especially senior volunteers—with meaningful and impactful opportunities that align with their skills, interests, and pace of life. Whether you’re a retiree looking to give back, a lifelong learner eager to explore new cultures, or simply someone who wants to make a lasting impact, we have the perfect program for you.
+At [Volunteer in Sri Lanka](https://volunteerinsrilanka.org/about-us/), we believe that age is just a number when it comes to making a difference. 
 
-
+Our [volunteer programs](https://volunteerinsrilanka.org/volunteer-programs/) are designed to connect travelers of all ages—especially senior volunteers—with meaningful and impactful opportunities that align with their skills, interests, and pace of life. Whether you’re a retiree looking to give back, a lifelong learner eager to explore new cultures, or simply someone who wants to make a lasting impact, we have the perfect program for you.
 
 ## The Best Volunteer Programs for Senior Travelers
 
 ![](/assets/img/b6.jpg)
 
-Our [senior citizens volunteer program](https://volunteerinsrilanka.org/volunteer-programs/senior-citizens-volunteer-program-in-sri-lanka/) is specially designed for senior volunteers to engage in teaching, conservation, and community support, making a lasting difference.
+Our senior citizens volunteer program is specially designed for senior volunteers to engage in teaching, conservation, and community support, making a lasting difference.
 
-Help young children in Unawatuna and Galle develop essential skills in [Kindergarten](https://volunteerinsrilanka.org/volunteer-programs/kindergarten-teaching-volunteer-program-in-sri-lanka/), [teach English to Buddhist monks](https://volunteerinsrilanka.org/volunteer-programs/teaching-english-to-buddhist-monks-in-sri-lanka-program/), enhancing their educational prospects or work alongside caregivers to provide emotional and practical support to [children and adults with disabilities](https://volunteerinsrilanka.org/volunteer-programs/special-needs-care-volunteer-program-in-sri-lanka/).
+Help young children in Unawatuna and Galle develop essential skills in Kindergarten, teach english to buddhist monks, enhancing their educational prospects or work alongside caregivers to provide emotional and practical support to children and adults with disabilities.
 
-[Protect endangered sea turtles](https://volunteerinsrilanka.org/volunteer-programs/turtle-conservation-volunteer-program-in-sri-lanka-galle/) by monitoring nesting sites, caring for injured turtles, and releasing hatchlings into the ocean. For a holistic experience, join our [yoga volunteer program](https://volunteerinsrilanka.org/volunteer-programs/yoga-volunteer-program-in-sri-lanka/), combining wellness with service.
+Protect endangered sea turtles by monitoring nesting sites, caring for injured turtles, and releasing hatchlings into the ocean. For a holistic experience, join our yoga volunteer program, combining wellness with service. 
+
+Check out our [Senior Citizens Volunteer Program](https://volunteerinsrilanka.org/volunteer-programs/senior-citizens-volunteer-program-in-sri-lanka/)
 
 ![](/assets/img/b7.jpg)
-
- 
 
 ## Why Choose Volunteer in Sri Lanka?
 
@@ -90,8 +88,6 @@ Help young children in Unawatuna and Galle develop essential skills in [Kinderga
 **Affordable Fees**: Starting at just $180 per week, our fees cover accommodation, meals, and ongoing support, so you can focus on making a difference without worrying about hidden costs.
 
 **Tailored to Your Pace**: Our flexible programs allow you to volunteer full-time or combine your work with leisurely exploration. We’ll help you create a schedule that suits your preferences.
-
-
 
 ## Hear from Other Senior Volunteers
 
