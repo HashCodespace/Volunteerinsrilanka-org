@@ -4,7 +4,7 @@ description: "Volunteering abroad as a solo female traveler in Sri Lanka offers
   a unique blend of cultural immersion, personal growth, and the chance to make
   a meaningful impact in a safe and welcoming environment. "
 date: 2025-01-25T22:20:00.000Z
-featuredImage: /assets/img/c1.jpg
+featuredImage: /assets/img/ci1.jpg
 featuredImageAlt: Volunteer in Sri Lanka
 featured: false
 author: Volunteer in Sri Lanka
