@@ -3,7 +3,7 @@ title: Best Volunteering Projects in Sri Lanka for Marine Biologists
 description: Here’s how you can experience Sri Lanka’s marine life first-hand
   while making a tangible impact on the health of its oceans.
 date: 2024-12-30T02:04:00.000Z
-featuredImage: /assets/img/best-volunteering-volunteer-sri-lanka-img1.jpg
+featuredImage: /assets/img/volunteering-projects-in-sri-lanka-for-marine-biologists.jpg
 featuredImageAlt: Volunteers in Sri Lanka
 featured: false
 author: Volunteers in Sri Lanka
