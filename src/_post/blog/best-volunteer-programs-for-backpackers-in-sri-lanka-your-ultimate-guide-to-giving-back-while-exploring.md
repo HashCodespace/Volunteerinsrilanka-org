@@ -25,9 +25,7 @@ If you're a backpacker with a thirst for adventure and a heart for giving back, 
 
 At Volunteer in Sri Lanka, we connect budget-conscious travelers with real, meaningful programs that go beyond the tourist trail. Whether you’re on a gap year, taking a career break, or exploring Asia solo, our programs are designed for people like you—adventurous, mindful, and eager to give back.
 
- 
-
-![](/assets/img/backpacker-volunteer-programs-2.png)
+![](/assets/img/volunteer-backpacker-2.jpg)
 
 ## Our Top Volunteer Programs for Backpackers
 
@@ -37,7 +35,7 @@ Ready to swap hostels for homestays and parties for purpose? Here are our most p
 
 This is the dream volunteer gig for ocean lovers and aspiring marine biologists. You'll work hands-on at turtle hatcheries helping protect endangered sea turtles. From monitoring nesting sites to releasing hatchlings into the ocean and cleaning up beaches—your days will be filled with sun, sea, and sustainability.
 
-![](/assets/img/backpacker-volunteer-programs-5.png)
+![](/assets/img/volunteer-backpacker-6.jpg)
 
 ### [Kindergarten Teaching Program](https://volunteerinsrilanka.org/volunteer-programs/kindergarten-teaching-volunteer-program-in-sri-lanka/)
 
@@ -47,7 +45,7 @@ Love kids and want to give something back to the next generation? Volunteer in l
 
 This truly unique program lets you step inside quiet temple grounds and engage with young Buddhist monks eager to learn English. In return, you’ll get rare insight into Buddhist culture and monastic life.
 
-![](/assets/img/backpacker-volunteer-programs-4.png)
+![](/assets/img/volunteer-backpacker-4.jpg)
 
 ### [Volunteer Program for Senior Citizens](https://volunteerinsrilanka.org/volunteer-programs/senior-citizens-volunteer-program-in-sri-lanka/)
 
@@ -61,9 +59,7 @@ Want to make a personal and lasting impact? Help support children and adults wit
 
 Support local students and adults by teaching them English—a skill that opens up life-changing opportunities. You’ll assist in planning lessons, running conversation classes, and organizing fun extracurriculars. No formal teaching background needed—we provide full support and orientation.
 
-![](/assets/img/backpacker-volunteer-programs-6.png)
-
- 
+![](/assets/img/volunteer-backpacker-5.jpg)
 
 ## Why Backpackers Love Volunteering with Us
 
@@ -89,9 +85,7 @@ You’re never left on your own. From airport pick-up (for longer stays over 4 w
 
 Volunteering with us means you’re not just passing through. You become part of the community, living and working alongside locals and other volunteers from around the world. This creates authentic cultural exchange and lifelong friendships.
 
- 
-
-![](/assets/img/backpacker-volunteer-programs-3.png)
+![](/assets/img/volunteer-backpacker-3.jpg)
 
 ## Safety and Culture: What Backpackers Should Know
 
@@ -99,7 +93,7 @@ Sri Lanka is ranked by TimeOut.com as the #1 destination for solo female travele
 
 You’ll also learn about local customs, dress codes, and cultural etiquette during your orientation, so you feel confident and respectful while living in the community.
 
- 
+
 
 ## Why Choose Volunteer in Sri Lanka?
 
@@ -107,9 +101,7 @@ At Volunteer in Sri Lanka, we’re not a big international organization with coo
 
 Whether you're traveling solo or with a group of friends, our volunteer programs let you explore Sri Lanka from the inside out—meeting locals, sharing stories, and becoming part of something bigger than yourself.
 
-![](/assets/img/backpacker-volunteer-programs-7.png)
-
- 
+![](/assets/img/volunteer-backpacker-7.jpg)
 
 ## How to Get Started with Your Backpacking Volunteering Journey
 
@@ -119,7 +111,7 @@ Whether you're traveling solo or with a group of friends, our volunteer programs
 4. **Arrive in Sri Lanka** and join our warm orientation — meet fellow volunteers and get ready for your adventure.
 5. **Make an Impact** while exploring the rich heritage, natural beauty, and vibrant life of Sri Lanka.
 
- 
+
 
 ## Start Your Backpacking Journey with Purpose
 
