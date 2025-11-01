@@ -24,15 +24,11 @@ Volunteering in Sri Lanka lets you go beyond sightseeing and connect with the he
 
 At Volunteer in Sri Lanka, we connect passionate travelers with meaningful projects that create lasting change while offering an unforgettable cultural experience.
 
- 
-
 ## What Makes Volunteering in Sri Lanka Special?
 
 Sri Lanka’s southern coast — where most of our programs are based — is a vibrant mix of rural villages, coastal communities, and wildlife reserves. Volunteering here means immersing yourself in daily Sri Lankan life: sharing smiles, learning traditions, and seeing firsthand how your contribution impacts others.
 
 It’s not just travel. It’s a transformation — for you and the community.
-
- 
 
 ## Who Is Volunteer in Sri Lanka?
 
@@ -42,8 +38,6 @@ We’re a local organization dedicated to sustainable volunteer opportunities th
 2. Give volunteers a fulfilling, authentic, and affordable experience.
 
 By joining our programs, you become part of a global network of like-minded changemakers working towards a better Sri Lanka.
-
- 
 
 ## What are the Best Volunteer Programs in Sri Lanka?
 
@@ -63,7 +57,7 @@ Ideal for retirees and experienced professionals who want to give back. Support 
 
 Work alongside caregivers to assist children and adults with disabilities. You’ll help with daily care, organize creative activities, and support therapy sessions.
 
-### [Teaching English to Buddhist Monks](https://volunteerinsrilanka.org/volunteer-programs/teaching-english-to-buddhist-monks-in-sri-lanka-program/)**[**
+### [Teaching English to Buddhist Monks](https://volunteerinsrilanka.org/volunteer-programs/teaching-english-to-buddhist-monks-in-sri-lanka-program/)
 
 Teach conversational English to young monks in temple schools. It’s a peaceful and rewarding experience that opens new learning doors for them.
 
@@ -77,15 +71,11 @@ Lead English lessons for local children and adults to enhance communication skil
 
 ![](/assets/img/why-volunteer-in-sri-lanka-5.jpg)
 
- 
-
 ## Do I Need Qualifications or Experience to Volunteer in Sri Lanka?
 
 No — most programs require no formal qualifications. Whether you’re a student, gap-year traveler, working professional, or retiree, we welcome everyone.
 
 Our team provides full orientation, guidance, and ongoing support to help you make the most of your experience.
-
- 
 
 ## How Much Does It Cost to Volunteer in Sri Lanka?
 
@@ -106,8 +96,6 @@ We believe volunteering should be affordable and transparent. Our standard progr
 6 Weeks: $1080
 
 Each Additional Week: $180
-
- 
 
 ## Why Do I Need to Pay to Volunteer in Sri Lanka?
 
@@ -133,8 +121,6 @@ Unlike many international programs, Volunteer in Sri Lanka is locally owned, mea
 
 ![](/assets/img/why-volunteer-in-sri-lanka-6.jpg)
 
- 
-
 ## Is Accommodation Safe and Comfortable in Sri Lanka?
 
 Absolutely. Our volunteer house in Unwatuna, Galle, is just minutes away from the famous Galle Fort. It’s quiet, scenic, and ideal for relaxation after a fulfilling day.
@@ -144,8 +130,6 @@ You’ll have your own air-conditioned room, with meals and Wi-Fi provided.
 We’re also renovating our new volunteer accommodations to offer even more comfort and convenience soon.
 
 ![](/assets/img/why-volunteer-in-sri-lanka-3.jpg)
-
- 
 
 ## Is Volunteering in Sri Lanka Safe?
 
@@ -161,8 +145,6 @@ At Volunteer in Sri Lanka, your safety is our priority:
 
 We’ve proudly hosted volunteers from the UK, Netherlands, Poland, Switzerland, and Germany — all of whom describe their experience as safe, enriching, and life-changing.
 
- 
-
 ## How Can I Find a Trustworthy Volunteer Organization in Asia?
 
 Look for transparency, local ownership, and genuine community partnerships.
@@ -170,8 +152,6 @@ Look for transparency, local ownership, and genuine community partnerships.
 Volunteer in Sri Lanka ticks all these boxes. With over 20 years of hospitality and volunteer management experience, we operate directly in Sri Lanka — no intermediaries, no inflated prices.
 
 Your fee supports local initiatives in education, conservation, and healthcare, ensuring every project creates long-term, ethical impact.
-
- 
 
 ## What Should I Know About Sri Lankan Culture When Volunteering?
 
@@ -185,8 +165,6 @@ Sri Lankans are known for their warmth, respect, and generosity.
 Don’t worry — our team will brief you during orientation so you feel comfortable and confident from day one.
 
 ![](/assets/img/why-volunteer-in-sri-lanka-2.jpg)
-
- 
 
 ## What Should I Pack for Volunteering in Sri Lanka?
 
@@ -202,8 +180,6 @@ Sri Lanka’s tropical weather means light, breathable clothing works best.
 * Rain jacket (for monsoon months)
 * Personal medication
 
- 
-
 ## How Can I Apply to Volunteer in Sri Lanka?
 
 It’s simple!
@@ -215,8 +191,6 @@ Apply Now:
 <https://volunteerinsrilanka.org/apply-now/>
 
 Once approved, we’ll guide you through every step — from packing tips and travel prep to in-country orientation. You’ll join a global community of volunteers making a real impact.
-
- 
 
 ## Why Start Your Volunteering Journey in Sri Lanka?
 
