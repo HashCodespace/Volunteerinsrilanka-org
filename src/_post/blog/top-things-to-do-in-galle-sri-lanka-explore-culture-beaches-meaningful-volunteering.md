@@ -17,7 +17,7 @@ categories:
 timeToRead: 9
 og:
   twitterCard: summary_large_image
-  title: "   Top Things to Do in Galle, Sri Lanka | Volunteer in Sri Lanka"
+  title: Top Things to Do in Galle, Sri Lanka | Volunteer in Sri Lanka
   description: Discover top things to do in Galle, from beaches to culture and
     volunteering. Make your trip meaningful—join our community programs today.
 ---
