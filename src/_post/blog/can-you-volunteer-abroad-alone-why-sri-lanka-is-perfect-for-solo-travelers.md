@@ -25,8 +25,6 @@ Stepping onto a plane alone in a completely unfamiliar country can feel intimida
 
 If you are considering volunteering abroad alone for the first time, Sri Lanka is one of the best places to start. With its welcoming culture, affordable lifestyle, beautiful landscapes, and strong sense of community, the country has become increasingly popular among solo travelers looking for both adventure and purpose.
 
-
-
 ## Why Sri Lanka Is Ideal for Solo Travelers
 
 Sri Lanka offers a balance that many solo travelers look for. It feels adventurous and culturally rich without being overwhelming.
@@ -45,8 +43,6 @@ Affordability is another major advantage. Accommodation, local transport, food, 
 
 ![](/assets/img/volunteer-abroad-alone-sri-lanka-5.png)
 
-
-
 ## Why Volunteering Feels Safer Than Solo Backpacking
 
 One reason many people choose volunteering instead of independent backpacking is the added structure and support.
@@ -61,9 +57,7 @@ At Volunteer in Sri Lanka, volunteers receive orientation support, accommodation
 
 Being part of a local volunteer community also adds another layer of comfort. You can explore Sri Lanka with fellow volunteers during weekends, share transport, and experience the country together rather than navigating everything entirely alone.
 
-![](/assets/img/volunteer-abroad-alone-sri-lanka-7.png)
-
-
+![](/assets/img/volunteer-abroad-alone-sri-lanka-2.png)
 
 ## Best Volunteer Programs for Solo Travelers in Sri Lanka
 
@@ -91,8 +85,6 @@ Volunteers support children and adults with disabilities through educational and
 
 ![](/assets/img/volunteer-abroad-alone-sri-lanka-6.png)
 
-
-
 ## What Life Is Like Outside the Program
 
 One of the best parts of volunteering in Sri Lanka is how easy it is to combine meaningful work with travel experiences.
@@ -108,8 +100,6 @@ Sri Lanka is also famous for wildlife safaris, scenic train rides, and cultural 
 Southern Sri Lanka has a welcoming and social environment that makes it easy for solo travelers to settle in. Beach cafes, yoga classes, local markets, and group excursions create plenty of opportunities to connect with people while still enjoying your independence.
 
 ![](/assets/img/volunteer-abroad-alone-sri-lanka-4.png)
-
-
 
 ## Tips for Volunteering Abroad Alone
 
@@ -127,8 +117,6 @@ Pack light, dress modestly in rural areas and temples, and learn a few local cus
 
 Keep digital copies of important documents, use reliable transport options, and stay in touch with family or friends during your travels.
 
-
-
 ## Why Choose Volunteer in Sri Lanka?
 
 Volunteer in Sri Lanka is a fully local organization focused on affordable, ethical, and community-based volunteering experiences.
@@ -144,8 +132,6 @@ Because we directly manage our projects and accommodations, volunteers receive g
 Whether you are taking your first solo trip or looking for a meaningful new adventure, our team is here to help you feel supported, safe, and connected from the moment you arrive.
 
 ![](/assets/img/volunteer-abroad-alone-sri-lanka-7.png)
-
-
 
 ## Start Your Solo Volunteer Journey
 
